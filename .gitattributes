@@ -1,0 +1,6 @@
+# Preserve derived artifacts byte-for-byte so MANIFEST hashes survive checkouts
+# and GitHub/Zenodo release archives, including their original line endings.
+02-analysis/*.csv -text
+02-analysis/*.json -text
+02-analysis/*.parquet -text
+03-drafts/figures/*.png -text

@@ -19,6 +19,12 @@ The folder mirrors the original project, so the scripts run unmodified (each scr
 | `MANIFEST.sha256` | SHA-256 hashes of the shipped derived files and of the raw 2013–2024 input files used. |
 | `run_all.py` | One-command reproduction. |
 
+## Archive integrity
+
+`MANIFEST.sha256` records the exact bytes of the shipped derived outputs. `.gitattributes` disables line-ending conversion for these artifacts so their hashes remain valid in Windows checkouts and release ZIPs.
+
+The version 1.0.1 release ZIP converted CRLF to LF in 17 derived CSV/JSON files. Their numerical contents are unchanged, but their manifest hashes do not match that ZIP. Version 1.0.2 restores the original, verified bytes without changing any values, analysis code, or figures.
+
 ## Pipeline
 
 | Step | Script | Needs | Produces | Paper output |
@@ -58,7 +64,7 @@ Original run: Python 3.13, Windows 11. Learners use `random_state=0`; NumPy is s
 
 ## Citation
 
-Cite the paper and this archive: `[Zenodo DOI — added on first release]`. See `CITATION.cff`.
+Cite the paper and the archived replication package: https://doi.org/10.5281/zenodo.23660550 (all versions). See `CITATION.cff`.
 
 ## Licence
 
