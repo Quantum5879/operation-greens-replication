@@ -1,0 +1,13 @@
+# Versions of the original run (Python 3.13); newer minor versions should work.
+pandas>=2.3
+numpy>=2.0
+scipy>=1.14
+scikit-learn>=1.6
+lightgbm>=4.6
+econml>=0.16
+statsmodels>=0.14
+ruptures>=1.1.10
+matplotlib>=3.10
+seaborn>=0.13
+geopandas>=1.0
+pyarrow>=17.0

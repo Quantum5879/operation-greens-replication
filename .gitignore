@@ -1,0 +1,5 @@
+01-data/archive*/
+01-data/geo/
+__pycache__/
+.venv/
+*.pyc

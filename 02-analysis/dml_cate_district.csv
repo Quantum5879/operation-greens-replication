@@ -1,0 +1,2842 @@
+crop,State,District,cate_mean,n_obs
+Bhindi,Andaman and Nicobar,Nicobar,1.0588988802905954,17
+Bhindi,Andaman and Nicobar,North and Middle Andaman,4.645684916505641,10
+Bhindi,Andaman and Nicobar,South Andaman,1.832144737203521,7
+Bhindi,Andhra Pradesh,Chittor,2.2842871257180417,44
+Bhindi,Andhra Pradesh,Krishna,1.9268695728822258,51
+Bhindi,Andhra Pradesh,Prakasam,2.9905651375306728,26
+Bhindi,Andhra Pradesh,West Godavari,1.7670232824577683,44
+Bhindi,Assam,Barpeta,-5.653931637468645,3
+Bhindi,Assam,Cachar,-3.161714698300822,3
+Bhindi,Assam,Darrang,0.9363154266359376,60
+Bhindi,Assam,Goalpara,-3.537812772223194,3
+Bhindi,Assam,Golaghat,-3.201037945386523,26
+Bhindi,Assam,Jorhat,4.734639837178844,5
+Bhindi,Assam,Kamrup,2.2329261190234444,9
+Bhindi,Assam,Karbi Anglong,-3.537812772223194,6
+Bhindi,Assam,Kokrajhar,-6.0129278526719645,1
+Bhindi,Assam,Nagaon,-5.185895479499129,11
+Bhindi,Assam,Nalbari,-3.161714698300822,3
+Bhindi,Assam,Sibsagar,-3.777137810276239,4
+Bhindi,Assam,Sonitpur,2.826650667338148,11
+Bhindi,Bihar,Araria,-4.594840486723943,19
+Bhindi,Bihar,Aurangabad,4.734016472496753,10
+Bhindi,Bihar,Banka,-5.3794974893558845,6
+Bhindi,Bihar,Begusarai,0.23408256416885537,20
+Bhindi,Bihar,Bhagalpur,0.38433290095017014,39
+Bhindi,Bihar,Buxar,-0.5534089660066117,16
+Bhindi,Bihar,Darbhanga,-6.914500597242707,2
+Bhindi,Bihar,East Champaran/ Motihari,-0.13957507685161374,23
+Bhindi,Bihar,Gaya,-0.33895556440151925,18
+Bhindi,Bihar,Gopalgang,1.2076953487333895,5
+Bhindi,Bihar,Jamui,-3.6366782943899167,8
+Bhindi,Bihar,Jehanabad,6.6412699330009275,3
+Bhindi,Bihar,Kaimur/Bhabhua,-0.7617945397384233,20
+Bhindi,Bihar,Kaithar,0.6919778758809905,8
+Bhindi,Bihar,Khagaria,1.3869335961222287,12
+Bhindi,Bihar,Kishanganj,2.7723461844853454,18
+Bhindi,Bihar,Madhepura,-0.17604595016011557,24
+Bhindi,Bihar,Madhubani,-0.939572730809386,25
+Bhindi,Bihar,Munghair,1.4972405228267058,11
+Bhindi,Bihar,Muzaffarpur,5.017229583544018,3
+Bhindi,Bihar,Nalanda,1.4785673210641903,7
+Bhindi,Bihar,Nawada,2.237787765627716,21
+Bhindi,Bihar,Patna,-0.28910664967953037,5
+Bhindi,Bihar,Purnea,-7.105961152963346,3
+Bhindi,Bihar,Rohtas,-1.053888341902719,13
+Bhindi,Bihar,Saharsa,-1.670105429668712,10
+Bhindi,Bihar,Samastipur,0.5905579089009654,17
+Bhindi,Bihar,Saran,-9.215964368907228,3
+Bhindi,Bihar,Sheikhpura,0.431247850393098,14
+Bhindi,Bihar,Sheohar,0.3023246043781782,4
+Bhindi,Bihar,Sitamarhi,-1.1031677285336485,6
+Bhindi,Bihar,Siwan,-6.185787969388305,3
+Bhindi,Bihar,Supaul,-0.19919468694361342,23
+Bhindi,Bihar,Vaishali,0.431247850393098,7
+Bhindi,Bihar,West Chambaran,-4.683218215998888,8
+Bhindi,Chattisgarh,Bilaspur,2.227153992010359,46
+Bhindi,Chattisgarh,Durg,3.4802848222016123,82
+Bhindi,Chattisgarh,Raigarh,-3.0318744628109973,3
+Bhindi,Chattisgarh,Rajnandgaon,2.867494469316192,97
+Bhindi,Gujarat,Ahmedabad,3.136252977693469,177
+Bhindi,Gujarat,Amreli,4.348728330384924,122
+Bhindi,Gujarat,Anand,3.8327077721896092,217
+Bhindi,Gujarat,Banaskanth,3.2028456954872255,110
+Bhindi,Gujarat,Bharuch,3.655718543757526,248
+Bhindi,Gujarat,Botad,4.7254107047047,1
+Bhindi,Gujarat,Dahod,3.9003771388257653,146
+Bhindi,Gujarat,Gandhinagar,2.5252831772481845,184
+Bhindi,Gujarat,Gir Somnath,1.4804129813751845,108
+Bhindi,Gujarat,Kachchh,1.8162245041378213,18
+Bhindi,Gujarat,Kheda,1.809560765149327,226
+Bhindi,Gujarat,Mehsana,3.467865896393896,135
+Bhindi,Gujarat,Morbi,4.06478355603285,201
+Bhindi,Gujarat,Navsari,2.91260191558074,218
+Bhindi,Gujarat,Patan,0.46482552103886965,64
+Bhindi,Gujarat,Porbandar,2.279370726121742,48
+Bhindi,Gujarat,Rajkot,2.9961201092699663,172
+Bhindi,Gujarat,Sabarkantha,5.735470529152154,20
+Bhindi,Gujarat,Surat,3.9001747760954837,788
+Bhindi,Gujarat,Surendranagar,3.238659523413238,138
+Bhindi,Gujarat,The Dangs,9.81570134290511,6
+Bhindi,Gujarat,Vadodara (Baroda),3.223614035531468,280
+Bhindi,Haryana,Ambala,1.7498091777834384,526
+Bhindi,Haryana,Bhiwani,-1.7125141332704867,39
+Bhindi,Haryana,Faridabad,0.9124783974784882,200
+Bhindi,Haryana,Fatehabad,0.5430497243040434,233
+Bhindi,Haryana,Gurgaon,0.5184606509249108,64
+Bhindi,Haryana,Hissar,-0.3498529439449566,261
+Bhindi,Haryana,Jhajar,0.9993343598465954,117
+Bhindi,Haryana,Jind,-6.314784144148533,15
+Bhindi,Haryana,Kaithal,-3.0911223643085743,70
+Bhindi,Haryana,Karnal,-0.22944145224614057,146
+Bhindi,Haryana,Kurukshetra,0.30980683705034473,305
+Bhindi,Haryana,Mahendragarh-Narnaul,0.05833132593339469,189
+Bhindi,Haryana,Mewat,-2.4536482230669137,109
+Bhindi,Haryana,Palwal,-4.408072148945533,48
+Bhindi,Haryana,Panchkula,0.05631583097514333,91
+Bhindi,Haryana,Panipat,2.078998911611662,156
+Bhindi,Haryana,Rewari,-6.976998848905916,11
+Bhindi,Haryana,Rohtak,1.5137773422149896,44
+Bhindi,Haryana,Sirsa,1.1652907542711066,209
+Bhindi,Haryana,Sonipat,0.5599337695037266,259
+Bhindi,Haryana,Yamuna Nagar,-0.059179224019468506,446
+Bhindi,Himachal Pradesh,Bilaspur,1.3099193849060469,94
+Bhindi,Himachal Pradesh,Chamba,2.8150589512999784,112
+Bhindi,Himachal Pradesh,Hamirpur,1.9494297552052027,203
+Bhindi,Himachal Pradesh,Kangra,2.1335064876551546,464
+Bhindi,Himachal Pradesh,Kullu,3.399930806091247,285
+Bhindi,Himachal Pradesh,Mandi,3.0618028687236207,274
+Bhindi,Himachal Pradesh,Shimla,0.8087970311142918,87
+Bhindi,Himachal Pradesh,Sirmore,0.23573240878226928,137
+Bhindi,Himachal Pradesh,Solan,2.539948809844935,159
+Bhindi,Himachal Pradesh,Una,-0.03861008272654529,151
+Bhindi,Jammu and Kashmir,Anantnag,-1.736108121115251,2
+Bhindi,Jammu and Kashmir,Jammu,2.900524546617387,263
+Bhindi,Jammu and Kashmir,Kathua,2.4518720421092524,93
+Bhindi,Jammu and Kashmir,Rajouri,0.4602719773355446,40
+Bhindi,Jammu and Kashmir,Srinagar,4.414303843436222,43
+Bhindi,Jammu and Kashmir,Udhampur,3.0268703490509603,153
+Bhindi,Jharkhand,Deogarh,1.3849246267220172,36
+Bhindi,Jharkhand,Garhwa,-1.088797085973552,27
+Bhindi,Jharkhand,Giridih,1.2728614420281419,31
+Bhindi,Jharkhand,Gumla,3.0893196358000985,65
+Bhindi,Jharkhand,Koderma,3.399617620951877,9
+Bhindi,Jharkhand,Ranchi,2.352405893242107,65
+Bhindi,Jharkhand,Saraikela (Kharsanwa),7.771151229471167,5
+Bhindi,Jharkhand,Simdega,-0.26445381795258244,20
+Bhindi,Karnataka,Bangalore,3.487777753896821,499
+Bhindi,Karnataka,Bellary,4.336711341910723,102
+Bhindi,Karnataka,Chamrajnagar,8.510056018540626,44
+Bhindi,Karnataka,Chikmagalur,2.5621335092653044,138
+Bhindi,Karnataka,Davangere,3.6636123368387357,155
+Bhindi,Karnataka,Dharwad,-6.856572690133331,8
+Bhindi,Karnataka,Gadag,-12.584415639427197,4
+Bhindi,Karnataka,Hassan,2.44013688844734,59
+Bhindi,Karnataka,Haveri,-23.155918092224965,2
+Bhindi,Karnataka,Kalburgi,0.6983489664724012,41
+Bhindi,Karnataka,Karwar (Uttar Kannad),3.705892245311662,5
+Bhindi,Karnataka,Kolar,1.7528837551559588,209
+Bhindi,Karnataka,Mandya,2.5328199461043956,20
+Bhindi,Karnataka,Mysore,4.489421747734855,192
+Bhindi,Karnataka,Shimoga,4.148789756143768,61
+Bhindi,Karnataka,Udupi,4.526309101013175,68
+Bhindi,Kerala,Alappuzha,3.2814752422315134,1055
+Bhindi,Kerala,Ernakulam,2.9954171062429102,1061
+Bhindi,Kerala,Idukki,3.414285725000725,561
+Bhindi,Kerala,Kannur,-7.627302820067973,23
+Bhindi,Kerala,Kasargod,3.327039754154611,499
+Bhindi,Kerala,Kollam,3.067864458022024,745
+Bhindi,Kerala,Kottayam,2.9971212211547975,1068
+Bhindi,Kerala,Kozhikode (Calicut),2.712200444135654,747
+Bhindi,Kerala,Malappuram,3.2851164489000575,814
+Bhindi,Kerala,Palakad,3.07209147748975,849
+Bhindi,Kerala,Pathanamthitta,3.47798242458559,714
+Bhindi,Kerala,Thirssur,3.3584710471441714,1017
+Bhindi,Kerala,Thiruvananthapuram,3.146933638034015,1042
+Bhindi,Kerala,Wayanad,1.0527213710285035,52
+Bhindi,Madhya Pradesh,Alirajpur,2.4672438855784624,19
+Bhindi,Madhya Pradesh,Anupur,9.66426006792589,12
+Bhindi,Madhya Pradesh,Badwani,5.015220822941095,81
+Bhindi,Madhya Pradesh,Betul,5.147420139737957,22
+Bhindi,Madhya Pradesh,Bhopal,5.734072928164329,93
+Bhindi,Madhya Pradesh,Burhanpur,2.219408551740182,72
+Bhindi,Madhya Pradesh,Chhindwara,3.9255165242876386,102
+Bhindi,Madhya Pradesh,Damoh,4.3579850087942225,14
+Bhindi,Madhya Pradesh,Dewas,3.7826459115367497,210
+Bhindi,Madhya Pradesh,Dhar,4.754974614314384,335
+Bhindi,Madhya Pradesh,Guna,6.087921435993814,6
+Bhindi,Madhya Pradesh,Gwalior,3.6351171912598894,105
+Bhindi,Madhya Pradesh,Harda,3.1483849915698707,205
+Bhindi,Madhya Pradesh,Hoshangabad,3.603565660716017,100
+Bhindi,Madhya Pradesh,Indore,4.2994908026553915,176
+Bhindi,Madhya Pradesh,Jhabua,5.118620058599445,125
+Bhindi,Madhya Pradesh,Katni,1.4565761165684308,5
+Bhindi,Madhya Pradesh,Khandwa,7.450285917542799,45
+Bhindi,Madhya Pradesh,Khargone,3.0404948638739184,81
+Bhindi,Madhya Pradesh,Mandsaur,1.9923893386732077,39
+Bhindi,Madhya Pradesh,Morena,4.141542127951281,17
+Bhindi,Madhya Pradesh,Narsinghpur,1.8860199117709788,17
+Bhindi,Madhya Pradesh,Rajgarh,7.191026625034536,63
+Bhindi,Madhya Pradesh,Ratlam,0.9536603379902565,30
+Bhindi,Madhya Pradesh,Sagar,5.054987138695409,17
+Bhindi,Madhya Pradesh,Sehore,-5.818167499437227,2
+Bhindi,Madhya Pradesh,Seoni,-3.3409389883499165,7
+Bhindi,Madhya Pradesh,Shajapur,-0.3388800744585497,17
+Bhindi,Madhya Pradesh,Sheopur,-0.4131531088439999,58
+Bhindi,Madhya Pradesh,Shivpuri,3.649016118734714,56
+Bhindi,Madhya Pradesh,Ujjain,3.3192158302499366,102
+Bhindi,Maharashtra,Ahmednagar,2.7043777140324785,431
+Bhindi,Maharashtra,Amarawati,3.205628606035777,103
+Bhindi,Maharashtra,Chandrapur,5.038553243473747,73
+Bhindi,Maharashtra,Chattrapati Sambhajinagar,3.354773166366839,141
+Bhindi,Maharashtra,Dharashiv (Usmanabad),1.0958574382214878,76
+Bhindi,Maharashtra,Jalgaon,3.2389372976737603,195
+Bhindi,Maharashtra,Kolhapur,2.923256230313812,185
+Bhindi,Maharashtra,Mumbai,4.536952007743417,82
+Bhindi,Maharashtra,Nagpur,3.013969980433579,547
+Bhindi,Maharashtra,Nandurbar,-2.797977833465827,15
+Bhindi,Maharashtra,Nashik,3.1300095485337653,227
+Bhindi,Maharashtra,Parbhani,5.083772190166052,9
+Bhindi,Maharashtra,Pune,3.0965788784069788,756
+Bhindi,Maharashtra,Raigad,1.5950998701194765,130
+Bhindi,Maharashtra,Ratnagiri,3.2107140857486574,129
+Bhindi,Maharashtra,Sangli,2.6934045277705163,211
+Bhindi,Maharashtra,Satara,3.2044704309932377,560
+Bhindi,Maharashtra,Sholapur,3.875950502166702,534
+Bhindi,Maharashtra,Thane,3.1235025012776223,339
+Bhindi,Meghalaya,South West Garo Hills,-7.830130164485809,3
+Bhindi,Meghalaya,West Garo Hills,-6.114591338926601,20
+Bhindi,Meghalaya,West Jaintia Hills,5.984080104204093,4
+Bhindi,Mizoram,Aizawl,3.951002700548164,6
+Bhindi,Mizoram,Lungli,-3.240268627959155,6
+Bhindi,NCT of Delhi,Delhi,3.4565586185352313,282
+Bhindi,Nagaland,Dimapur,0.6183881548616766,54
+Bhindi,Nagaland,Kohima,-5.788283407336032,14
+Bhindi,Nagaland,Mokokchung,-4.964222989659834,23
+Bhindi,Nagaland,Mon,-12.99816962102463,1
+Bhindi,Nagaland,Peren,-7.627350933300917,1
+Bhindi,Nagaland,Tsemenyu,-12.717536842020479,2
+Bhindi,Nagaland,Zunheboto,-13.97075975145959,3
+Bhindi,Odisha,Angul,3.969448283746621,170
+Bhindi,Odisha,Balasore,-1.0451957429348182,130
+Bhindi,Odisha,Bargarh,2.959273681554912,327
+Bhindi,Odisha,Bhadrak,1.3289170479476724,86
+Bhindi,Odisha,Bolangir,2.743634559735229,276
+Bhindi,Odisha,Boudh,1.2955750707366402,131
+Bhindi,Odisha,Cuttack,3.6655103881159925,170
+Bhindi,Odisha,Deogarh,3.5228469434797876,34
+Bhindi,Odisha,Dhenkanal,3.855803212935491,458
+Bhindi,Odisha,Gajapati,2.6662891873252503,96
+Bhindi,Odisha,Ganjam,2.8197546504461064,202
+Bhindi,Odisha,Jajpur,4.811894863724656,135
+Bhindi,Odisha,Kalahandi,1.5807356270435757,252
+Bhindi,Odisha,Kandhamal,1.8288017182834437,7
+Bhindi,Odisha,Kendrapara,-3.537812772223194,6
+Bhindi,Odisha,Keonjhar,4.753957824873001,190
+Bhindi,Odisha,Khurda,3.4029759340805046,65
+Bhindi,Odisha,Koraput,-4.550188066521563,81
+Bhindi,Odisha,Malkangiri,2.2936199754758952,68
+Bhindi,Odisha,Mayurbhanja,1.8665046730635466,514
+Bhindi,Odisha,Nayagarh,4.122414006115798,146
+Bhindi,Odisha,Nowarangpur,2.7734263975576923,53
+Bhindi,Odisha,Nuapada,2.540431557579274,238
+Bhindi,Odisha,Rayagada,3.168417759116412,71
+Bhindi,Odisha,Sambalpur,1.496908404654843,194
+Bhindi,Odisha,Sonepur,2.1103450246386575,138
+Bhindi,Odisha,Sundergarh,3.064432448357961,241
+Bhindi,Punjab,Amritsar,0.18140999308642622,317
+Bhindi,Punjab,Barnala,0.4452970904575371,153
+Bhindi,Punjab,Bhatinda,0.08749211908875801,279
+Bhindi,Punjab,Faridkot,2.2481733998605,169
+Bhindi,Punjab,Fatehgarh,0.8967375601904635,244
+Bhindi,Punjab,Fazilka,1.4124337034279255,241
+Bhindi,Punjab,Ferozpur,0.8974847558401745,450
+Bhindi,Punjab,Gurdaspur,0.4680355572152446,482
+Bhindi,Punjab,Hoshiarpur,1.5007470573824182,652
+Bhindi,Punjab,Jalandhar,0.46662561450233364,675
+Bhindi,Punjab,Ludhiana,1.025376169804684,478
+Bhindi,Punjab,Mansa,0.10454105430196035,162
+Bhindi,Punjab,Moga,-0.7415936028782321,246
+Bhindi,Punjab,Mohali,-1.4665466303588859,277
+Bhindi,Punjab,Muktsar,1.8245706004437587,319
+Bhindi,Punjab,Nawanshahr,2.0095769160646055,285
+Bhindi,Punjab,Pathankot,3.2543155218612805,30
+Bhindi,Punjab,Patiala,1.198715237846586,455
+Bhindi,Punjab,Ropar (Rupnagar),1.4541436491013982,134
+Bhindi,Punjab,Sangrur,0.33990269895378356,480
+Bhindi,Punjab,Tarntaran,-0.34905634454523216,373
+Bhindi,Punjab,kapurthala,0.3107994369958466,301
+Bhindi,Rajasthan,Ajmer,3.472232733207173,141
+Bhindi,Rajasthan,Alwar,4.5110204467054915,84
+Bhindi,Rajasthan,Bharatpur,7.471616222610919,1
+Bhindi,Rajasthan,Bikaner,2.2772092514567492,60
+Bhindi,Rajasthan,Chittorgarh,3.9032166761619465,134
+Bhindi,Rajasthan,Ganganagar,3.3473532988572017,114
+Bhindi,Rajasthan,Jaipur,0.5477230993426677,150
+Bhindi,Rajasthan,Jaipur Rural,-2.3484301010196225,6
+Bhindi,Rajasthan,Jalore,3.0729862727873933,130
+Bhindi,Rajasthan,Jodhpur,4.014025092650008,126
+Bhindi,Rajasthan,Kota,5.15864828759742,66
+Bhindi,Rajasthan,Udaipur,3.5031494262945944,142
+Bhindi,Tamil Nadu,Ariyalur,-5.137848574679672,16
+Bhindi,Tamil Nadu,Chengalpattu,-2.3484301010196225,48
+Bhindi,Tamil Nadu,Coimbatore,-3.464197490483642,60
+Bhindi,Tamil Nadu,Cuddalore,-4.579964879947663,30
+Bhindi,Tamil Nadu,Dharmapuri,-4.661859652518792,37
+Bhindi,Tamil Nadu,Dindigul,-2.8383261895495315,24
+Bhindi,Tamil Nadu,Erode,-5.137848574679672,48
+Bhindi,Tamil Nadu,Kallakuruchi,-2.3484301010196225,12
+Bhindi,Tamil Nadu,Kancheepuram,-4.377098081863295,22
+Bhindi,Tamil Nadu,Karur,-3.1551766996542083,25
+Bhindi,Tamil Nadu,Krishnagiri,-4.208042416792988,36
+Bhindi,Tamil Nadu,Madurai,-3.6604965379464285,47
+Bhindi,Tamil Nadu,Nagapattinam,-5.137848574679672,24
+Bhindi,Tamil Nadu,Nagercoil (Kannyiakumari),-3.6589244823272455,13
+Bhindi,Tamil Nadu,Namakkal,-3.8525062604235223,41
+Bhindi,Tamil Nadu,Perambalur,-2.3484301010196225,6
+Bhindi,Tamil Nadu,Pudukkottai,-3.8525062604235223,41
+Bhindi,Tamil Nadu,Ramanathapuram,-5.975907897229028,17
+Bhindi,Tamil Nadu,Ranipet,-2.3484301010196225,12
+Bhindi,Tamil Nadu,Salem,-3.278236258906306,72
+Bhindi,Tamil Nadu,Sivaganga,-4.208042416792988,36
+Bhindi,Tamil Nadu,Tenkasi,-2.3484301010196225,12
+Bhindi,Tamil Nadu,Thanjavur,-5.137848574679672,32
+Bhindi,Tamil Nadu,The Nilgiris,-2.3484301010196225,18
+Bhindi,Tamil Nadu,Theni,-4.133657924162054,50
+Bhindi,Tamil Nadu,Thiruchirappalli,-4.618226596285576,37
+Bhindi,Tamil Nadu,Thirunelveli,-4.208042416792988,36
+Bhindi,Tamil Nadu,Thirupathur,-2.3484301010196225,12
+Bhindi,Tamil Nadu,Thirupur,-2.1663983481823363,29
+Bhindi,Tamil Nadu,Thiruvannamalai,-4.202161708654973,51
+Bhindi,Tamil Nadu,Thiruvarur,-4.432701044433753,51
+Bhindi,Tamil Nadu,Thiruvellore,-2.2220681095833346,29
+Bhindi,Tamil Nadu,Tuticorin,-5.137848574679672,16
+Bhindi,Tamil Nadu,Vellore,-5.431786227797618,40
+Bhindi,Tamil Nadu,Villupuram,-4.519472536811729,22
+Bhindi,Tamil Nadu,Virudhunagar,-2.9649088635624863,46
+Bhindi,Telangana,Adilabad,-0.6912199485711678,7
+Bhindi,Telangana,Hyderabad,2.9244496242945814,436
+Bhindi,Telangana,Karimnagar,2.5630203269687026,76
+Bhindi,Telangana,Khammam,-12.058470328937378,7
+Bhindi,Telangana,Mahbubnagar,1.771213198110015,190
+Bhindi,Telangana,Medak,0.5507032466172501,108
+Bhindi,Telangana,Nalgonda,1.1155084907075898,78
+Bhindi,Telangana,Ranga Reddy,0.7368837963299592,172
+Bhindi,Telangana,Warangal,0.09367072076903997,74
+Bhindi,Tripura,Dhalai,1.288474073197816,152
+Bhindi,Tripura,Gomati,-0.48972554644464983,125
+Bhindi,Tripura,Khowai,0.5276483236523363,147
+Bhindi,Tripura,North Tripura,-0.8467205267495592,136
+Bhindi,Tripura,Sepahijala,-0.8050785414272598,308
+Bhindi,Tripura,South District,0.5453340506281023,184
+Bhindi,Tripura,Unokoti,0.7773533107233741,112
+Bhindi,Tripura,West District,0.5350473877991256,145
+Bhindi,Uttar Pradesh,Agra,0.5906552666715715,345
+Bhindi,Uttar Pradesh,Aligarh,-0.35853649591530745,215
+Bhindi,Uttar Pradesh,Ambedkarnagar,1.7069059945591918,57
+Bhindi,Uttar Pradesh,Amethi,0.12577923558592768,137
+Bhindi,Uttar Pradesh,Amroha,2.133359994571811,51
+Bhindi,Uttar Pradesh,Auraiya,2.2394066746322627,100
+Bhindi,Uttar Pradesh,Ayodhya,1.9095195811774632,150
+Bhindi,Uttar Pradesh,Azamgarh,2.5098051663508647,71
+Bhindi,Uttar Pradesh,Badaun,1.5602158200556604,173
+Bhindi,Uttar Pradesh,Baghpat,-1.2005726909279564,113
+Bhindi,Uttar Pradesh,Bahraich,1.3299347296671964,144
+Bhindi,Uttar Pradesh,Ballia,1.1205370857610486,92
+Bhindi,Uttar Pradesh,Balrampur,-0.6312285209982782,10
+Bhindi,Uttar Pradesh,Banda,-3.099506529576883,37
+Bhindi,Uttar Pradesh,Barabanki,1.6884242010347719,101
+Bhindi,Uttar Pradesh,Bareilly,5.031254715260125,55
+Bhindi,Uttar Pradesh,Basti,0.5212242860970433,54
+Bhindi,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),-2.27314904364075,26
+Bhindi,Uttar Pradesh,Bijnor,-2.107632217066396,130
+Bhindi,Uttar Pradesh,Bulandshahar,-0.5265744836777264,393
+Bhindi,Uttar Pradesh,Chandauli,-1.1929416536394282,18
+Bhindi,Uttar Pradesh,Chitrakut,-0.21200788517414515,16
+Bhindi,Uttar Pradesh,Deoria,4.208884756852505,81
+Bhindi,Uttar Pradesh,Etah,0.758433571745674,127
+Bhindi,Uttar Pradesh,Etawah,-1.0845556264367544,94
+Bhindi,Uttar Pradesh,Farukhabad,-0.754589125035964,113
+Bhindi,Uttar Pradesh,Fatehpur,-2.3667237432887984,86
+Bhindi,Uttar Pradesh,Firozabad,-0.4561125152349416,235
+Bhindi,Uttar Pradesh,Gautam Budh Nagar,0.7845425571833364,90
+Bhindi,Uttar Pradesh,Ghaziabad,0.8572992633026949,152
+Bhindi,Uttar Pradesh,Gonda,-1.3600188762972643,47
+Bhindi,Uttar Pradesh,Gorakhpur,2.419068764015471,85
+Bhindi,Uttar Pradesh,Hamirpur,0.8341510741484636,27
+Bhindi,Uttar Pradesh,Hapur,-6.03779605988421,22
+Bhindi,Uttar Pradesh,Hardoi,3.3053163490577635,62
+Bhindi,Uttar Pradesh,Hathras,0.03172489372661971,61
+Bhindi,Uttar Pradesh,Jalaun (Orai),2.36777677186075,168
+Bhindi,Uttar Pradesh,Jaunpur,1.4253194081525196,121
+Bhindi,Uttar Pradesh,Jhansi,3.997627555837154,93
+Bhindi,Uttar Pradesh,Kannuj,0.40286654773081215,76
+Bhindi,Uttar Pradesh,Kanpur,-0.33468633494891403,141
+Bhindi,Uttar Pradesh,Kanpur Dehat,2.49770238397811,115
+Bhindi,Uttar Pradesh,Kasganj,2.2683222964977885,61
+Bhindi,Uttar Pradesh,Kaushambi,-7.91631468837288,18
+Bhindi,Uttar Pradesh,Khiri (Lakhimpur),-0.47781090169731494,79
+Bhindi,Uttar Pradesh,Kushinagar,0.38534814568329445,18
+Bhindi,Uttar Pradesh,Lakhimpur,-3.472396836082016,80
+Bhindi,Uttar Pradesh,Lucknow,0.8187069027118637,68
+Bhindi,Uttar Pradesh,Maharajganj,0.07667122879546732,68
+Bhindi,Uttar Pradesh,Mahoba,5.087087664099629,32
+Bhindi,Uttar Pradesh,Mainpuri,-0.006622823803389643,127
+Bhindi,Uttar Pradesh,Mathura,0.9646617198845706,125
+Bhindi,Uttar Pradesh,Mau (Maunathbhanjan),0.8119580348656261,48
+Bhindi,Uttar Pradesh,Meerut,1.1952904522321954,108
+Bhindi,Uttar Pradesh,Mirzapur,-1.7075007524979966,76
+Bhindi,Uttar Pradesh,Muzaffarnagar,-0.19183585803587008,103
+Bhindi,Uttar Pradesh,Pillibhit,2.9853954427268423,23
+Bhindi,Uttar Pradesh,Pratapgarh,0.45652879771764265,80
+Bhindi,Uttar Pradesh,Prayagraj,-2.8059148086356647,94
+Bhindi,Uttar Pradesh,Raebarelli,-0.37161038397543816,114
+Bhindi,Uttar Pradesh,Rampur,-0.5568135240082533,61
+Bhindi,Uttar Pradesh,Saharanpur,-1.867750647549205,223
+Bhindi,Uttar Pradesh,Sambhal,-1.4697421294397366,74
+Bhindi,Uttar Pradesh,Sant Kabir Nagar,1.1256514237144069,50
+Bhindi,Uttar Pradesh,Shahjahanpur,-0.9104990171223735,112
+Bhindi,Uttar Pradesh,Shamli,0.294255665820988,202
+Bhindi,Uttar Pradesh,Shravasti,-6.771608489864248,7
+Bhindi,Uttar Pradesh,Siddharth Nagar,-0.6655967399845231,91
+Bhindi,Uttar Pradesh,Sitapur,0.03554627482270349,105
+Bhindi,Uttar Pradesh,Sonbhadra,-3.3904993328116007,41
+Bhindi,Uttar Pradesh,Unnao,1.5024184466367219,212
+Bhindi,Uttar Pradesh,Varanasi,-0.943879705922274,65
+Bhindi,Uttrakhand,Dehradoon,0.6776378192321466,252
+Bhindi,Uttrakhand,Garhwal (Pauri),-1.5281307285036976,47
+Bhindi,Uttrakhand,Haridwar,-1.2682075201051948,186
+Bhindi,Uttrakhand,Nanital,1.3266222844140085,172
+Bhindi,Uttrakhand,UdhamSinghNagar,-1.4662859442558211,361
+Bhindi,West Bengal,Alipurduar,-3.450959369463409,62
+Bhindi,West Bengal,Coochbehar,-0.5445970064286306,267
+Bhindi,West Bengal,Dakshin Dinajpur,-0.4567251189593661,126
+Bhindi,West Bengal,Hooghly,-7.31433547042711,40
+Bhindi,West Bengal,Howrah,0.6245139927416355,174
+Bhindi,West Bengal,Jalpaiguri,1.3645181649885654,49
+Bhindi,West Bengal,Kolkata,3.3989323547322274,144
+Bhindi,West Bengal,Malda,-0.3516036445183674,39
+Bhindi,West Bengal,Medinipur (E),3.575576680217988,147
+Bhindi,West Bengal,Medinipur (W),4.151882249374845,22
+Bhindi,West Bengal,Puruliya,2.0433138777565825,219
+Brinjal,Andaman and Nicobar,Nicobar,-2.7600252299413297,18
+Brinjal,Andaman and Nicobar,North and Middle Andaman,0.3605951790570643,7
+Brinjal,Andaman and Nicobar,South Andaman,-0.33010564941528675,11
+Brinjal,Andhra Pradesh,Chittor,0.9553846696294317,62
+Brinjal,Andhra Pradesh,Krishna,-2.2771393706533773,57
+Brinjal,Andhra Pradesh,Prakasam,3.0009381905206802,17
+Brinjal,Andhra Pradesh,West Godavari,-0.03268083335185571,53
+Brinjal,Assam,Barpeta,-0.5525656079186161,61
+Brinjal,Assam,Cachar,-4.120735906776212,14
+Brinjal,Assam,Darrang,-1.4515729853904382,78
+Brinjal,Assam,Dhemaji,7.206800847576478,1
+Brinjal,Assam,Dhubri,7.870509712919784,4
+Brinjal,Assam,Golaghat,-2.1414994138323715,54
+Brinjal,Assam,Jorhat,-3.256227379702125,11
+Brinjal,Assam,Kamrup,1.6669196819185488,46
+Brinjal,Assam,Karbi Anglong,-7.209946485332296,4
+Brinjal,Assam,Kokrajhar,7.206800847576478,1
+Brinjal,Assam,MORIGAON,0.3302816137937441,4
+Brinjal,Assam,Nagaon,-2.3067204391705367,33
+Brinjal,Assam,Nalbari,0.3302816137937441,8
+Brinjal,Assam,Sonitpur,-0.5132843418156152,27
+Brinjal,Assam,Tinsukia,-1.715480101286295,31
+Brinjal,Bihar,Araria,4.238921006443269,32
+Brinjal,Bihar,Arwal,7.178895168018758,10
+Brinjal,Bihar,Aurangabad,4.313723487009836,27
+Brinjal,Bihar,Banka,4.195195521536531,9
+Brinjal,Bihar,Begusarai,5.760932842205599,25
+Brinjal,Bihar,Bhagalpur,3.3465226645237904,50
+Brinjal,Bihar,Bhojpur,5.657788161023688,11
+Brinjal,Bihar,Buxar,8.855552856789458,21
+Brinjal,Bihar,Chhapra,7.644801403512778,11
+Brinjal,Bihar,Darbhanga,5.186970931064659,4
+Brinjal,Bihar,East Champaran/ Motihari,6.766141237257426,53
+Brinjal,Bihar,Gaya,7.577681665294064,23
+Brinjal,Bihar,Gopalgang,5.428708639449915,13
+Brinjal,Bihar,Jamui,7.823845720929234,19
+Brinjal,Bihar,Jehanabad,1.9755981446240014,2
+Brinjal,Bihar,Kaimur/Bhabhua,6.783720763633965,28
+Brinjal,Bihar,Kaithar,4.977538499465802,25
+Brinjal,Bihar,Khagaria,3.675383281303599,19
+Brinjal,Bihar,Kishanganj,5.335443224251477,28
+Brinjal,Bihar,Luckeesarai,6.270008489828685,18
+Brinjal,Bihar,Madhepura,3.179979171823026,38
+Brinjal,Bihar,Madhubani,5.512401860520479,44
+Brinjal,Bihar,Munghair,6.130629472985602,15
+Brinjal,Bihar,Muzaffarpur,4.3461919470150345,5
+Brinjal,Bihar,Nalanda,8.096787568709072,21
+Brinjal,Bihar,Nawada,4.5706033059527975,22
+Brinjal,Bihar,Purnea,12.418338523747071,11
+Brinjal,Bihar,Rohtas,5.34887429318478,50
+Brinjal,Bihar,Saharsa,5.893480557009088,15
+Brinjal,Bihar,Samastipur,5.71362327009928,24
+Brinjal,Bihar,Saran,4.493274865294334,6
+Brinjal,Bihar,Sheikhpura,2.5090014824592872,14
+Brinjal,Bihar,Sheohar,7.504181740243851,2
+Brinjal,Bihar,Sitamarhi,7.59324263725482,10
+Brinjal,Bihar,Siwan,4.968465601335332,10
+Brinjal,Bihar,Supaul,5.04566818094201,32
+Brinjal,Bihar,Vaishali,5.934694532195735,20
+Brinjal,Bihar,West Chambaran,6.003548796576223,16
+Brinjal,Chattisgarh,Bilaspur,4.5490429120093525,48
+Brinjal,Chattisgarh,Durg,3.4596083744254873,91
+Brinjal,Chattisgarh,Raigarh,2.303180474176353,3
+Brinjal,Chattisgarh,Rajnandgaon,3.4990392172987015,94
+Brinjal,Goa,North Goa,7.765497017757458,33
+Brinjal,Gujarat,Ahmedabad,0.7561469492104057,184
+Brinjal,Gujarat,Amreli,4.785933010006962,123
+Brinjal,Gujarat,Anand,1.240729829861515,223
+Brinjal,Gujarat,Banaskanth,1.6761125929744318,115
+Brinjal,Gujarat,Bharuch,1.3720552003465976,259
+Brinjal,Gujarat,Botad,-3.2800701531660934,1
+Brinjal,Gujarat,Dahod,1.5971683790700786,146
+Brinjal,Gujarat,Devbhumi Dwarka,-7.912100741698708,1
+Brinjal,Gujarat,Gandhinagar,2.4800912354891556,209
+Brinjal,Gujarat,Gir Somnath,-0.24967427418266705,108
+Brinjal,Gujarat,Junagarh,2.5379139623035973,4
+Brinjal,Gujarat,Kachchh,-0.872060896184935,21
+Brinjal,Gujarat,Kheda,0.6033296578453611,294
+Brinjal,Gujarat,Mehsana,-0.8409138729203536,60
+Brinjal,Gujarat,Morbi,2.3845444988394937,217
+Brinjal,Gujarat,Navsari,0.8253420400636996,105
+Brinjal,Gujarat,Patan,-1.2829724838704535,99
+Brinjal,Gujarat,Porbandar,3.7565576787986887,36
+Brinjal,Gujarat,Rajkot,2.962482764306525,212
+Brinjal,Gujarat,Sabarkantha,-3.2052342687632978,7
+Brinjal,Gujarat,Surat,1.114584605538965,504
+Brinjal,Gujarat,Surendranagar,1.6384153218420119,144
+Brinjal,Gujarat,Vadodara (Baroda),1.5847570245885134,279
+Brinjal,Gujarat,Valsad,2.0040586466636383,7
+Brinjal,Haryana,Ambala,1.3995839927886007,646
+Brinjal,Haryana,Bhiwani,-1.1294785241504748,66
+Brinjal,Haryana,Faridabad,1.0974271664191113,264
+Brinjal,Haryana,Fatehabad,0.26033738371816856,329
+Brinjal,Haryana,Gurgaon,3.0049226362769192,128
+Brinjal,Haryana,Hissar,0.32085245604068724,282
+Brinjal,Haryana,Jhajar,-0.8109158694007144,146
+Brinjal,Haryana,Jind,-2.833692447059093,5
+Brinjal,Haryana,Kaithal,1.352028313659317,102
+Brinjal,Haryana,Karnal,-0.07105223370468283,210
+Brinjal,Haryana,Kurukshetra,0.8177820735500592,395
+Brinjal,Haryana,Mahendragarh-Narnaul,-0.23965533730905283,309
+Brinjal,Haryana,Mewat,1.1338543329882984,260
+Brinjal,Haryana,Palwal,-0.7706381469181284,96
+Brinjal,Haryana,Panchkula,2.181397671407482,162
+Brinjal,Haryana,Panipat,0.46079215457974915,153
+Brinjal,Haryana,Rewari,3.2943089477310705,29
+Brinjal,Haryana,Rohtak,0.723597648503821,79
+Brinjal,Haryana,Sirsa,-0.4251768039136967,348
+Brinjal,Haryana,Sonipat,1.0272192209923598,315
+Brinjal,Haryana,Yamuna Nagar,1.0432419011161949,634
+Brinjal,Himachal Pradesh,Bilaspur,-0.5483744095280726,89
+Brinjal,Himachal Pradesh,Chamba,1.5647302839737138,117
+Brinjal,Himachal Pradesh,Hamirpur,2.325828326125338,236
+Brinjal,Himachal Pradesh,Kangra,2.413482642020138,509
+Brinjal,Himachal Pradesh,Kullu,1.8675041050841878,302
+Brinjal,Himachal Pradesh,Mandi,2.2309845265666826,293
+Brinjal,Himachal Pradesh,Shimla,4.49391996845598,102
+Brinjal,Himachal Pradesh,Sirmore,0.48181688095336755,193
+Brinjal,Himachal Pradesh,Solan,2.3634435381151366,157
+Brinjal,Himachal Pradesh,Una,1.2791481192217151,201
+Brinjal,Jammu and Kashmir,Anantnag,4.339148588411878,17
+Brinjal,Jammu and Kashmir,Jammu,1.6416691609441678,322
+Brinjal,Jammu and Kashmir,Kathua,2.010811244587839,110
+Brinjal,Jammu and Kashmir,Pulwama,-3.9925999582387703,1
+Brinjal,Jammu and Kashmir,Rajouri,3.6945897091669506,51
+Brinjal,Jammu and Kashmir,Srinagar,2.9537775307220744,82
+Brinjal,Jammu and Kashmir,Udhampur,2.4148780249073436,192
+Brinjal,Jharkhand,Deogarh,-1.1688274269796275,47
+Brinjal,Jharkhand,Garhwa,-0.31039675603854616,43
+Brinjal,Jharkhand,Giridih,-0.5971843400924621,32
+Brinjal,Jharkhand,Gumla,-1.6955099451380886,75
+Brinjal,Jharkhand,Koderma,-1.5198930953578396,26
+Brinjal,Jharkhand,Lohardaga,-0.954799565722343,74
+Brinjal,Jharkhand,Pakur,-0.37172597039864524,52
+Brinjal,Jharkhand,Ranchi,0.7158537046774257,71
+Brinjal,Jharkhand,Saraikela (Kharsanwa),-4.226820362015381,6
+Brinjal,Jharkhand,Simdega,0.13336895638875762,32
+Brinjal,Karnataka,Bangalore,1.915617177875847,554
+Brinjal,Karnataka,Bellary,1.3163547697224804,112
+Brinjal,Karnataka,Chamrajnagar,4.753586683762671,134
+Brinjal,Karnataka,Chikmagalur,2.283303680641678,168
+Brinjal,Karnataka,Davangere,3.1685331418632483,182
+Brinjal,Karnataka,Dharwad,6.358289662529529,8
+Brinjal,Karnataka,Gadag,2.7638951203543485,4
+Brinjal,Karnataka,Hassan,3.672869876998753,55
+Brinjal,Karnataka,Haveri,2.6721338448221843,2
+Brinjal,Karnataka,Kalburgi,5.316606923490487,41
+Brinjal,Karnataka,Karwar (Uttar Kannad),-3.6740036267090304,6
+Brinjal,Karnataka,Kolar,2.9126566179900406,511
+Brinjal,Karnataka,Mandya,6.433773942968401,27
+Brinjal,Karnataka,Mysore,2.9320338744909096,206
+Brinjal,Karnataka,Shimoga,3.9627752819242463,61
+Brinjal,Karnataka,Udupi,3.2814772675601818,69
+Brinjal,Kerala,Alappuzha,1.4718478385058293,1080
+Brinjal,Kerala,Ernakulam,1.6957730348628155,1099
+Brinjal,Kerala,Idukki,2.6387538677659834,531
+Brinjal,Kerala,Kannur,-2.9556192970598842,19
+Brinjal,Kerala,Kasargod,2.5872446960776836,364
+Brinjal,Kerala,Kollam,1.6384943005222565,785
+Brinjal,Kerala,Kottayam,1.7231174219233414,925
+Brinjal,Kerala,Kozhikode (Calicut),1.8197866546202417,811
+Brinjal,Kerala,Malappuram,1.9502863370630148,761
+Brinjal,Kerala,Palakad,1.4945971523483683,806
+Brinjal,Kerala,Pathanamthitta,1.3794722410137077,705
+Brinjal,Kerala,Thirssur,1.7783968540424433,974
+Brinjal,Kerala,Thiruvananthapuram,1.9016416069968913,1041
+Brinjal,Kerala,Wayanad,2.4258134160761893,130
+Brinjal,Madhya Pradesh,Alirajpur,3.943239861622005,8
+Brinjal,Madhya Pradesh,Anupur,0.9811942219488365,13
+Brinjal,Madhya Pradesh,Badwani,6.6738894859923565,80
+Brinjal,Madhya Pradesh,Betul,-0.846738601152604,28
+Brinjal,Madhya Pradesh,Bhopal,3.5335954992856617,101
+Brinjal,Madhya Pradesh,Burhanpur,-1.050326052615048,28
+Brinjal,Madhya Pradesh,Chhatarpur,0.8335827614566256,1
+Brinjal,Madhya Pradesh,Chhindwara,2.3611348498209765,123
+Brinjal,Madhya Pradesh,Damoh,4.9102790979089574,82
+Brinjal,Madhya Pradesh,Dewas,2.15595762415544,256
+Brinjal,Madhya Pradesh,Dhar,4.725693675465991,339
+Brinjal,Madhya Pradesh,Guna,2.816850390331604,34
+Brinjal,Madhya Pradesh,Gwalior,2.27785670778536,110
+Brinjal,Madhya Pradesh,Harda,3.3529212791216407,241
+Brinjal,Madhya Pradesh,Hoshangabad,6.932500855413481,121
+Brinjal,Madhya Pradesh,Indore,4.182401164669755,147
+Brinjal,Madhya Pradesh,Jabalpur,15.307318382111134,1
+Brinjal,Madhya Pradesh,Jhabua,5.503037798677482,127
+Brinjal,Madhya Pradesh,Katni,1.1294853076408724,6
+Brinjal,Madhya Pradesh,Khandwa,4.759987324202539,41
+Brinjal,Madhya Pradesh,Khargone,6.720980355060378,47
+Brinjal,Madhya Pradesh,Mandsaur,1.3409777760187025,167
+Brinjal,Madhya Pradesh,Morena,4.098454298259153,41
+Brinjal,Madhya Pradesh,Narsinghpur,5.953042494913309,20
+Brinjal,Madhya Pradesh,Rajgarh,5.570636243066943,97
+Brinjal,Madhya Pradesh,Ratlam,0.3263716649867354,34
+Brinjal,Madhya Pradesh,Rewa,7.870509712919784,2
+Brinjal,Madhya Pradesh,Sagar,1.4552977625433103,127
+Brinjal,Madhya Pradesh,Sehore,3.6192040098458307,4
+Brinjal,Madhya Pradesh,Seoni,2.0111186059377166,7
+Brinjal,Madhya Pradesh,Shajapur,-0.2605507038152031,6
+Brinjal,Madhya Pradesh,Sheopur,1.7146025512966556,90
+Brinjal,Madhya Pradesh,Shivpuri,3.346244975102484,93
+Brinjal,Madhya Pradesh,Singroli,4.735168536530408,13
+Brinjal,Madhya Pradesh,Ujjain,2.595780847120386,101
+Brinjal,Maharashtra,Ahmednagar,2.1980591039978803,446
+Brinjal,Maharashtra,Amarawati,1.91468951085446,124
+Brinjal,Maharashtra,Chandrapur,2.245171605503778,119
+Brinjal,Maharashtra,Chattrapati Sambhajinagar,1.890903478474994,141
+Brinjal,Maharashtra,Dharashiv (Usmanabad),1.9153598789717243,69
+Brinjal,Maharashtra,Jalgaon,2.5716498730554713,194
+Brinjal,Maharashtra,Kolhapur,1.5401137033209316,315
+Brinjal,Maharashtra,Mumbai,1.6348501296169025,142
+Brinjal,Maharashtra,Nagpur,2.2455076451933516,572
+Brinjal,Maharashtra,Nandurbar,3.8232767922395166,67
+Brinjal,Maharashtra,Nashik,2.480339095157092,284
+Brinjal,Maharashtra,Parbhani,0.002041158031128513,6
+Brinjal,Maharashtra,Pune,2.928045690000401,812
+Brinjal,Maharashtra,Raigad,3.2492753235067635,139
+Brinjal,Maharashtra,Ratnagiri,2.2082240178301524,130
+Brinjal,Maharashtra,Sangli,3.1365918395812917,250
+Brinjal,Maharashtra,Satara,2.2195837620723537,636
+Brinjal,Maharashtra,Sholapur,1.5679123215583923,555
+Brinjal,Maharashtra,Thane,1.6559941349758427,196
+Brinjal,Meghalaya,East Jaintia Hills,8.160389066092364,1
+Brinjal,Meghalaya,East Khasi Hills,1.2369837930297305,69
+Brinjal,Meghalaya,South Garo Hills,-0.37809265678717785,17
+Brinjal,Meghalaya,South West Garo Hills,2.14734544164928,6
+Brinjal,Meghalaya,West Garo Hills,2.711683045345771,86
+Brinjal,Meghalaya,West Jaintia Hills,-0.41142510432682194,14
+Brinjal,Meghalaya,West Khasi Hills,4.890169487666488,3
+Brinjal,Mizoram,Aizawl,0.1710985153178969,10
+Brinjal,Mizoram,Lungli,-0.8304676468358998,10
+Brinjal,NCT of Delhi,Delhi,1.4779701663943594,421
+Brinjal,Nagaland,Dimapur,2.546180801695924,100
+Brinjal,Nagaland,Kiphire,3.824340520547055,3
+Brinjal,Nagaland,Kohima,-0.8716987622309682,45
+Brinjal,Nagaland,Longleng,0.8572091874724114,3
+Brinjal,Nagaland,Mokokchung,2.307948237767172,25
+Brinjal,Nagaland,Peren,0.4003808210100132,5
+Brinjal,Nagaland,Phek,7.453743011499027,4
+Brinjal,Nagaland,Tsemenyu,1.5507816175079345,16
+Brinjal,Nagaland,Tuensang,5.522725616417572,7
+Brinjal,Nagaland,Wokha,7.780658562899816,7
+Brinjal,Nagaland,Zunheboto,-3.4239132010474833,3
+Brinjal,Odisha,Angul,1.2080237587235,267
+Brinjal,Odisha,Balasore,1.136877421163651,415
+Brinjal,Odisha,Bargarh,0.7807873649091958,559
+Brinjal,Odisha,Bhadrak,1.0729915356502548,257
+Brinjal,Odisha,Bolangir,1.6438808269713163,378
+Brinjal,Odisha,Boudh,0.2430402115702493,231
+Brinjal,Odisha,Cuttack,1.4823959641901792,238
+Brinjal,Odisha,Deogarh,-1.371231363653021,51
+Brinjal,Odisha,Dhenkanal,1.8469503873420974,508
+Brinjal,Odisha,Gajapati,1.328618254998333,249
+Brinjal,Odisha,Ganjam,1.9297241667435208,376
+Brinjal,Odisha,Jagatsinghpur,0.8940131819488802,210
+Brinjal,Odisha,Jajpur,0.6287763385980976,202
+Brinjal,Odisha,Kalahandi,0.26407839936131505,425
+Brinjal,Odisha,Kandhamal,-2.6224622024046447,49
+Brinjal,Odisha,Kendrapara,2.691235980916291,587
+Brinjal,Odisha,Keonjhar,0.968936366377753,375
+Brinjal,Odisha,Khurda,-0.05198729255015287,245
+Brinjal,Odisha,Koraput,1.0107164213436084,287
+Brinjal,Odisha,Malkangiri,1.7135405962333305,215
+Brinjal,Odisha,Mayurbhanja,2.2639275830616117,575
+Brinjal,Odisha,Nayagarh,1.8000743215920745,283
+Brinjal,Odisha,Nowarangpur,-1.3199858060491325,72
+Brinjal,Odisha,Nuapada,1.793831264176217,276
+Brinjal,Odisha,Puri,-0.22717460118057048,213
+Brinjal,Odisha,Rayagada,1.6970212077012319,146
+Brinjal,Odisha,Sambalpur,-0.6796479963349861,222
+Brinjal,Odisha,Sonepur,1.4445760062380288,218
+Brinjal,Odisha,Sundergarh,1.7114136182644586,349
+Brinjal,Punjab,Amritsar,1.4666910605361525,481
+Brinjal,Punjab,Barnala,0.3083018896834329,209
+Brinjal,Punjab,Bhatinda,3.2533979414827794,388
+Brinjal,Punjab,Faridkot,1.7801826318889353,223
+Brinjal,Punjab,Fatehgarh,1.7425049551469567,300
+Brinjal,Punjab,Fazilka,1.512223513294719,369
+Brinjal,Punjab,Ferozpur,1.3410037567553252,522
+Brinjal,Punjab,Gurdaspur,0.8887176923673941,846
+Brinjal,Punjab,Hoshiarpur,1.289810397085824,796
+Brinjal,Punjab,Jalandhar,1.3799485835201104,1062
+Brinjal,Punjab,Ludhiana,1.3922279927184997,683
+Brinjal,Punjab,Mansa,1.649665906433386,211
+Brinjal,Punjab,Moga,1.2198479804206424,342
+Brinjal,Punjab,Mohali,0.688352085611328,398
+Brinjal,Punjab,Muktsar,1.3858426047010237,428
+Brinjal,Punjab,Nawanshahr,1.0409480908673325,456
+Brinjal,Punjab,Pathankot,4.740513267545476,44
+Brinjal,Punjab,Patiala,1.5053594090126057,667
+Brinjal,Punjab,Ropar (Rupnagar),0.7972030601549497,339
+Brinjal,Punjab,Sangrur,1.4421320346569697,451
+Brinjal,Punjab,Tarntaran,1.8321056138027951,490
+Brinjal,Punjab,kapurthala,1.8867853139160622,416
+Brinjal,Rajasthan,Ajmer,1.2660857321284296,138
+Brinjal,Rajasthan,Alwar,2.173009768179145,121
+Brinjal,Rajasthan,Bikaner,1.5978897013365927,63
+Brinjal,Rajasthan,Chittorgarh,1.8005782333234428,134
+Brinjal,Rajasthan,Ganganagar,-3.733924269846752,28
+Brinjal,Rajasthan,Jaipur,0.9015190309592419,228
+Brinjal,Rajasthan,Jaipur Rural,-1.89710037044667,6
+Brinjal,Rajasthan,Jalore,1.8703296008472077,123
+Brinjal,Rajasthan,Jodhpur,1.3819356264569775,126
+Brinjal,Rajasthan,Kota,-1.1067490352279041,57
+Brinjal,Rajasthan,Sanchore,0.43370104372843343,1
+Brinjal,Rajasthan,Sikar,1.710056338067993,2
+Brinjal,Rajasthan,Udaipur,1.831524196400097,142
+Brinjal,Tamil Nadu,Ariyalur,-2.8443590298815167,16
+Brinjal,Tamil Nadu,Chengalpattu,-1.89710037044667,48
+Brinjal,Tamil Nadu,Coimbatore,-2.3041087308584944,61
+Brinjal,Tamil Nadu,Cuddalore,-2.6549072979945474,30
+Brinjal,Tamil Nadu,Dharmapuri,-2.694791873128646,38
+Brinjal,Tamil Nadu,Dindigul,-2.438391032980868,28
+Brinjal,Tamil Nadu,Erode,-2.8443590298815167,48
+Brinjal,Tamil Nadu,Kallakuruchi,1.2076858169677394,8
+Brinjal,Tamil Nadu,Kancheepuram,-2.5860157591265587,22
+Brinjal,Tamil Nadu,Karur,-2.1885645733496997,26
+Brinjal,Tamil Nadu,Krishnagiri,-2.2431201820010442,34
+Brinjal,Tamil Nadu,Madurai,-2.264109747247575,47
+Brinjal,Tamil Nadu,Nagapattinam,-2.8443590298815167,24
+Brinjal,Tamil Nadu,Nagercoil (Kannyiakumari),-2.196143535973095,7
+Brinjal,Tamil Nadu,Namakkal,-2.317818436535512,41
+Brinjal,Tamil Nadu,Perambalur,-1.89710037044667,6
+Brinjal,Tamil Nadu,Pudukkottai,-2.438391032980868,42
+Brinjal,Tamil Nadu,Ramanathapuram,-3.160111916359799,18
+Brinjal,Tamil Nadu,Ranipet,-1.89710037044667,12
+Brinjal,Tamil Nadu,Salem,-2.2128532569249524,72
+Brinjal,Tamil Nadu,Sivaganga,-2.5286061434032345,36
+Brinjal,Tamil Nadu,Tenkasi,-1.89710037044667,12
+Brinjal,Tamil Nadu,Thanjavur,-2.8443590298815167,32
+Brinjal,Tamil Nadu,The Nilgiris,-1.89710037044667,18
+Brinjal,Tamil Nadu,Theni,-2.503345912484972,50
+Brinjal,Tamil Nadu,Thiruchirappalli,-2.5681141538283265,37
+Brinjal,Tamil Nadu,Thirunelveli,-2.5286061434032345,36
+Brinjal,Tamil Nadu,Thirupathur,-1.89710037044667,12
+Brinjal,Tamil Nadu,Thirupur,-2.315659357438242,28
+Brinjal,Tamil Nadu,Thiruvannamalai,-2.5990031982644917,51
+Brinjal,Tamil Nadu,Thiruvarur,-2.5325038853603967,51
+Brinjal,Tamil Nadu,Thiruvellore,-1.89710037044667,30
+Brinjal,Tamil Nadu,Tuticorin,-2.5418584660575863,15
+Brinjal,Tamil Nadu,Vellore,-2.759572405928796,40
+Brinjal,Tamil Nadu,Villupuram,-2.5145707076358024,23
+Brinjal,Tamil Nadu,Virudhunagar,-2.2924386549387,47
+Brinjal,Telangana,Adilabad,6.999716031599095,34
+Brinjal,Telangana,Hyderabad,1.7381106754178401,477
+Brinjal,Telangana,Karimnagar,5.6895801576806235,68
+Brinjal,Telangana,Mahbubnagar,2.4218765422368236,221
+Brinjal,Telangana,Medak,2.584720713882585,181
+Brinjal,Telangana,Nalgonda,5.15532904254509,70
+Brinjal,Telangana,Ranga Reddy,2.5325094914038857,342
+Brinjal,Telangana,Warangal,3.6923936876960117,71
+Brinjal,Tripura,Dhalai,4.669794807449138,249
+Brinjal,Tripura,Gomati,3.1232860533640503,226
+Brinjal,Tripura,Khowai,2.0306190847449463,286
+Brinjal,Tripura,North Tripura,2.798730752870198,278
+Brinjal,Tripura,Sepahijala,2.7294119787042175,512
+Brinjal,Tripura,South District,3.486030852450494,298
+Brinjal,Tripura,Unokoti,2.7683603400759633,184
+Brinjal,Tripura,West District,2.3087574002845472,277
+Brinjal,Uttar Pradesh,Agra,2.4136892214933843,578
+Brinjal,Uttar Pradesh,Aligarh,2.206293352848355,428
+Brinjal,Uttar Pradesh,Ambedkarnagar,5.028226903338263,79
+Brinjal,Uttar Pradesh,Amethi,2.566738433701966,220
+Brinjal,Uttar Pradesh,Amroha,3.7576195916973196,205
+Brinjal,Uttar Pradesh,Auraiya,3.7515933111709088,258
+Brinjal,Uttar Pradesh,Ayodhya,2.5381800089325965,225
+Brinjal,Uttar Pradesh,Azamgarh,4.055332914026187,88
+Brinjal,Uttar Pradesh,Badaun,4.363502805406904,342
+Brinjal,Uttar Pradesh,Baghpat,2.0487558202575276,255
+Brinjal,Uttar Pradesh,Bahraich,2.652350960822678,227
+Brinjal,Uttar Pradesh,Ballia,3.944666978924551,168
+Brinjal,Uttar Pradesh,Balrampur,4.006856995287829,154
+Brinjal,Uttar Pradesh,Banda,3.6604746397616585,261
+Brinjal,Uttar Pradesh,Barabanki,3.0196536655224757,216
+Brinjal,Uttar Pradesh,Bareilly,2.0044173672515297,242
+Brinjal,Uttar Pradesh,Basti,4.055332914026187,88
+Brinjal,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),4.265179694175487,45
+Brinjal,Uttar Pradesh,Bijnor,2.5956470676583168,355
+Brinjal,Uttar Pradesh,Bulandshahar,2.072467598020194,884
+Brinjal,Uttar Pradesh,Chandauli,3.6277499794027848,90
+Brinjal,Uttar Pradesh,Chitrakut,4.981490125589576,77
+Brinjal,Uttar Pradesh,Deoria,4.448885091352472,119
+Brinjal,Uttar Pradesh,Etah,2.8987815004143247,249
+Brinjal,Uttar Pradesh,Etawah,4.051992390216974,246
+Brinjal,Uttar Pradesh,Farukhabad,3.8052304652043434,218
+Brinjal,Uttar Pradesh,Fatehpur,3.8365821120526085,221
+Brinjal,Uttar Pradesh,Firozabad,2.848632991487301,413
+Brinjal,Uttar Pradesh,Gautam Budh Nagar,3.2346307880772613,185
+Brinjal,Uttar Pradesh,Ghaziabad,3.4845871694355735,353
+Brinjal,Uttar Pradesh,Ghazipur,-0.47803396882985844,7
+Brinjal,Uttar Pradesh,Gonda,3.634975240332237,184
+Brinjal,Uttar Pradesh,Gorakhpur,3.3924539778073015,135
+Brinjal,Uttar Pradesh,Hamirpur,4.436386603037588,296
+Brinjal,Uttar Pradesh,Hapur,4.768419130934513,155
+Brinjal,Uttar Pradesh,Hardoi,4.091108859746561,283
+Brinjal,Uttar Pradesh,Hathras,2.0543635544754384,167
+Brinjal,Uttar Pradesh,Jalaun (Orai),2.1833960383803066,334
+Brinjal,Uttar Pradesh,Jaunpur,4.5633313071521835,240
+Brinjal,Uttar Pradesh,Jhansi,4.726988672313817,252
+Brinjal,Uttar Pradesh,Kannuj,3.4878506503038693,137
+Brinjal,Uttar Pradesh,Kanpur,3.6869566270230285,248
+Brinjal,Uttar Pradesh,Kanpur Dehat,5.128329211297056,193
+Brinjal,Uttar Pradesh,Kasganj,2.0048763490902197,129
+Brinjal,Uttar Pradesh,Kaushambi,4.891319890442377,32
+Brinjal,Uttar Pradesh,Khiri (Lakhimpur),5.053799366360781,150
+Brinjal,Uttar Pradesh,Kushinagar,2.429264098888157,43
+Brinjal,Uttar Pradesh,Lakhimpur,2.9203427925305516,301
+Brinjal,Uttar Pradesh,Lalitpur,3.4861181530844636,100
+Brinjal,Uttar Pradesh,Lucknow,1.5864660989134882,142
+Brinjal,Uttar Pradesh,Maharajganj,3.5436339826683385,168
+Brinjal,Uttar Pradesh,Mahoba,5.209204768967122,75
+Brinjal,Uttar Pradesh,Mainpuri,2.4745399686766554,266
+Brinjal,Uttar Pradesh,Mathura,3.0564864717560174,197
+Brinjal,Uttar Pradesh,Mau (Maunathbhanjan),2.437498279980113,80
+Brinjal,Uttar Pradesh,Meerut,2.3615239608235186,334
+Brinjal,Uttar Pradesh,Mirzapur,3.57649479076191,166
+Brinjal,Uttar Pradesh,Muzaffarnagar,2.2979417368355377,320
+Brinjal,Uttar Pradesh,Pillibhit,3.331716908474516,329
+Brinjal,Uttar Pradesh,Pratapgarh,2.647748172130317,114
+Brinjal,Uttar Pradesh,Prayagraj,3.9972160242888983,234
+Brinjal,Uttar Pradesh,Raebarelli,0.5460344465208782,201
+Brinjal,Uttar Pradesh,Rampur,3.0953009386893204,193
+Brinjal,Uttar Pradesh,Saharanpur,3.0926579801721,452
+Brinjal,Uttar Pradesh,Sambhal,2.340652911622953,344
+Brinjal,Uttar Pradesh,Sant Kabir Nagar,2.3741357714771043,73
+Brinjal,Uttar Pradesh,Shahjahanpur,3.2894396692495573,350
+Brinjal,Uttar Pradesh,Shamli,3.342285817786654,319
+Brinjal,Uttar Pradesh,Shravasti,-0.9170800388675815,8
+Brinjal,Uttar Pradesh,Siddharth Nagar,3.5362233104416743,143
+Brinjal,Uttar Pradesh,Sitapur,2.029202386310948,243
+Brinjal,Uttar Pradesh,Sonbhadra,3.1437512626563207,122
+Brinjal,Uttar Pradesh,Unnao,2.7268304301759185,297
+Brinjal,Uttar Pradesh,Varanasi,3.5104229936452382,103
+Brinjal,Uttrakhand,Champawat,-1.14562407682115,3
+Brinjal,Uttrakhand,Dehradoon,1.2867184231677313,357
+Brinjal,Uttrakhand,Garhwal (Pauri),3.0416724393084187,67
+Brinjal,Uttrakhand,Haridwar,2.3025821697127418,385
+Brinjal,Uttrakhand,Nanital,0.8936578988551667,218
+Brinjal,Uttrakhand,UdhamSinghNagar,1.0789666220990375,673
+Brinjal,West Bengal,Alipurduar,1.3511260881542015,228
+Brinjal,West Bengal,Bankura,1.629831393553782,412
+Brinjal,West Bengal,Birbhum,2.329713175572444,384
+Brinjal,West Bengal,Burdwan,-4.453390536691896,16
+Brinjal,West Bengal,Coochbehar,2.006389316510204,1050
+Brinjal,West Bengal,Dakshin Dinajpur,1.886666107258676,273
+Brinjal,West Bengal,Hooghly,-1.7194543959671065,55
+Brinjal,West Bengal,Howrah,2.673078384950668,244
+Brinjal,West Bengal,Jalpaiguri,1.7289527239150937,441
+Brinjal,West Bengal,Jhargram,0.325691094741166,104
+Brinjal,West Bengal,Kolkata,1.6468398972134357,143
+Brinjal,West Bengal,Malda,-1.6175182945089974,83
+Brinjal,West Bengal,Medinipur (E),1.8003766057414359,271
+Brinjal,West Bengal,Medinipur (W),2.0914648588851024,255
+Brinjal,West Bengal,Murshidabad,2.2491842576962338,124
+Brinjal,West Bengal,Nadia,2.5663718267291826,567
+Brinjal,West Bengal,North 24 Parganas,2.475082419183174,255
+Brinjal,West Bengal,Paschim Bardhaman,1.9503192536069596,271
+Brinjal,West Bengal,Purba Bardhaman,2.4895506605006252,350
+Brinjal,West Bengal,Puruliya,2.3856224133167725,375
+Brinjal,West Bengal,Sounth 24 Parganas,2.464914152012951,249
+Cauliflower,Andaman and Nicobar,Nicobar,10.80580482954646,2
+Cauliflower,Andaman and Nicobar,North and Middle Andaman,-5.120447973363124,4
+Cauliflower,Andaman and Nicobar,South Andaman,-0.8781424839454909,3
+Cauliflower,Andhra Pradesh,Chittor,-3.1716737975592304,46
+Cauliflower,Andhra Pradesh,Prakasam,3.8759873117199284,2
+Cauliflower,Andhra Pradesh,West Godavari,-6.312657976246607,7
+Cauliflower,Assam,Barpeta,-5.441189922854807,37
+Cauliflower,Assam,Cachar,5.189360010164519,15
+Cauliflower,Assam,Darrang,-5.086543326093707,54
+Cauliflower,Assam,Dhubri,11.392762555908746,4
+Cauliflower,Assam,Dibrugarh,2.867863235935891,2
+Cauliflower,Assam,Goalpara,19.62106015102404,3
+Cauliflower,Assam,Golaghat,-5.08211106764626,26
+Cauliflower,Assam,Jorhat,3.227876903732922,6
+Cauliflower,Assam,Kamrup,-0.9799621875165205,32
+Cauliflower,Assam,Karbi Anglong,7.433638408497862,7
+Cauliflower,Assam,Kokrajhar,36.077655341254626,1
+Cauliflower,Assam,Lakhimpur,36.077655341254626,2
+Cauliflower,Assam,MORIGAON,11.392762555908746,2
+Cauliflower,Assam,Nagaon,-9.279166659251379,5
+Cauliflower,Assam,Nalbari,11.089864931255715,5
+Cauliflower,Assam,Sibsagar,10.887933181487028,3
+Cauliflower,Assam,Sonitpur,-7.107379174697939,13
+Cauliflower,Assam,Tinsukia,-10.035257085997955,2
+Cauliflower,Bihar,Araria,0.7802015427231103,21
+Cauliflower,Bihar,Aurangabad,-4.278597053580451,14
+Cauliflower,Bihar,Banka,-4.367154690468776,3
+Cauliflower,Bihar,Begusarai,0.8020249770467738,19
+Cauliflower,Bihar,Bhagalpur,-1.9318449429470816,26
+Cauliflower,Bihar,Bhojpur,3.3713406467020945,2
+Cauliflower,Bihar,Buxar,8.293055958455788,9
+Cauliflower,Bihar,Darbhanga,7.846579305736441,1
+Cauliflower,Bihar,East Champaran/ Motihari,0.40009829540458325,43
+Cauliflower,Bihar,Gaya,0.1703667164025446,17
+Cauliflower,Bihar,Gopalgang,3.3451504323064114,7
+Cauliflower,Bihar,Jamui,1.4636277009285739,9
+Cauliflower,Bihar,Jehanabad,-4.899435972975766,2
+Cauliflower,Bihar,Kaimur/Bhabhua,-4.516842781572592,8
+Cauliflower,Bihar,Kaithar,-3.0656186617474344,17
+Cauliflower,Bihar,Khagaria,-0.46078269100406094,11
+Cauliflower,Bihar,Kishanganj,-2.400068700008054,15
+Cauliflower,Bihar,Luckeesarai,2.707415559449684,15
+Cauliflower,Bihar,Madhepura,2.3412369216074955,14
+Cauliflower,Bihar,Madhubani,1.5962740206362482,17
+Cauliflower,Bihar,Munghair,0.7004269927572864,7
+Cauliflower,Bihar,Muzaffarpur,-6.77828475561202,4
+Cauliflower,Bihar,Nalanda,4.2754983451732755,11
+Cauliflower,Bihar,Nawada,0.4156130383314064,10
+Cauliflower,Bihar,Purnea,4.608478311347189,6
+Cauliflower,Bihar,Rohtas,-0.827341339141636,15
+Cauliflower,Bihar,Saharsa,1.2111971333350817,11
+Cauliflower,Bihar,Samastipur,0.13874090614335444,16
+Cauliflower,Bihar,Saran,-4.57522438979297,5
+Cauliflower,Bihar,Sheikhpura,-1.7310894374349635,13
+Cauliflower,Bihar,Sheohar,0.0752595791643671,2
+Cauliflower,Bihar,Sitamarhi,6.4257966364518895,5
+Cauliflower,Bihar,Siwan,-0.9951061685736756,11
+Cauliflower,Bihar,Supaul,0.21403180564664354,25
+Cauliflower,Bihar,Vaishali,-1.8841949372216316,6
+Cauliflower,Bihar,West Chambaran,-2.107344759749003,5
+Cauliflower,Chandigarh,Chandigarh,-2.6090387572419664,96
+Cauliflower,Chattisgarh,Bilaspur,0.08036906930504865,48
+Cauliflower,Chattisgarh,Durg,-1.7161909895458327,92
+Cauliflower,Chattisgarh,Raigarh,10.887933181487028,3
+Cauliflower,Chattisgarh,Rajnandgaon,11.089864931255715,5
+Cauliflower,Gujarat,Ahmedabad,-3.6020514411191913,177
+Cauliflower,Gujarat,Amreli,-0.6325764298781373,95
+Cauliflower,Gujarat,Anand,-2.3794739175945594,161
+Cauliflower,Gujarat,Banaskanth,-2.4642384823754155,106
+Cauliflower,Gujarat,Bharuch,-2.8439215608555384,254
+Cauliflower,Gujarat,Dahod,-2.620370989004008,146
+Cauliflower,Gujarat,Gandhinagar,-3.1302775965032756,165
+Cauliflower,Gujarat,Gir Somnath,-4.9460435245039145,55
+Cauliflower,Gujarat,Junagarh,-10.678167315732367,2
+Cauliflower,Gujarat,Kachchh,-4.713803323387118,11
+Cauliflower,Gujarat,Kheda,-3.048068977465091,231
+Cauliflower,Gujarat,Mehsana,-3.088621432600365,196
+Cauliflower,Gujarat,Morbi,-2.235594296570751,78
+Cauliflower,Gujarat,Navsari,-1.8529256203607238,103
+Cauliflower,Gujarat,Patan,-5.940081563826402,52
+Cauliflower,Gujarat,Porbandar,0.6369160221860373,35
+Cauliflower,Gujarat,Rajkot,-2.968933178096248,92
+Cauliflower,Gujarat,Sabarkantha,-8.426908018410117,23
+Cauliflower,Gujarat,Surat,-2.791430101418523,292
+Cauliflower,Gujarat,Surendranagar,-2.5769466811058357,137
+Cauliflower,Gujarat,Vadodara (Baroda),-2.8050051324105527,278
+Cauliflower,Haryana,Ambala,-2.90844822538392,652
+Cauliflower,Haryana,Bhiwani,-4.956370323747178,109
+Cauliflower,Haryana,Faridabad,-2.8785318961280004,252
+Cauliflower,Haryana,Fatehabad,-2.607857826008287,243
+Cauliflower,Haryana,Gurgaon,-0.1029946670923094,108
+Cauliflower,Haryana,Hissar,-2.751549978862955,290
+Cauliflower,Haryana,Jhajar,-4.03981371864312,124
+Cauliflower,Haryana,Jind,0.5730920441846479,44
+Cauliflower,Haryana,Kaithal,-4.3556909869761835,77
+Cauliflower,Haryana,Karnal,-3.3338660681211807,275
+Cauliflower,Haryana,Kurukshetra,-2.7388976639106972,526
+Cauliflower,Haryana,Mahendragarh-Narnaul,-3.237291333803752,210
+Cauliflower,Haryana,Mewat,-1.6520894908222228,211
+Cauliflower,Haryana,Palwal,-3.520429371672887,83
+Cauliflower,Haryana,Panchkula,-1.9015837658286279,136
+Cauliflower,Haryana,Panipat,-3.221166133196805,225
+Cauliflower,Haryana,Rewari,-4.403228905691999,13
+Cauliflower,Haryana,Rohtak,-3.026404973214064,109
+Cauliflower,Haryana,Sirsa,-4.275946517030753,75
+Cauliflower,Haryana,Sonipat,-2.549166072979274,240
+Cauliflower,Haryana,Yamuna Nagar,-3.0840287928718997,626
+Cauliflower,Himachal Pradesh,Bilaspur,-2.445403612661452,124
+Cauliflower,Himachal Pradesh,Chamba,-2.5607094877490497,118
+Cauliflower,Himachal Pradesh,Hamirpur,-2.7253336776768244,259
+Cauliflower,Himachal Pradesh,Kangra,-1.9013630983050924,542
+Cauliflower,Himachal Pradesh,Kullu,-2.8189061277217373,444
+Cauliflower,Himachal Pradesh,Mandi,-2.9728536452177026,444
+Cauliflower,Himachal Pradesh,Shimla,-1.6156725390507507,224
+Cauliflower,Himachal Pradesh,Sirmore,-2.8466472356256944,214
+Cauliflower,Himachal Pradesh,Solan,-3.2059417349768973,170
+Cauliflower,Himachal Pradesh,Una,-2.2348378165333935,223
+Cauliflower,Jammu and Kashmir,Anantnag,0.5919463017572699,61
+Cauliflower,Jammu and Kashmir,Badgam,-4.534331810953181,7
+Cauliflower,Jammu and Kashmir,Jammu,-3.760712939304268,307
+Cauliflower,Jammu and Kashmir,Kathua,-2.252309409762954,109
+Cauliflower,Jammu and Kashmir,Pulwama,-14.467523635137113,2
+Cauliflower,Jammu and Kashmir,Rajouri,-2.2420809455577144,52
+Cauliflower,Jammu and Kashmir,Srinagar,-2.2454206994085997,96
+Cauliflower,Jammu and Kashmir,Udhampur,-3.667651403378549,207
+Cauliflower,Jharkhand,Deogarh,-12.343590475168208,8
+Cauliflower,Jharkhand,East Singhbhum,-8.069076556870973,17
+Cauliflower,Jharkhand,Garhwa,-4.141624117992092,23
+Cauliflower,Jharkhand,Gumla,-4.988032427318233,74
+Cauliflower,Jharkhand,Koderma,-6.967961749441124,29
+Cauliflower,Jharkhand,Lohardaga,-5.836831749638327,73
+Cauliflower,Jharkhand,Pakur,-8.406892497183998,8
+Cauliflower,Jharkhand,Ranchi,-3.0038978569058665,52
+Cauliflower,Jharkhand,Sahebgang,-9.558181053468891,12
+Cauliflower,Jharkhand,Saraikela (Kharsanwa),-3.44282787400944,3
+Cauliflower,Jharkhand,Simdega,-6.881714511363769,26
+Cauliflower,Karnataka,Bangalore,-2.5411636070044796,299
+Cauliflower,Karnataka,Belgaum,-1.9542642722083947,48
+Cauliflower,Karnataka,Bellary,9.238130641244197,3
+Cauliflower,Karnataka,Chamrajnagar,-12.963343146050647,1
+Cauliflower,Karnataka,Chikmagalur,-1.9123485404292433,180
+Cauliflower,Karnataka,Davangere,-2.192254382155814,79
+Cauliflower,Karnataka,Dharwad,6.662831282153526,8
+Cauliflower,Karnataka,Gadag,4.2616401197037845,4
+Cauliflower,Karnataka,Hassan,2.180557261934783,29
+Cauliflower,Karnataka,Karwar (Uttar Kannad),-2.2215484599985396,6
+Cauliflower,Karnataka,Kolar,-2.2397902546365343,412
+Cauliflower,Karnataka,Mandya,1.5837205418000906,9
+Cauliflower,Karnataka,Mangalore (Dakshin Kannad),2.165609236937851,14
+Cauliflower,Karnataka,Mysore,-2.8588463187937143,158
+Cauliflower,Karnataka,Shimoga,-1.485497432749622,64
+Cauliflower,Karnataka,Udupi,-2.4153989756544703,66
+Cauliflower,Kerala,Alappuzha,-2.8637408818875754,889
+Cauliflower,Kerala,Ernakulam,-2.6727240013024733,958
+Cauliflower,Kerala,Idukki,-2.5502401834990542,408
+Cauliflower,Kerala,Kasargod,-1.5159910057633006,86
+Cauliflower,Kerala,Kollam,-3.531110286124246,303
+Cauliflower,Kerala,Kottayam,-2.3197211660172314,308
+Cauliflower,Kerala,Kozhikode (Calicut),-2.449541595985088,324
+Cauliflower,Kerala,Malappuram,-2.7413680049199662,744
+Cauliflower,Kerala,Palakad,-2.8367342875877144,771
+Cauliflower,Kerala,Thirssur,-3.134627112550024,614
+Cauliflower,Kerala,Thiruvananthapuram,-3.452277773082928,435
+Cauliflower,Kerala,Wayanad,-2.4215925571858405,34
+Cauliflower,Madhya Pradesh,Anupur,-13.91435981791335,2
+Cauliflower,Madhya Pradesh,Badwani,-1.5589950646216701,83
+Cauliflower,Madhya Pradesh,Betul,-8.84634960244376,24
+Cauliflower,Madhya Pradesh,Bhopal,-3.9256407392130974,98
+Cauliflower,Madhya Pradesh,Burhanpur,-4.277688701447617,38
+Cauliflower,Madhya Pradesh,Chhatarpur,10.887933181487028,3
+Cauliflower,Madhya Pradesh,Chhindwara,-3.716558807599226,127
+Cauliflower,Madhya Pradesh,Damoh,-7.431403179571313,30
+Cauliflower,Madhya Pradesh,Dewas,-4.036769788135036,235
+Cauliflower,Madhya Pradesh,Dhar,-2.936894225287318,275
+Cauliflower,Madhya Pradesh,Guna,-2.905748594197798,14
+Cauliflower,Madhya Pradesh,Gwalior,-3.92224084827678,125
+Cauliflower,Madhya Pradesh,Harda,-2.8054228652273987,207
+Cauliflower,Madhya Pradesh,Hoshangabad,-2.3821071943714425,117
+Cauliflower,Madhya Pradesh,Indore,-3.47828861504853,188
+Cauliflower,Madhya Pradesh,Jabalpur,11.392762555908746,2
+Cauliflower,Madhya Pradesh,Jhabua,-3.9361648204591484,123
+Cauliflower,Madhya Pradesh,Katni,-16.40706024388792,5
+Cauliflower,Madhya Pradesh,Khandwa,-4.67336972479459,34
+Cauliflower,Madhya Pradesh,Khargone,-4.240345668457721,43
+Cauliflower,Madhya Pradesh,Mandsaur,-5.324967152650312,52
+Cauliflower,Madhya Pradesh,Morena,-3.1896539806174227,84
+Cauliflower,Madhya Pradesh,Narsinghpur,0.13519341033530902,19
+Cauliflower,Madhya Pradesh,Rajgarh,-2.4941787977538725,81
+Cauliflower,Madhya Pradesh,Ratlam,10.887933181487028,3
+Cauliflower,Madhya Pradesh,Rewa,11.392762555908746,2
+Cauliflower,Madhya Pradesh,Sagar,-3.652978392122518,103
+Cauliflower,Madhya Pradesh,Seoni,-11.531830700372192,7
+Cauliflower,Madhya Pradesh,Shajapur,-4.18321715445894,32
+Cauliflower,Madhya Pradesh,Sheopur,-5.943445224972002,73
+Cauliflower,Madhya Pradesh,Shivpuri,-3.9304157287689754,79
+Cauliflower,Madhya Pradesh,Singroli,9.803206694519503,2
+Cauliflower,Madhya Pradesh,Ujjain,-3.8154615719294203,97
+Cauliflower,Maharashtra,Ahmednagar,-2.132689901809918,456
+Cauliflower,Maharashtra,Amarawati,-2.80236183342324,91
+Cauliflower,Maharashtra,Chandrapur,-2.4796146923470523,122
+Cauliflower,Maharashtra,Chattrapati Sambhajinagar,-2.813218125001076,141
+Cauliflower,Maharashtra,Dharashiv (Usmanabad),-2.7464764321023654,85
+Cauliflower,Maharashtra,Jalgaon,-1.9323626684292579,192
+Cauliflower,Maharashtra,Kolhapur,-2.612029882793144,293
+Cauliflower,Maharashtra,Mumbai,-2.8674013300013157,142
+Cauliflower,Maharashtra,Nagpur,-2.759978879652367,531
+Cauliflower,Maharashtra,Nandurbar,-2.6422580670779845,90
+Cauliflower,Maharashtra,Nashik,-2.9543820727308416,197
+Cauliflower,Maharashtra,Parbhani,-2.661795731878638,9
+Cauliflower,Maharashtra,Pune,-2.1382860267073145,887
+Cauliflower,Maharashtra,Raigad,-2.593125291555719,124
+Cauliflower,Maharashtra,Ratnagiri,-3.5722353047887974,117
+Cauliflower,Maharashtra,Sangli,-1.4016377177036243,129
+Cauliflower,Maharashtra,Satara,-2.7829253266315996,476
+Cauliflower,Maharashtra,Sholapur,-2.837652296736631,294
+Cauliflower,Maharashtra,Thane,-2.5065572374913603,120
+Cauliflower,Manipur,Bishnupur,-6.997150979303549,31
+Cauliflower,Manipur,Imphal East,-3.224914320510894,45
+Cauliflower,Manipur,Imphal West,-5.760159429235735,48
+Cauliflower,Manipur,Kakching,36.077655341254626,1
+Cauliflower,Manipur,Thoubal,-5.213154587925481,40
+Cauliflower,Meghalaya,East Khasi Hills,-3.7699928712606137,75
+Cauliflower,Meghalaya,South Garo Hills,22.20633803492588,3
+Cauliflower,Meghalaya,South West Garo Hills,-9.839208667559944,4
+Cauliflower,Meghalaya,West Garo Hills,-4.513088338806366,23
+Cauliflower,Meghalaya,West Jaintia Hills,-2.519367831833331,13
+Cauliflower,Meghalaya,West Khasi Hills,-24.15562052229842,4
+Cauliflower,Mizoram,Aizawl,-5.298438491661609,9
+Cauliflower,NCT of Delhi,Delhi,-3.185095249612835,416
+Cauliflower,Nagaland,Dimapur,-1.5053395588493212,36
+Cauliflower,Nagaland,Kohima,-4.827255762256516,14
+Cauliflower,Nagaland,Mokokchung,-1.376966630722336,2
+Cauliflower,Nagaland,Tsemenyu,1.91702816556774,5
+Cauliflower,Odisha,Angul,-6.072709973600932,67
+Cauliflower,Odisha,Balasore,-3.792015144030077,110
+Cauliflower,Odisha,Bargarh,-4.049252600057778,303
+Cauliflower,Odisha,Bhadrak,-3.7130204713621584,134
+Cauliflower,Odisha,Bolangir,-3.5111162803075704,217
+Cauliflower,Odisha,Boudh,-5.968222699349,122
+Cauliflower,Odisha,Cuttack,-5.007292148982374,56
+Cauliflower,Odisha,Deogarh,-5.729570955144559,44
+Cauliflower,Odisha,Dhenkanal,-3.089293528546457,333
+Cauliflower,Odisha,Gajapati,-4.0147164620154525,153
+Cauliflower,Odisha,Ganjam,-3.2394809414756813,228
+Cauliflower,Odisha,Jajpur,-3.9611672141980407,189
+Cauliflower,Odisha,Kalahandi,-3.9564042527225283,355
+Cauliflower,Odisha,Kandhamal,-3.5555506504051686,94
+Cauliflower,Odisha,Kendrapara,-3.8492529189871783,344
+Cauliflower,Odisha,Keonjhar,-2.9147452915545697,254
+Cauliflower,Odisha,Khurda,-1.9083169656091032,117
+Cauliflower,Odisha,Koraput,-3.5008956102931617,231
+Cauliflower,Odisha,Malkangiri,-1.8093539844079811,116
+Cauliflower,Odisha,Mayurbhanja,-4.1964539611323755,204
+Cauliflower,Odisha,Nayagarh,-1.0042558841817413,105
+Cauliflower,Odisha,Nowarangpur,-7.545756313521685,43
+Cauliflower,Odisha,Nuapada,-2.840380212210576,213
+Cauliflower,Odisha,Puri,-5.425989600500755,23
+Cauliflower,Odisha,Rayagada,-2.9460303749975485,102
+Cauliflower,Odisha,Sambalpur,-3.489884559214491,173
+Cauliflower,Odisha,Sonepur,-2.2896677989292047,113
+Cauliflower,Odisha,Sundergarh,-2.997116044702903,295
+Cauliflower,Punjab,Amritsar,-3.297765150859228,503
+Cauliflower,Punjab,Barnala,-3.8446700196947883,230
+Cauliflower,Punjab,Bhatinda,-3.9104016411981215,492
+Cauliflower,Punjab,Faridkot,-2.563092329796803,237
+Cauliflower,Punjab,Fatehgarh,-2.87257875765685,382
+Cauliflower,Punjab,Fazilka,-3.6035700438629332,352
+Cauliflower,Punjab,Ferozpur,-3.8064889001269617,682
+Cauliflower,Punjab,Gurdaspur,-3.505010436879773,869
+Cauliflower,Punjab,Hoshiarpur,-3.0241571517946095,915
+Cauliflower,Punjab,Jalandhar,-4.073270116966759,1010
+Cauliflower,Punjab,Ludhiana,-3.855136769157144,763
+Cauliflower,Punjab,Mansa,-3.489047560382401,299
+Cauliflower,Punjab,Moga,-3.9801361179962216,398
+Cauliflower,Punjab,Mohali,-3.379513392365121,505
+Cauliflower,Punjab,Muktsar,-2.94390137292032,397
+Cauliflower,Punjab,Nawanshahr,-3.839932100739948,455
+Cauliflower,Punjab,Pathankot,-1.9059585580113778,107
+Cauliflower,Punjab,Patiala,-2.941328520340462,610
+Cauliflower,Punjab,Ropar (Rupnagar),-3.8598262549765816,416
+Cauliflower,Punjab,Sangrur,-3.574855504505379,892
+Cauliflower,Punjab,Tarntaran,-3.690058384077396,531
+Cauliflower,Punjab,kapurthala,-3.652212456173975,405
+Cauliflower,Rajasthan,Ajmer,-2.477976262238639,140
+Cauliflower,Rajasthan,Alwar,-2.1916799158883458,124
+Cauliflower,Rajasthan,Bikaner,-1.9360034640730093,62
+Cauliflower,Rajasthan,Chittorgarh,-3.3941619745404044,127
+Cauliflower,Rajasthan,Ganganagar,-2.5408452174697205,119
+Cauliflower,Rajasthan,Jaipur,-3.0229768035671025,175
+Cauliflower,Rajasthan,Jaipur Rural,6.1004709387790585,6
+Cauliflower,Rajasthan,Jalore,-2.3821560413492007,121
+Cauliflower,Rajasthan,Jodhpur,-2.3326461111226124,126
+Cauliflower,Rajasthan,Kota,-3.370072905502925,65
+Cauliflower,Rajasthan,Udaipur,-2.944065270044792,141
+Cauliflower,Tamil Nadu,Chengalpattu,5.983159002337397,22
+Cauliflower,Tamil Nadu,Coimbatore,4.831722723590058,50
+Cauliflower,Tamil Nadu,Cuddalore,5.38854573944694,8
+Cauliflower,Tamil Nadu,Dharmapuri,5.2697228769262265,31
+Cauliflower,Tamil Nadu,Dindigul,6.4589463332750725,21
+Cauliflower,Tamil Nadu,Erode,4.743102080362569,36
+Cauliflower,Tamil Nadu,Kancheepuram,10.319844425821572,8
+Cauliflower,Tamil Nadu,Karur,9.884228233525096,5
+Cauliflower,Tamil Nadu,Krishnagiri,3.9473718650104996,28
+Cauliflower,Tamil Nadu,Madurai,6.1004709387790585,24
+Cauliflower,Tamil Nadu,Nagapattinam,3.583958686697858,18
+Cauliflower,Tamil Nadu,Nagercoil (Kannyiakumari),7.989525921503806,7
+Cauliflower,Tamil Nadu,Namakkal,5.178824334992863,31
+Cauliflower,Tamil Nadu,Perambalur,15.662721972651488,3
+Cauliflower,Tamil Nadu,Pudukkottai,11.62966990315175,2
+Cauliflower,Tamil Nadu,Ramanathapuram,3.3655611534027106,9
+Cauliflower,Tamil Nadu,Ranipet,7.6145692367656235,10
+Cauliflower,Tamil Nadu,Salem,9.580168149715165,47
+Cauliflower,Tamil Nadu,Sivaganga,5.625854139224312,36
+Cauliflower,Tamil Nadu,Tenkasi,6.1004709387790585,6
+Cauliflower,Tamil Nadu,Thanjavur,5.604244189014154,22
+Cauliflower,Tamil Nadu,The Nilgiris,7.213340731351423,17
+Cauliflower,Tamil Nadu,Theni,6.41413690896307,48
+Cauliflower,Tamil Nadu,Thiruchirappalli,6.269189416578758,35
+Cauliflower,Tamil Nadu,Thirunelveli,5.815700859046212,20
+Cauliflower,Tamil Nadu,Thirupur,9.215391384299028,20
+Cauliflower,Tamil Nadu,Thiruvannamalai,6.285775931808115,23
+Cauliflower,Tamil Nadu,Thiruvarur,4.747155926133132,14
+Cauliflower,Tamil Nadu,Tuticorin,3.3426050993264274,15
+Cauliflower,Tamil Nadu,Vellore,4.5116963216720745,21
+Cauliflower,Tamil Nadu,Villupuram,-12.818315534951125,1
+Cauliflower,Tamil Nadu,Virudhunagar,6.8333780214039255,43
+Cauliflower,Telangana,Adilabad,-3.1376826595981,29
+Cauliflower,Telangana,Hyderabad,-2.2149730589633854,451
+Cauliflower,Telangana,Karimnagar,-0.534839623399063,34
+Cauliflower,Telangana,Mahbubnagar,36.077655341254626,1
+Cauliflower,Telangana,Medak,-1.2165545950642285,31
+Cauliflower,Telangana,Nalgonda,-4.147105244852511,12
+Cauliflower,Telangana,Ranga Reddy,0.46215234157264845,157
+Cauliflower,Telangana,Warangal,0.8717209841170808,39
+Cauliflower,Tripura,Dhalai,3.862433160907746,62
+Cauliflower,Tripura,Gomati,-1.5332946650977142,75
+Cauliflower,Tripura,Khowai,-4.419471906018333,119
+Cauliflower,Tripura,North Tripura,-2.92869520022878,105
+Cauliflower,Tripura,Sepahijala,-4.160756337318016,223
+Cauliflower,Tripura,South District,-1.6263560910901684,84
+Cauliflower,Tripura,Unokoti,-1.6437099568193825,74
+Cauliflower,Tripura,West District,-4.291224245878411,98
+Cauliflower,Uttar Pradesh,Agra,-2.732270645238918,512
+Cauliflower,Uttar Pradesh,Aligarh,-2.499957445365051,344
+Cauliflower,Uttar Pradesh,Ambedkarnagar,-2.434351961944247,55
+Cauliflower,Uttar Pradesh,Amethi,-4.039935007099773,127
+Cauliflower,Uttar Pradesh,Amroha,-1.969791817955293,166
+Cauliflower,Uttar Pradesh,Auraiya,-2.6432601455436777,98
+Cauliflower,Uttar Pradesh,Ayodhya,-3.273429972718477,139
+Cauliflower,Uttar Pradesh,Azamgarh,-2.1719979129740814,50
+Cauliflower,Uttar Pradesh,Badaun,-1.6423664711069859,250
+Cauliflower,Uttar Pradesh,Baghpat,-4.155665913593698,189
+Cauliflower,Uttar Pradesh,Bahraich,-3.3129868414919934,76
+Cauliflower,Uttar Pradesh,Ballia,-1.8918900018786264,75
+Cauliflower,Uttar Pradesh,Balrampur,-5.075525887673624,48
+Cauliflower,Uttar Pradesh,Banda,-2.6508934261949424,46
+Cauliflower,Uttar Pradesh,Barabanki,-2.646342487120494,93
+Cauliflower,Uttar Pradesh,Bareilly,-3.1627113973651793,156
+Cauliflower,Uttar Pradesh,Basti,-3.8008898466638756,50
+Cauliflower,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),2.7517513300780827,16
+Cauliflower,Uttar Pradesh,Bijnor,-3.713654802413253,208
+Cauliflower,Uttar Pradesh,Bulandshahar,-2.7109163741053117,793
+Cauliflower,Uttar Pradesh,Chandauli,-1.035901813903974,33
+Cauliflower,Uttar Pradesh,Chitrakut,-3.9632484804567873,43
+Cauliflower,Uttar Pradesh,Deoria,-0.4947591091754527,70
+Cauliflower,Uttar Pradesh,Etah,-2.291062157315013,244
+Cauliflower,Uttar Pradesh,Etawah,-1.5048619619278425,121
+Cauliflower,Uttar Pradesh,Farukhabad,-2.4157689342934865,107
+Cauliflower,Uttar Pradesh,Fatehpur,-1.9349573729101162,105
+Cauliflower,Uttar Pradesh,Firozabad,-3.9375910032384756,294
+Cauliflower,Uttar Pradesh,Gautam Budh Nagar,-1.3989932583269264,127
+Cauliflower,Uttar Pradesh,Ghaziabad,-2.432978103328774,272
+Cauliflower,Uttar Pradesh,Gonda,-0.2804139035487578,44
+Cauliflower,Uttar Pradesh,Gorakhpur,-0.662695979806921,88
+Cauliflower,Uttar Pradesh,Hamirpur,-2.2422122294270226,109
+Cauliflower,Uttar Pradesh,Hapur,-1.8864657178589301,31
+Cauliflower,Uttar Pradesh,Hardoi,-2.4245753311134246,137
+Cauliflower,Uttar Pradesh,Hathras,-2.8713512275284243,166
+Cauliflower,Uttar Pradesh,Jalaun (Orai),-1.8885343163432124,184
+Cauliflower,Uttar Pradesh,Jaunpur,-2.588451037583193,97
+Cauliflower,Uttar Pradesh,Jhansi,-1.4262576797067084,35
+Cauliflower,Uttar Pradesh,Kannuj,-1.9893078290301964,51
+Cauliflower,Uttar Pradesh,Kanpur,-1.0848230469230236,120
+Cauliflower,Uttar Pradesh,Kanpur Dehat,-1.0416242193682654,97
+Cauliflower,Uttar Pradesh,Kasganj,-2.998072149426657,114
+Cauliflower,Uttar Pradesh,Kaushambi,4.72276380963603,8
+Cauliflower,Uttar Pradesh,Khiri (Lakhimpur),-2.3213001472471086,71
+Cauliflower,Uttar Pradesh,Kushinagar,-2.4295467350939735,32
+Cauliflower,Uttar Pradesh,Lakhimpur,-2.874693891442224,94
+Cauliflower,Uttar Pradesh,Lalitpur,-3.7532600530146785,11
+Cauliflower,Uttar Pradesh,Lucknow,-4.838508892144918,65
+Cauliflower,Uttar Pradesh,Maharajganj,-2.751987776849802,135
+Cauliflower,Uttar Pradesh,Mahoba,-1.5775168814757774,39
+Cauliflower,Uttar Pradesh,Mainpuri,-2.762538836278164,145
+Cauliflower,Uttar Pradesh,Mathura,-1.8545335494230004,182
+Cauliflower,Uttar Pradesh,Mau (Maunathbhanjan),-1.4623932641719801,72
+Cauliflower,Uttar Pradesh,Meerut,-2.5157217951610873,184
+Cauliflower,Uttar Pradesh,Mirzapur,0.03230669685982196,46
+Cauliflower,Uttar Pradesh,Muzaffarnagar,-2.5814329128910214,231
+Cauliflower,Uttar Pradesh,Pillibhit,-2.0729129096609875,233
+Cauliflower,Uttar Pradesh,Pratapgarh,-2.255690569486579,69
+Cauliflower,Uttar Pradesh,Prayagraj,-0.6539206679136064,57
+Cauliflower,Uttar Pradesh,Raebarelli,-4.208897562378278,154
+Cauliflower,Uttar Pradesh,Rampur,-2.692201729154002,126
+Cauliflower,Uttar Pradesh,Saharanpur,-2.0471117339733604,271
+Cauliflower,Uttar Pradesh,Sambhal,-1.8548974039403479,224
+Cauliflower,Uttar Pradesh,Sant Kabir Nagar,-1.8812165546786324,42
+Cauliflower,Uttar Pradesh,Shahjahanpur,-3.0273645599231735,253
+Cauliflower,Uttar Pradesh,Shamli,-2.471392392500577,175
+Cauliflower,Uttar Pradesh,Shravasti,36.077655341254626,1
+Cauliflower,Uttar Pradesh,Siddharth Nagar,-3.6356933448567266,89
+Cauliflower,Uttar Pradesh,Sitapur,-3.6484709177519505,108
+Cauliflower,Uttar Pradesh,Sonbhadra,-0.2942400618073166,28
+Cauliflower,Uttar Pradesh,Unnao,-3.3223314323656807,191
+Cauliflower,Uttar Pradesh,Varanasi,-3.9471087496005275,45
+Cauliflower,Uttrakhand,Dehradoon,-2.8895112773227822,279
+Cauliflower,Uttrakhand,Garhwal (Pauri),-2.1924388734779794,97
+Cauliflower,Uttrakhand,Haridwar,-3.19719282695417,302
+Cauliflower,Uttrakhand,Nanital,-2.5256996650248937,149
+Cauliflower,Uttrakhand,UdhamSinghNagar,-3.028573130013297,414
+Cauliflower,West Bengal,Alipurduar,-4.47887670074195,133
+Cauliflower,West Bengal,Birbhum,-7.509795415986952,5
+Cauliflower,West Bengal,Coochbehar,-4.412667981650258,510
+Cauliflower,West Bengal,Dakshin Dinajpur,-5.260247069466028,106
+Cauliflower,West Bengal,Darjeeling,-3.122875834361807,112
+Cauliflower,West Bengal,Hooghly,14.217331193693553,2
+Cauliflower,West Bengal,Jalpaiguri,-2.76028685418932,213
+Cauliflower,West Bengal,Kalimpong,-3.4912317905588752,60
+Cauliflower,West Bengal,Kolkata,-2.19027207953808,21
+Cauliflower,West Bengal,Malda,-3.276456140205214,43
+Cauliflower,West Bengal,Nadia,-4.903015326094882,54
+Cauliflower,West Bengal,North 24 Parganas,-7.587634444651549,4
+Cauliflower,West Bengal,Puruliya,-8.072019469821427,25
+Onion,Andaman and Nicobar,Nicobar,2.98162065346913,20
+Onion,Andaman and Nicobar,North and Middle Andaman,-2.0273522897062755,4
+Onion,Andaman and Nicobar,South Andaman,-11.747154067532563,4
+Onion,Andhra Pradesh,Anantapur,22.862654676059407,2
+Onion,Andhra Pradesh,Chittor,-0.4108225677645052,12
+Onion,Andhra Pradesh,Cuddapah,9.429542247478654,25
+Onion,Andhra Pradesh,Krishna,-0.31536765660778876,2
+Onion,Andhra Pradesh,Kurnool,3.0347024913936655,276
+Onion,Andhra Pradesh,Nellore,9.019671458635871,2
+Onion,Andhra Pradesh,Prakasam,7.2475869096452925,11
+Onion,Andhra Pradesh,Visakhapatnam,-0.3737559248859341,2
+Onion,Andhra Pradesh,West Godavari,2.8793304084169846,101
+Onion,Arunachal Pradesh,Papum Pore,-4.847104973831716,13
+Onion,Arunachal Pradesh,Tirap,1.0749289385064849,8
+Onion,Assam,BONGAIGAON,2.024297446024211,68
+Onion,Assam,Barpeta,4.966392849288746,102
+Onion,Assam,Cachar,-4.331369387687567,12
+Onion,Assam,Darrang,-15.880645084032302,3
+Onion,Assam,Dhemaji,-23.608352253672365,1
+Onion,Assam,Dhubri,3.347218537374333,37
+Onion,Assam,Dibrugarh,-0.2919829297467901,37
+Onion,Assam,Goalpara,-7.588009185056096,7
+Onion,Assam,Golaghat,4.463449847518289,53
+Onion,Assam,Hailakandi,-4.332282226225925,5
+Onion,Assam,Jorhat,1.6740608605649223,66
+Onion,Assam,Kamrup,3.3477785372345905,132
+Onion,Assam,Karimganj,17.999272530148886,1
+Onion,Assam,Kokrajhar,0.4462521151965362,22
+Onion,Assam,Lakhimpur,-18.00698657150709,3
+Onion,Assam,Nagaon,1.5472619396197251,78
+Onion,Assam,Nalbari,1.4659685155656121,11
+Onion,Assam,Sibsagar,2.0321955312424334,49
+Onion,Assam,Sonitpur,2.649356935124382,48
+Onion,Assam,Tinsukia,0.9008516770318593,32
+Onion,Bihar,Araria,6.421419787722641,36
+Onion,Bihar,Arwal,9.977849435795049,13
+Onion,Bihar,Aurangabad,6.752811145960315,38
+Onion,Bihar,Banka,0.8638833611446769,28
+Onion,Bihar,Begusarai,5.318462538115889,31
+Onion,Bihar,Bhagalpur,3.7541837047036486,38
+Onion,Bihar,Bhojpur,-0.06893422743250184,27
+Onion,Bihar,Buxar,1.1861449359705711,25
+Onion,Bihar,Chhapra,0.9641647565637348,18
+Onion,Bihar,Darbhanga,2.007263384582204,30
+Onion,Bihar,East Champaran/ Motihari,6.212915207451274,63
+Onion,Bihar,Gopalgang,8.46877915385888,6
+Onion,Bihar,Jamui,3.1980970784421854,28
+Onion,Bihar,Jehanabad,2.8922416903814008,22
+Onion,Bihar,Kaimur/Bhabhua,8.84199878666044,31
+Onion,Bihar,Kaithar,5.353730482328089,33
+Onion,Bihar,Khagaria,2.9550180217664965,24
+Onion,Bihar,Kishanganj,4.889502045351108,55
+Onion,Bihar,Luckeesarai,5.566244663185464,18
+Onion,Bihar,Madhepura,3.8921581561560905,53
+Onion,Bihar,Madhubani,3.3734594271953697,74
+Onion,Bihar,Munghair,7.371539113648949,13
+Onion,Bihar,Muzaffarpur,0.6914933653714771,36
+Onion,Bihar,Nalanda,6.232824068990135,16
+Onion,Bihar,Nawada,6.779252437280595,52
+Onion,Bihar,Patna,3.4477961365026855,44
+Onion,Bihar,Purnea,0.8406260379345856,12
+Onion,Bihar,Rohtas,4.433855329270112,55
+Onion,Bihar,Saharsa,8.070719579392467,22
+Onion,Bihar,Samastipur,3.315505863653962,63
+Onion,Bihar,Saran,9.759879283624937,7
+Onion,Bihar,Sheikhpura,8.821685276589223,24
+Onion,Bihar,Sheohar,3.6753503864391,29
+Onion,Bihar,Sitamarhi,5.4310824354703335,11
+Onion,Bihar,Siwan,6.89416553277496,20
+Onion,Bihar,Supaul,7.087190372288963,31
+Onion,Bihar,Vaishali,6.16981716881086,71
+Onion,Bihar,West Chambaran,5.972781566566962,20
+Onion,Chandigarh,Chandigarh,3.5799233187101804,92
+Onion,Chattisgarh,Bilaspur,1.8645922237362742,109
+Onion,Chattisgarh,Durg,1.9875589020526172,109
+Onion,Chattisgarh,Raigarh,2.6580270455480624,103
+Onion,Chattisgarh,Rajnandgaon,1.4360742869219876,85
+Onion,Goa,North Goa,1.5050756768174804,116
+Onion,Gujarat,Ahmedabad,2.823307759850273,169
+Onion,Gujarat,Amreli,6.282775633878083,11
+Onion,Gujarat,Anand,2.595903469644733,290
+Onion,Gujarat,Banaskanth,1.654623073828845,130
+Onion,Gujarat,Bharuch,1.4750634201488257,133
+Onion,Gujarat,Bhavnagar,3.1835407211376086,243
+Onion,Gujarat,Botad,-16.678695325372132,1
+Onion,Gujarat,Dahod,1.4463270990487667,141
+Onion,Gujarat,Gandhinagar,11.05789968487052,2
+Onion,Gujarat,Gir Somnath,8.352750981525105,1
+Onion,Gujarat,Jamnagar,3.0117040599144365,84
+Onion,Gujarat,Junagarh,2.331170911475926,116
+Onion,Gujarat,Kachchh,2.0670036529886517,44
+Onion,Gujarat,Kheda,3.2375149499659592,235
+Onion,Gujarat,Mehsana,1.6009610007192006,138
+Onion,Gujarat,Morbi,2.2552544465878466,139
+Onion,Gujarat,Navsari,1.0683004964770324,90
+Onion,Gujarat,Patan,2.952903919273611,17
+Onion,Gujarat,Porbandar,-0.14877326962058005,46
+Onion,Gujarat,Rajkot,1.893858747206974,398
+Onion,Gujarat,Sabarkantha,15.683248023484131,3
+Onion,Gujarat,Surat,1.4105473515446751,154
+Onion,Gujarat,Surendranagar,2.0145489189241643,121
+Onion,Gujarat,Vadodara (Baroda),2.4049985636525624,277
+Onion,Haryana,Ambala,2.3751760197913376,657
+Onion,Haryana,Bhiwani,1.802679697968954,171
+Onion,Haryana,Faridabad,2.4243226425578306,273
+Onion,Haryana,Fatehabad,2.3257910314959784,392
+Onion,Haryana,Gurgaon,1.2551976224211554,386
+Onion,Haryana,Hissar,1.817172584736476,408
+Onion,Haryana,Jhajar,1.7578428281739056,176
+Onion,Haryana,Jind,2.7829814562582507,343
+Onion,Haryana,Kaithal,2.3859673677649145,333
+Onion,Haryana,Karnal,2.593327516480268,380
+Onion,Haryana,Kurukshetra,1.754154321419292,624
+Onion,Haryana,Mahendragarh-Narnaul,1.8626617101420306,309
+Onion,Haryana,Mewat,2.6498558722502485,286
+Onion,Haryana,Palwal,0.04383903768709415,111
+Onion,Haryana,Panchkula,1.600391383881982,313
+Onion,Haryana,Panipat,2.217735710615923,322
+Onion,Haryana,Rewari,2.381186692486241,140
+Onion,Haryana,Rohtak,2.3084441273277454,292
+Onion,Haryana,Sirsa,2.791948965459572,431
+Onion,Haryana,Sonipat,1.7960287351051758,396
+Onion,Haryana,Yamuna Nagar,2.282897287513467,756
+Onion,Himachal Pradesh,Bilaspur,2.076647209500741,143
+Onion,Himachal Pradesh,Chamba,2.0544030908115496,127
+Onion,Himachal Pradesh,Hamirpur,1.10892428404529,249
+Onion,Himachal Pradesh,Kangra,1.0656960327116514,539
+Onion,Himachal Pradesh,Kullu,1.9405928450708627,292
+Onion,Himachal Pradesh,Mandi,2.338474873054735,350
+Onion,Himachal Pradesh,Shimla,-2.0741865870835956,78
+Onion,Himachal Pradesh,Sirmore,1.9568233838885996,183
+Onion,Himachal Pradesh,Solan,0.7958580882750887,164
+Onion,Himachal Pradesh,Una,2.188381299026314,219
+Onion,Jammu and Kashmir,Anantnag,1.7227622748161062,81
+Onion,Jammu and Kashmir,Badgam,3.885826911667572,11
+Onion,Jammu and Kashmir,Jammu,2.4359660292951006,373
+Onion,Jammu and Kashmir,Kathua,2.361019640069359,108
+Onion,Jammu and Kashmir,Kupwara,17.81650869388386,1
+Onion,Jammu and Kashmir,Pulwama,-0.7536275667106117,22
+Onion,Jammu and Kashmir,Rajouri,2.2273799143229907,58
+Onion,Jammu and Kashmir,Srinagar,0.3535694134298461,95
+Onion,Jammu and Kashmir,Udhampur,2.275553997698436,202
+Onion,Jharkhand,Bokaro,2.833956339862357,123
+Onion,Jharkhand,Deogarh,2.693012327313144,125
+Onion,Jharkhand,Dhanbad,2.04441204865627,42
+Onion,Jharkhand,Dumka,4.960939672328759,9
+Onion,Jharkhand,East Singhbhum,3.21825483189357,131
+Onion,Jharkhand,Garhwa,4.116222788398764,40
+Onion,Jharkhand,Giridih,3.1432029316209342,74
+Onion,Jharkhand,Godda,4.369811847056047,55
+Onion,Jharkhand,Gumla,4.858032351871903,75
+Onion,Jharkhand,Hazaribagh,4.959645915532931,81
+Onion,Jharkhand,Jamtara,4.420745388634153,54
+Onion,Jharkhand,Koderma,4.778424474141148,72
+Onion,Jharkhand,Latehar,3.1565175441064293,68
+Onion,Jharkhand,Lohardaga,4.584624616709208,73
+Onion,Jharkhand,Pakur,2.6238087828235797,55
+Onion,Jharkhand,Palamu,2.696150194472122,65
+Onion,Jharkhand,Ranchi,2.413510166351456,145
+Onion,Jharkhand,Sahebgang,5.110006285509619,52
+Onion,Jharkhand,Saraikela (Kharsanwa),3.1565175441064293,68
+Onion,Jharkhand,Simdega,3.0785437608148083,44
+Onion,Jharkhand,West Singbhum,4.927745865556534,27
+Onion,Karnataka,Bagalkot,3.57644386709615,99
+Onion,Karnataka,Bangalore,1.7509236279155496,257
+Onion,Karnataka,Belgaum,1.9929627867780433,139
+Onion,Karnataka,Bellary,1.0942564252792268,118
+Onion,Karnataka,Bidar,-3.452052198160864,2
+Onion,Karnataka,Bijapur,2.4329366682913527,122
+Onion,Karnataka,Chamrajnagar,0.5520558471366522,53
+Onion,Karnataka,Chikmagalur,2.7164599203585404,223
+Onion,Karnataka,Chitradurga,6.041736971540576,16
+Onion,Karnataka,Davangere,1.9535852969501861,151
+Onion,Karnataka,Dharwad,2.3292119881843756,146
+Onion,Karnataka,Gadag,3.9699601076174074,43
+Onion,Karnataka,Hassan,2.309979565268176,193
+Onion,Karnataka,Haveri,0.14681291076099323,42
+Onion,Karnataka,Kalburgi,2.8594159800068195,27
+Onion,Karnataka,Karwar (Uttar Kannad),-3.2087971966212216,6
+Onion,Karnataka,Kolar,2.6205248916546195,346
+Onion,Karnataka,Koppal,-6.21037975883534,3
+Onion,Karnataka,Mandya,3.0775932656713336,6
+Onion,Karnataka,Mangalore (Dakshin Kannad),2.7670888790096693,38
+Onion,Karnataka,Mysore,2.7337162130286177,174
+Onion,Karnataka,Raichur,1.9687451114223764,130
+Onion,Karnataka,Shimoga,1.9869325435532808,101
+Onion,Karnataka,Tumkur,3.204259249623244,71
+Onion,Karnataka,Udupi,3.591967776907637,81
+Onion,Kerala,Alappuzha,2.1066763180028567,1019
+Onion,Kerala,Ernakulam,2.733957834417835,1024
+Onion,Kerala,Idukki,3.1999639623746554,581
+Onion,Kerala,Kannur,1.5987780582794417,151
+Onion,Kerala,Kasargod,2.2373726118572757,243
+Onion,Kerala,Kollam,2.270568982879253,508
+Onion,Kerala,Kottayam,2.0868676899180536,1078
+Onion,Kerala,Kozhikode (Calicut),2.4588978154776457,760
+Onion,Kerala,Malappuram,1.9492424341028425,768
+Onion,Kerala,Palakad,2.8098350853578964,743
+Onion,Kerala,Thirssur,1.967391422018603,919
+Onion,Kerala,Thiruvananthapuram,3.0604189964097253,473
+Onion,Madhya Pradesh,Agar Malwa,7.532113946365143,1
+Onion,Madhya Pradesh,Alirajpur,2.1443592108263383,35
+Onion,Madhya Pradesh,Anupur,-2.9793560858469617,17
+Onion,Madhya Pradesh,Badwani,-2.1484015158315954,24
+Onion,Madhya Pradesh,Betul,-0.6943522706793074,28
+Onion,Madhya Pradesh,Bhopal,2.454585960842254,115
+Onion,Madhya Pradesh,Burhanpur,2.952786533570213,85
+Onion,Madhya Pradesh,Chhatarpur,-2.851920932174738,5
+Onion,Madhya Pradesh,Chhindwara,2.2953638032115142,107
+Onion,Madhya Pradesh,Damoh,1.3341052554463821,94
+Onion,Madhya Pradesh,Dewas,1.9176583684350188,248
+Onion,Madhya Pradesh,Dhar,2.063637194713632,426
+Onion,Madhya Pradesh,Guna,2.244320013936694,49
+Onion,Madhya Pradesh,Gwalior,1.7390075323138512,126
+Onion,Madhya Pradesh,Harda,1.844717699346417,193
+Onion,Madhya Pradesh,Hoshangabad,1.2439429430712114,132
+Onion,Madhya Pradesh,Indore,2.163696671170756,300
+Onion,Madhya Pradesh,Jabalpur,2.612337121440548,92
+Onion,Madhya Pradesh,Jhabua,1.4506532840286857,129
+Onion,Madhya Pradesh,Katni,-7.054574716480299,6
+Onion,Madhya Pradesh,Khandwa,1.4296034033842446,138
+Onion,Madhya Pradesh,Khargone,3.387582332846674,80
+Onion,Madhya Pradesh,Mandsaur,3.1428743545623563,251
+Onion,Madhya Pradesh,Morena,2.614247526967754,46
+Onion,Madhya Pradesh,Narsinghpur,-5.624365277098075,19
+Onion,Madhya Pradesh,Neemuch,3.4819974283020687,153
+Onion,Madhya Pradesh,Raisen,-14.900959089258757,3
+Onion,Madhya Pradesh,Rajgarh,0.5897196022107405,154
+Onion,Madhya Pradesh,Ratlam,1.5799084139823543,290
+Onion,Madhya Pradesh,Rewa,9.750095582013664,2
+Onion,Madhya Pradesh,Sagar,3.19830235314951,230
+Onion,Madhya Pradesh,Satna,5.024449176285265,19
+Onion,Madhya Pradesh,Sehore,1.4970430186907036,160
+Onion,Madhya Pradesh,Seoni,-2.6180662410493727,7
+Onion,Madhya Pradesh,Shajapur,1.1295993159818163,383
+Onion,Madhya Pradesh,Sheopur,3.5291660985475484,70
+Onion,Madhya Pradesh,Shivpuri,1.1537501444021023,49
+Onion,Madhya Pradesh,Singroli,1.9627793245644625,5
+Onion,Madhya Pradesh,Ujjain,1.4850327819812554,150
+Onion,Maharashtra,Ahmednagar,1.7255800282365559,1661
+Onion,Maharashtra,Akola,2.406033402592613,26
+Onion,Maharashtra,Amarawati,1.3131030420476164,152
+Onion,Maharashtra,Beed,2.483480935848916,22
+Onion,Maharashtra,Buldhana,2.1939291881583403,98
+Onion,Maharashtra,Chandrapur,2.217897205535004,126
+Onion,Maharashtra,Chattrapati Sambhajinagar,1.6598018141434072,456
+Onion,Maharashtra,Dharashiv (Usmanabad),0.7257205567270192,81
+Onion,Maharashtra,Dhule,2.77028681129099,291
+Onion,Maharashtra,Jalana,0.3213167505820517,3
+Onion,Maharashtra,Jalgaon,2.0671970433240117,325
+Onion,Maharashtra,Kolhapur,2.03725421726159,157
+Onion,Maharashtra,Mumbai,2.6864792648447064,142
+Onion,Maharashtra,Nagpur,1.9860383288729064,382
+Onion,Maharashtra,Nandurbar,3.1643517724170884,34
+Onion,Maharashtra,Nashik,1.8956409496534297,2120
+Onion,Maharashtra,Parbhani,2.410443455266067,3
+Onion,Maharashtra,Pune,2.343272263525953,1107
+Onion,Maharashtra,Raigad,1.8982132000849108,95
+Onion,Maharashtra,Sangli,3.319552324222085,138
+Onion,Maharashtra,Satara,2.274227340445715,506
+Onion,Maharashtra,Sholapur,2.3163016810847847,643
+Onion,Maharashtra,Thane,3.277648567395388,203
+Onion,Maharashtra,Wardha,11.38317797538997,2
+Onion,Manipur,Bishnupur,2.3627487769879085,63
+Onion,Manipur,Imphal East,2.8220754942692987,86
+Onion,Manipur,Imphal West,2.260883338165065,92
+Onion,Manipur,Kakching,5.135708442938974,4
+Onion,Manipur,Thoubal,4.433385423041013,79
+Onion,Meghalaya,East Garo Hills,-18.759267789806017,1
+Onion,Meghalaya,South Garo Hills,11.968077217662184,1
+Onion,Meghalaya,South West Garo Hills,2.269327620699595,9
+Onion,Meghalaya,West Garo Hills,4.64076316854234,21
+Onion,Mizoram,Aizawl,1.5442459604881564,19
+Onion,Mizoram,Lungli,-5.539915580403445,16
+Onion,NCT of Delhi,Delhi,2.812790345004389,387
+Onion,Nagaland,Dimapur,-9.786511396950303,2
+Onion,Nagaland,Kohima,4.776612836633899,25
+Onion,Nagaland,Mokokchung,0.6443750488130503,28
+Onion,Nagaland,Peren,-5.429567934954889,2
+Onion,Odisha,Angul,1.4242152257365317,236
+Onion,Odisha,Balasore,1.20232268700384,390
+Onion,Odisha,Bargarh,1.7483266995525653,340
+Onion,Odisha,Bhadrak,3.2695471288473064,223
+Onion,Odisha,Bolangir,1.7135628888909757,242
+Onion,Odisha,Boudh,1.0863790537806315,201
+Onion,Odisha,Cuttack,2.482866788949162,153
+Onion,Odisha,Deogarh,0.8472739665378006,43
+Onion,Odisha,Dhenkanal,0.8148685240214656,460
+Onion,Odisha,Gajapati,3.4425942260618823,96
+Onion,Odisha,Ganjam,2.2379629176822013,276
+Onion,Odisha,Jagatsinghpur,-3.8336036388079404,9
+Onion,Odisha,Jajpur,2.1319638087093256,191
+Onion,Odisha,Jharsuguda,0.6554982118435817,116
+Onion,Odisha,Kalahandi,2.626378203569716,375
+Onion,Odisha,Kandhamal,2.6472088219380376,15
+Onion,Odisha,Kendrapara,1.8754081558973759,436
+Onion,Odisha,Keonjhar,1.7714655823014385,353
+Onion,Odisha,Khurda,2.615031905936583,329
+Onion,Odisha,Koraput,4.901946298720257,109
+Onion,Odisha,Malkangiri,0.5424743762114513,42
+Onion,Odisha,Mayurbhanja,1.0417220492493655,380
+Onion,Odisha,Nayagarh,3.8999789999896164,120
+Onion,Odisha,Nowarangpur,3.030947769874542,50
+Onion,Odisha,Nuapada,1.7022780606070178,268
+Onion,Odisha,Puri,2.26265223252332,101
+Onion,Odisha,Rayagada,0.321393973465003,50
+Onion,Odisha,Sambalpur,2.8186487705740815,128
+Onion,Odisha,Sonepur,0.5354451495764057,212
+Onion,Odisha,Sundergarh,1.2050858132340956,244
+Onion,Punjab,Amritsar,2.2178116505117464,446
+Onion,Punjab,Barnala,2.598711642828423,157
+Onion,Punjab,Bhatinda,2.300502789781558,905
+Onion,Punjab,Faridkot,2.3343052731819505,272
+Onion,Punjab,Fatehgarh,3.070709549599409,360
+Onion,Punjab,Fazilka,2.159181617061972,376
+Onion,Punjab,Ferozpur,2.3972290465121433,688
+Onion,Punjab,Gurdaspur,2.430176053494943,637
+Onion,Punjab,Hoshiarpur,2.178936615713405,909
+Onion,Punjab,Jalandhar,1.8052378944347425,445
+Onion,Punjab,Ludhiana,3.06400520040483,907
+Onion,Punjab,Mansa,2.244001545408501,340
+Onion,Punjab,Moga,2.424705407062526,451
+Onion,Punjab,Mohali,2.59150211684929,628
+Onion,Punjab,Muktsar,1.7262605063179226,469
+Onion,Punjab,Nawanshahr,1.9234562828437638,345
+Onion,Punjab,Pathankot,1.5789809589044999,110
+Onion,Punjab,Patiala,2.2428600088404393,837
+Onion,Punjab,Ropar (Rupnagar),2.9734769564988937,430
+Onion,Punjab,Sangrur,2.325824011933085,910
+Onion,Punjab,Tarntaran,1.8834476454642441,274
+Onion,Punjab,kapurthala,2.376044640076357,189
+Onion,Rajasthan,Ajmer,0.6685600362740747,264
+Onion,Rajasthan,Alwar,1.897268741743335,147
+Onion,Rajasthan,Balotra,-0.8773427858734166,6
+Onion,Rajasthan,Baran,0.4933711297722257,11
+Onion,Rajasthan,Barmer,-1.108230040436378,35
+Onion,Rajasthan,Beawar,-18.759267789806017,1
+Onion,Rajasthan,Bharatpur,2.025732418320986,182
+Onion,Rajasthan,Bhilwara,-0.8966057970840492,55
+Onion,Rajasthan,Bikaner,0.6552312740144607,59
+Onion,Rajasthan,Chittorgarh,2.0053401112728966,316
+Onion,Rajasthan,Churu,0.44918168774208733,118
+Onion,Rajasthan,Dungarpur,-8.665858092664905,2
+Onion,Rajasthan,Ganganagar,1.0683402819046937,148
+Onion,Rajasthan,Hanumangarh,0.25887183876065956,528
+Onion,Rajasthan,Jaipur,0.9758217461193397,240
+Onion,Rajasthan,Jaipur Rural,-0.8773427858734166,12
+Onion,Rajasthan,Jaisalmer,1.513932958051364,68
+Onion,Rajasthan,Jalore,2.979494405475707,121
+Onion,Rajasthan,Jhunjhunu,-6.110894329592684,8
+Onion,Rajasthan,Jhunjunu,0.11024405508422173,112
+Onion,Rajasthan,Jodhpur,2.807929855630696,132
+Onion,Rajasthan,Karauli,15.729047138021997,1
+Onion,Rajasthan,Khairthal Tijara,7.532113946365143,1
+Onion,Rajasthan,Kota,2.6131515607829026,121
+Onion,Rajasthan,Kotputli- Behror,0.24697445807377014,3
+Onion,Rajasthan,Nagaur,3.7782162795859207,50
+Onion,Rajasthan,Pali,-0.29972110456362305,54
+Onion,Rajasthan,Pratapgarh,-0.8773427858734166,6
+Onion,Rajasthan,Rajasamand,-3.6031618998605937,59
+Onion,Rajasthan,Rajsamand,-0.8773427858734166,6
+Onion,Rajasthan,Sanchore,5.135708442938974,4
+Onion,Rajasthan,Sikar,0.5145924561892904,137
+Onion,Rajasthan,Sirohi,1.4882134513340166,82
+Onion,Rajasthan,Swai Madhopur,-5.591318525637616,7
+Onion,Rajasthan,Tonk,-5.911144128394885,6
+Onion,Rajasthan,Udaipur,2.0970346449550257,139
+Onion,Tamil Nadu,Ariyalur,-4.853160177105879,16
+Onion,Tamil Nadu,Chengalpattu,-0.09986778570243399,46
+Onion,Tamil Nadu,Coimbatore,-2.25861402763023,59
+Onion,Tamil Nadu,Cuddalore,-4.0579966988593865,30
+Onion,Tamil Nadu,Dharmapuri,-3.205771450549188,35
+Onion,Tamil Nadu,Dindigul,-2.2374699039785066,30
+Onion,Tamil Nadu,Erode,-5.09581375600087,41
+Onion,Tamil Nadu,Kallakuruchi,-2.0451082407402894,11
+Onion,Tamil Nadu,Kancheepuram,-3.7688463431333896,22
+Onion,Tamil Nadu,Karur,0.6933086225348357,15
+Onion,Tamil Nadu,Krishnagiri,-1.7482992194623672,30
+Onion,Tamil Nadu,Madurai,-2.174207294171545,46
+Onion,Tamil Nadu,Nagapattinam,-4.853160177105879,24
+Onion,Tamil Nadu,Nagercoil (Kannyiakumari),-3.054733869845793,12
+Onion,Tamil Nadu,Namakkal,-1.3191353442798424,40
+Onion,Tamil Nadu,Perambalur,-0.8773427858734166,6
+Onion,Tamil Nadu,Pudukkottai,-1.9484669494062705,26
+Onion,Tamil Nadu,Ramanathapuram,-6.178432640850033,18
+Onion,Tamil Nadu,Ranipet,-0.8773427858734166,12
+Onion,Tamil Nadu,Salem,-2.21590110223618,70
+Onion,Tamil Nadu,Sivaganga,-3.527887713361725,36
+Onion,Tamil Nadu,Tenkasi,-0.8773427858734166,12
+Onion,Tamil Nadu,Thanjavur,-3.290570969363592,28
+Onion,Tamil Nadu,The Nilgiris,-0.8773427858734166,18
+Onion,Tamil Nadu,Theni,-3.1896191612512066,49
+Onion,Tamil Nadu,Thiruchirappalli,-1.6163888568621838,30
+Onion,Tamil Nadu,Thirunelveli,-3.527887713361725,36
+Onion,Tamil Nadu,Thirupathur,0.748286759938638,11
+Onion,Tamil Nadu,Thirupur,-0.2607246822895338,29
+Onion,Tamil Nadu,Thiruvannamalai,-2.611279025525587,47
+Onion,Tamil Nadu,Thiruvarur,-3.6668452184344806,41
+Onion,Tamil Nadu,Thiruvellore,-0.2607246822895338,29
+Onion,Tamil Nadu,Tuticorin,-3.1492384380062526,14
+Onion,Tamil Nadu,Vellore,-4.496593315241773,39
+Onion,Tamil Nadu,Villupuram,-5.185287844393694,19
+Onion,Tamil Nadu,Virudhunagar,-1.3392465802413962,48
+Onion,Telangana,Adilabad,-11.801467323557,5
+Onion,Telangana,Hyderabad,2.298523431294731,484
+Onion,Telangana,Mahbubnagar,6.657072561380974,5
+Onion,Telangana,Medak,2.5374282603989697,151
+Onion,Telangana,Nalgonda,4.692189010174996,24
+Onion,Telangana,Nizamabad,6.473925570524653,24
+Onion,Telangana,Ranga Reddy,4.208555474242432,149
+Onion,Telangana,Warangal,1.0282208204594747,23
+Onion,Tripura,Dhalai,0.845282987658703,19
+Onion,Tripura,Gomati,2.5142257112090762,47
+Onion,Tripura,Khowai,2.115102152969459,198
+Onion,Tripura,North Tripura,0.3090314598028774,206
+Onion,Tripura,Sepahijala,1.4174333328097048,150
+Onion,Tripura,South District,-1.553719112697935,69
+Onion,Tripura,Unokoti,1.5275288184525684,37
+Onion,Tripura,West District,3.301014302240552,27
+Onion,Uttar Pradesh,Agra,1.1078632668167252,662
+Onion,Uttar Pradesh,Aligarh,1.0171872035873706,394
+Onion,Uttar Pradesh,Ambedkarnagar,1.4709611064069645,132
+Onion,Uttar Pradesh,Amethi,2.0242816688385386,280
+Onion,Uttar Pradesh,Amroha,-0.00849479820294999,226
+Onion,Uttar Pradesh,Auraiya,2.16150595011408,323
+Onion,Uttar Pradesh,Ayodhya,1.3272664846630473,190
+Onion,Uttar Pradesh,Azamgarh,2.076647209500741,143
+Onion,Uttar Pradesh,Badaun,0.9135274996236692,433
+Onion,Uttar Pradesh,Baghpat,-0.21400726862595687,255
+Onion,Uttar Pradesh,Bahraich,0.9975822655678396,239
+Onion,Uttar Pradesh,Ballia,1.2291039593985882,376
+Onion,Uttar Pradesh,Balrampur,1.462364119794668,223
+Onion,Uttar Pradesh,Banda,1.7482832230952363,369
+Onion,Uttar Pradesh,Barabanki,1.703508814552917,237
+Onion,Uttar Pradesh,Bareilly,0.7897627077355227,314
+Onion,Uttar Pradesh,Basti,2.076647209500741,143
+Onion,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),0.6767603808714153,81
+Onion,Uttar Pradesh,Bijnor,0.8237277399408053,418
+Onion,Uttar Pradesh,Bulandshahar,1.1429923021442094,949
+Onion,Uttar Pradesh,Chandauli,2.0582028786375264,129
+Onion,Uttar Pradesh,Chitrakut,0.8973875071595234,132
+Onion,Uttar Pradesh,Deoria,1.6136571546314769,205
+Onion,Uttar Pradesh,Etah,2.0670638606070253,262
+Onion,Uttar Pradesh,Etawah,1.7606189272658463,373
+Onion,Uttar Pradesh,Farukhabad,1.6269287137821387,317
+Onion,Uttar Pradesh,Fatehpur,2.047007352757688,421
+Onion,Uttar Pradesh,Firozabad,1.3668120941378454,477
+Onion,Uttar Pradesh,Gautam Budh Nagar,1.3237460356390083,191
+Onion,Uttar Pradesh,Ghaziabad,1.4979139242579407,399
+Onion,Uttar Pradesh,Ghazipur,-0.22116098881715068,7
+Onion,Uttar Pradesh,Gonda,0.8415850390372617,254
+Onion,Uttar Pradesh,Gorakhpur,1.479126958121329,380
+Onion,Uttar Pradesh,Hamirpur,1.6421575462346418,423
+Onion,Uttar Pradesh,Hapur,3.0158465876708975,254
+Onion,Uttar Pradesh,Hardoi,1.0264651528579825,477
+Onion,Uttar Pradesh,Hathras,0.875635234850638,228
+Onion,Uttar Pradesh,Jalaun (Orai),1.5209594717440227,338
+Onion,Uttar Pradesh,Jaunpur,1.4671385540643735,365
+Onion,Uttar Pradesh,Jhansi,1.1673163301614728,499
+Onion,Uttar Pradesh,Kannuj,1.9967466646585503,252
+Onion,Uttar Pradesh,Kanpur,1.199119594429858,349
+Onion,Uttar Pradesh,Kanpur Dehat,1.1099842950624779,316
+Onion,Uttar Pradesh,Kasganj,1.9291122936774747,142
+Onion,Uttar Pradesh,Kaushambi,1.4704747403158909,72
+Onion,Uttar Pradesh,Khiri (Lakhimpur),0.8295950115209758,179
+Onion,Uttar Pradesh,Kushinagar,0.7334562987193042,113
+Onion,Uttar Pradesh,Lakhimpur,0.7554645651148887,312
+Onion,Uttar Pradesh,Lalitpur,1.7608718948795228,121
+Onion,Uttar Pradesh,Lucknow,1.9708565714035209,142
+Onion,Uttar Pradesh,Maharajganj,0.899202213141514,473
+Onion,Uttar Pradesh,Mahoba,1.3339598782854745,120
+Onion,Uttar Pradesh,Mainpuri,0.8517956605396891,267
+Onion,Uttar Pradesh,Mathura,1.2330309546703857,254
+Onion,Uttar Pradesh,Mau (Maunathbhanjan),1.415390578965995,160
+Onion,Uttar Pradesh,Meerut,1.9619087026255633,376
+Onion,Uttar Pradesh,Mirzapur,2.736691303393464,179
+Onion,Uttar Pradesh,Muzaffarnagar,0.7698145012903619,279
+Onion,Uttar Pradesh,Pillibhit,0.9684371646697352,351
+Onion,Uttar Pradesh,Pratapgarh,1.9584474093126214,136
+Onion,Uttar Pradesh,Prayagraj,1.5830053838211864,500
+Onion,Uttar Pradesh,Raebarelli,1.6639966297988693,352
+Onion,Uttar Pradesh,Rampur,1.5613331310582235,252
+Onion,Uttar Pradesh,Saharanpur,0.8356423991414202,466
+Onion,Uttar Pradesh,Sambhal,1.4966480925250045,348
+Onion,Uttar Pradesh,Sant Kabir Nagar,-0.07163815506802529,82
+Onion,Uttar Pradesh,Shahjahanpur,0.2978934683614235,372
+Onion,Uttar Pradesh,Shamli,-0.19968478978534823,322
+Onion,Uttar Pradesh,Shravasti,1.7931174739823101,75
+Onion,Uttar Pradesh,Siddharth Nagar,2.2857816049608517,181
+Onion,Uttar Pradesh,Sitapur,0.9605354552106308,376
+Onion,Uttar Pradesh,Sonbhadra,1.3015834650018945,157
+Onion,Uttar Pradesh,Unnao,1.0168495722436537,308
+Onion,Uttar Pradesh,Varanasi,2.4197120112005135,149
+Onion,Uttrakhand,Champawat,-12.426447365478566,3
+Onion,Uttrakhand,Dehradoon,2.243368249809448,409
+Onion,Uttrakhand,Garhwal (Pauri),2.637092096200762,132
+Onion,Uttrakhand,Haridwar,1.8517685802598978,403
+Onion,Uttrakhand,Nanital,1.9539338108566755,242
+Onion,Uttrakhand,UdhamSinghNagar,1.7042573332974427,645
+Onion,West Bengal,Alipurduar,2.3239193711055255,239
+Onion,West Bengal,Bankura,1.696200426521108,264
+Onion,West Bengal,Birbhum,2.3156486671611543,497
+Onion,West Bengal,Coochbehar,0.2771270406840765,204
+Onion,West Bengal,Dakshin Dinajpur,1.474060598997678,57
+Onion,West Bengal,Darjeeling,1.783665713558064,194
+Onion,West Bengal,Hooghly,2.7184804068813415,256
+Onion,West Bengal,Howrah,2.345856226047813,233
+Onion,West Bengal,Jalpaiguri,2.224850046336569,351
+Onion,West Bengal,Kolkata,2.076647209500741,143
+Onion,West Bengal,Malda,1.224029975223255,348
+Onion,West Bengal,Medinipur (E),1.6539559863666156,201
+Onion,West Bengal,Medinipur (W),2.2626499892932066,191
+Onion,West Bengal,Murshidabad,2.756204027125245,131
+Onion,West Bengal,Nadia,2.898003915159607,614
+Onion,West Bengal,North 24 Parganas,2.8232091088562847,265
+Onion,West Bengal,Paschim Bardhaman,2.139953687300587,268
+Onion,West Bengal,Purba Bardhaman,2.071133351998724,420
+Onion,West Bengal,Puruliya,2.3186822035311296,373
+Onion,West Bengal,Sounth 24 Parganas,3.115580614022681,229
+Potato,Andaman and Nicobar,Nicobar,0.051853291290447766,17
+Potato,Andaman and Nicobar,North and Middle Andaman,2.4589258214845557,4
+Potato,Andaman and Nicobar,South Andaman,4.499521128581705,3
+Potato,Andhra Pradesh,Chittor,1.9418315226668896,48
+Potato,Andhra Pradesh,Krishna,-0.17092300862666104,55
+Potato,Andhra Pradesh,Prakasam,-4.47195523683763,8
+Potato,Andhra Pradesh,Srikakulam,4.992640099538189,17
+Potato,Andhra Pradesh,Visakhapatnam,11.609380025991868,1
+Potato,Andhra Pradesh,West Godavari,-1.0632580236893592,61
+Potato,Arunachal Pradesh,Papum Pore,5.495029997923618,13
+Potato,Arunachal Pradesh,Tirap,6.882341229305932,6
+Potato,Assam,BONGAIGAON,1.7440166963382042,68
+Potato,Assam,Barpeta,1.8392863106622355,124
+Potato,Assam,Cachar,1.7600179825678834,13
+Potato,Assam,Darrang,-0.3852202886136986,44
+Potato,Assam,Dhemaji,-17.233144345850633,1
+Potato,Assam,Dhubri,2.379610121728359,40
+Potato,Assam,Dibrugarh,-1.34070723696093,34
+Potato,Assam,Goalpara,-0.6322026432422254,7
+Potato,Assam,Golaghat,0.34005339689887043,50
+Potato,Assam,Hailakandi,5.381302103694833,10
+Potato,Assam,Jorhat,1.9296630322446209,69
+Potato,Assam,Kamrup,1.1988755098389607,131
+Potato,Assam,Karimganj,3.8879654888002904,3
+Potato,Assam,Kokrajhar,1.5782938943505387,26
+Potato,Assam,Lakhimpur,-0.5150147187776781,5
+Potato,Assam,Nagaon,2.665659258123043,87
+Potato,Assam,Nalbari,-3.7132572040844565,12
+Potato,Assam,Sibsagar,1.9988982948055194,48
+Potato,Assam,Sonitpur,-1.0827225809224756,50
+Potato,Assam,Tinsukia,1.9882618709680902,31
+Potato,Bihar,Araria,0.716986164220779,51
+Potato,Bihar,Arwal,-3.438916920744517,15
+Potato,Bihar,Aurangabad,-2.9051654363769637,39
+Potato,Bihar,Banka,-2.427904184155973,13
+Potato,Bihar,Begusarai,-2.918906150056273,32
+Potato,Bihar,Bhagalpur,-1.7734737334989206,51
+Potato,Bihar,Bhojpur,3.8633403584636823,49
+Potato,Bihar,Buxar,2.8998642525864895,37
+Potato,Bihar,Chhapra,1.2791675835997758,16
+Potato,Bihar,Darbhanga,-1.1549815796928022,19
+Potato,Bihar,East Champaran/ Motihari,-1.130978540083274,73
+Potato,Bihar,Gaya,3.7539653958894235,2
+Potato,Bihar,Gopalgang,-0.8106459717319378,14
+Potato,Bihar,Jamui,1.308256411915096,31
+Potato,Bihar,Jehanabad,1.1678088516556904,19
+Potato,Bihar,Kaimur/Bhabhua,-2.9299888998853785,32
+Potato,Bihar,Kaithar,-1.3005702881135706,26
+Potato,Bihar,Khagaria,-5.4942018064256315,12
+Potato,Bihar,Kishanganj,-0.1899705072598829,67
+Potato,Bihar,Luckeesarai,-0.8336163468053649,18
+Potato,Bihar,Madhepura,-0.30684495784091015,49
+Potato,Bihar,Madhubani,0.8299534258038531,61
+Potato,Bihar,Munghair,-4.401780159248517,13
+Potato,Bihar,Muzaffarpur,0.32640907431494903,34
+Potato,Bihar,Nalanda,-2.1390250569145297,15
+Potato,Bihar,Nawada,-0.8162433183251824,50
+Potato,Bihar,Patna,2.980365873301851,38
+Potato,Bihar,Purnea,2.064188805761603,11
+Potato,Bihar,Rohtas,0.798843521850564,55
+Potato,Bihar,Saharsa,1.069705268604155,21
+Potato,Bihar,Samastipur,-1.2683524997326003,24
+Potato,Bihar,Saran,-4.156952997364873,7
+Potato,Bihar,Sheikhpura,-3.926901219665304,22
+Potato,Bihar,Sheohar,0.702955440366388,28
+Potato,Bihar,Sitamarhi,-2.102705016777299,9
+Potato,Bihar,Siwan,-0.9259784580926402,21
+Potato,Bihar,Supaul,-3.1046912454063507,37
+Potato,Bihar,Vaishali,0.855590128126211,89
+Potato,Bihar,West Chambaran,0.012859780683788296,22
+Potato,Chandigarh,Chandigarh,2.5053251554522133,92
+Potato,Chattisgarh,Bilaspur,0.9091529728693746,109
+Potato,Chattisgarh,Durg,0.6907548604412519,109
+Potato,Chattisgarh,Raigarh,0.2595115355855422,106
+Potato,Chattisgarh,Raipur,2.7365204473607605,1
+Potato,Chattisgarh,Rajnandgaon,1.1498658943834215,96
+Potato,Goa,North Goa,0.7069765428868444,116
+Potato,Gujarat,Ahmedabad,0.3995471178840057,185
+Potato,Gujarat,Amreli,-0.048043822339016544,33
+Potato,Gujarat,Anand,-1.2689071534830039,294
+Potato,Gujarat,Banaskanth,0.6494519609418445,133
+Potato,Gujarat,Bharuch,1.0172800637681136,139
+Potato,Gujarat,Bhavnagar,0.9639906118792038,23
+Potato,Gujarat,Dahod,0.05613915811169904,143
+Potato,Gujarat,Gandhinagar,-1.0326891004552492,31
+Potato,Gujarat,Kachchh,2.825055637080119,40
+Potato,Gujarat,Kheda,1.438657645908575,280
+Potato,Gujarat,Mehsana,-0.3131876463720872,150
+Potato,Gujarat,Navsari,1.7640125456140998,104
+Potato,Gujarat,Panchmahals,-7.075498357040033,1
+Potato,Gujarat,Patan,-3.656818412011831,20
+Potato,Gujarat,Porbandar,3.296208299775733,36
+Potato,Gujarat,Rajkot,0.6144278625469577,189
+Potato,Gujarat,Sabarkantha,-13.335339697488772,3
+Potato,Gujarat,Surat,1.0859259358258886,139
+Potato,Gujarat,Surendranagar,0.2034331256314109,135
+Potato,Gujarat,Vadodara (Baroda),0.6099818503616277,280
+Potato,Haryana,Ambala,0.7222858735740484,686
+Potato,Haryana,Bhiwani,2.8025281140345064,177
+Potato,Haryana,Faridabad,0.7947350065195689,273
+Potato,Haryana,Fatehabad,1.6677981295862565,405
+Potato,Haryana,Gurgaon,1.393493031328259,389
+Potato,Haryana,Hissar,1.3424826840322275,402
+Potato,Haryana,Jhajar,1.7705537740943422,176
+Potato,Haryana,Jind,0.4587207392772852,359
+Potato,Haryana,Kaithal,1.034169901309603,349
+Potato,Haryana,Karnal,1.2231352949027379,402
+Potato,Haryana,Kurukshetra,0.3513738006548279,721
+Potato,Haryana,Mahendragarh-Narnaul,1.0816048888725645,294
+Potato,Haryana,Mewat,2.196600610609788,278
+Potato,Haryana,Palwal,2.8382822518781836,119
+Potato,Haryana,Panchkula,-0.04124256274711946,315
+Potato,Haryana,Panipat,1.2127375074650895,293
+Potato,Haryana,Rewari,1.7640905570896124,137
+Potato,Haryana,Rohtak,1.2892243903937666,294
+Potato,Haryana,Sirsa,1.5123127858003234,447
+Potato,Haryana,Sonipat,0.659250303733996,388
+Potato,Haryana,Yamuna Nagar,0.9474301138921789,761
+Potato,Himachal Pradesh,Bilaspur,1.62790090354057,124
+Potato,Himachal Pradesh,Chamba,-0.2783136458524486,124
+Potato,Himachal Pradesh,Hamirpur,0.7620965975888571,253
+Potato,Himachal Pradesh,Kangra,1.4279631386263023,534
+Potato,Himachal Pradesh,Kullu,0.8633696679732323,340
+Potato,Himachal Pradesh,Mandi,1.0724965919028517,396
+Potato,Himachal Pradesh,Shimla,1.227057010441462,163
+Potato,Himachal Pradesh,Sirmore,1.6011065027888698,206
+Potato,Himachal Pradesh,Solan,0.6005428851346324,172
+Potato,Himachal Pradesh,Una,1.8260914203720418,216
+Potato,Jammu and Kashmir,Anantnag,-0.7684043558232198,66
+Potato,Jammu and Kashmir,Badgam,3.981543369501944,11
+Potato,Jammu and Kashmir,Jammu,0.5669573561743849,359
+Potato,Jammu and Kashmir,Kathua,0.12877309814308166,108
+Potato,Jammu and Kashmir,Kupwara,1.9299766036987194,2
+Potato,Jammu and Kashmir,Pulwama,3.1322710653003396,23
+Potato,Jammu and Kashmir,Rajouri,1.3416569666033578,55
+Potato,Jammu and Kashmir,Srinagar,1.065219300371714,97
+Potato,Jammu and Kashmir,Udhampur,0.4198511652697624,209
+Potato,Jharkhand,Bokaro,0.7570142425600055,115
+Potato,Jharkhand,Deogarh,1.2444384581520551,125
+Potato,Jharkhand,Dhanbad,1.7478308376802496,56
+Potato,Jharkhand,Dumka,0.4096628087994138,13
+Potato,Jharkhand,East Singhbhum,1.3958319403112878,136
+Potato,Jharkhand,Garhwa,0.38728346540655423,45
+Potato,Jharkhand,Giridih,1.2120305660455541,60
+Potato,Jharkhand,Godda,-0.9610739854840364,39
+Potato,Jharkhand,Gumla,1.5238992453659714,74
+Potato,Jharkhand,Hazaribagh,0.9008544829995062,120
+Potato,Jharkhand,Jamtara,0.012327337395525908,56
+Potato,Jharkhand,Koderma,0.9983709310822653,73
+Potato,Jharkhand,Latehar,1.4497127007198898,69
+Potato,Jharkhand,Lohardaga,0.36679603670720934,72
+Potato,Jharkhand,Pakur,0.5851900382597018,43
+Potato,Jharkhand,Palamu,0.8305752267124962,64
+Potato,Jharkhand,Ranchi,0.45472238369355583,146
+Potato,Jharkhand,Sahebgang,-1.1121222893621636,48
+Potato,Jharkhand,Saraikela (Kharsanwa),1.7223198779601763,68
+Potato,Jharkhand,Simdega,1.3451479652493343,43
+Potato,Jharkhand,West Singbhum,-0.4819749868388347,27
+Potato,Karnataka,Bangalore,0.2678879999208886,216
+Potato,Karnataka,Belgaum,0.709472239607993,141
+Potato,Karnataka,Bellary,0.8664384505440076,115
+Potato,Karnataka,Bidar,13.247419024983174,1
+Potato,Karnataka,Chamrajnagar,7.934825966088963,6
+Potato,Karnataka,Chikmagalur,-0.11003043171618121,204
+Potato,Karnataka,Chitradurga,-27.77898082414083,2
+Potato,Karnataka,Davangere,0.8255797073036304,74
+Potato,Karnataka,Dharwad,0.3672493099958073,147
+Potato,Karnataka,Gadag,-2.4920957551038896,4
+Potato,Karnataka,Hassan,0.6858096893621858,206
+Potato,Karnataka,Haveri,11.205757182725165,2
+Potato,Karnataka,Kalburgi,2.07322242487761,40
+Potato,Karnataka,Karwar (Uttar Kannad),-0.7531597018946172,6
+Potato,Karnataka,Kolar,0.3758208820125325,431
+Potato,Karnataka,Koppal,8.838313559367464,3
+Potato,Karnataka,Madikeri (Kodagu),-11.956101361075525,1
+Potato,Karnataka,Mandya,3.006759820672509,6
+Potato,Karnataka,Mangalore (Dakshin Kannad),-2.2350671091186727,40
+Potato,Karnataka,Mysore,0.3831944819825325,186
+Potato,Karnataka,Shimoga,-0.5040897006212609,81
+Potato,Karnataka,Tumkur,5.4632952885734625,12
+Potato,Karnataka,Udupi,-1.5351678610883477,71
+Potato,Kerala,Alappuzha,0.8667290641169346,969
+Potato,Kerala,Ernakulam,0.8038435261598498,987
+Potato,Kerala,Idukki,0.6263264502091607,397
+Potato,Kerala,Kannur,7.025263848849818,11
+Potato,Kerala,Kasargod,0.550298203339313,337
+Potato,Kerala,Kollam,0.571164901624306,490
+Potato,Kerala,Kottayam,0.6403480884504369,1022
+Potato,Kerala,Kozhikode (Calicut),1.0751294298231704,729
+Potato,Kerala,Malappuram,0.7647463151609547,679
+Potato,Kerala,Palakad,0.7894307166752945,719
+Potato,Kerala,Thirssur,0.5909972932625491,865
+Potato,Kerala,Thiruvananthapuram,0.9125876087403603,472
+Potato,Madhya Pradesh,Alirajpur,-0.012030814231961371,27
+Potato,Madhya Pradesh,Anupur,-7.327427315534596,19
+Potato,Madhya Pradesh,Badwani,20.48709862398177,3
+Potato,Madhya Pradesh,Betul,1.0382249689970866,42
+Potato,Madhya Pradesh,Bhopal,-0.2664347507648853,101
+Potato,Madhya Pradesh,Burhanpur,0.5952440506361071,86
+Potato,Madhya Pradesh,Chhatarpur,-19.661841556614867,5
+Potato,Madhya Pradesh,Chhindwara,-0.44526491874994606,116
+Potato,Madhya Pradesh,Damoh,1.8297853327378109,68
+Potato,Madhya Pradesh,Dewas,0.267420696827739,252
+Potato,Madhya Pradesh,Dhar,0.34640010094546825,349
+Potato,Madhya Pradesh,Guna,0.10473596135030956,102
+Potato,Madhya Pradesh,Gwalior,-0.3612827866665798,123
+Potato,Madhya Pradesh,Harda,-0.19289267937572235,143
+Potato,Madhya Pradesh,Hoshangabad,0.6930189464462303,108
+Potato,Madhya Pradesh,Indore,0.9608334788469457,269
+Potato,Madhya Pradesh,Jabalpur,0.3688793774955385,91
+Potato,Madhya Pradesh,Jhabua,0.6161346528897678,125
+Potato,Madhya Pradesh,Katni,10.31441221644377,13
+Potato,Madhya Pradesh,Khandwa,-0.23422807279798086,88
+Potato,Madhya Pradesh,Khargone,2.176569577592942,79
+Potato,Madhya Pradesh,Mandsaur,-0.304757469800604,125
+Potato,Madhya Pradesh,Morena,0.5636574814565954,222
+Potato,Madhya Pradesh,Narsinghpur,-2.089576061701397,17
+Potato,Madhya Pradesh,Rajgarh,0.29369863932956425,133
+Potato,Madhya Pradesh,Ratlam,-2.101598937128573,30
+Potato,Madhya Pradesh,Rewa,8.822135594209877,3
+Potato,Madhya Pradesh,Sagar,0.2630654533366983,222
+Potato,Madhya Pradesh,Satna,-1.5079203516523767,26
+Potato,Madhya Pradesh,Sehore,-2.7317500598688755,36
+Potato,Madhya Pradesh,Seoni,13.349156830953373,7
+Potato,Madhya Pradesh,Shajapur,-0.5315329783165843,146
+Potato,Madhya Pradesh,Sheopur,0.8359691695029974,116
+Potato,Madhya Pradesh,Shivpuri,1.2048640787861093,97
+Potato,Madhya Pradesh,Singroli,1.4151468394404465,19
+Potato,Madhya Pradesh,Ujjain,0.8697221074605228,134
+Potato,Maharashtra,Ahmednagar,0.6028980472867974,442
+Potato,Maharashtra,Akola,7.317064230428089,20
+Potato,Maharashtra,Amarawati,-1.3282067833574946,152
+Potato,Maharashtra,Chandrapur,0.6527048867155238,119
+Potato,Maharashtra,Chattrapati Sambhajinagar,0.4759885150204249,136
+Potato,Maharashtra,Dharashiv (Usmanabad),-8.357729508384113,29
+Potato,Maharashtra,Jalana,13.110179427939158,2
+Potato,Maharashtra,Jalgaon,0.9263618902674627,192
+Potato,Maharashtra,Kolhapur,3.402551973358172,50
+Potato,Maharashtra,Mumbai,0.4636521623040008,143
+Potato,Maharashtra,Nagpur,0.7208080140420124,393
+Potato,Maharashtra,Nashik,0.5289501807374417,123
+Potato,Maharashtra,Parbhani,10.404758104595771,1
+Potato,Maharashtra,Pune,-0.2167675286187663,620
+Potato,Maharashtra,Raigad,1.0642386509705744,30
+Potato,Maharashtra,Sangli,-0.9932304011685361,167
+Potato,Maharashtra,Satara,0.6408626422606922,300
+Potato,Maharashtra,Sholapur,0.48837932547963303,271
+Potato,Maharashtra,Thane,-0.13320518777123808,196
+Potato,Manipur,Bishnupur,-0.1051502012554737,64
+Potato,Manipur,Imphal East,1.234425884814909,105
+Potato,Manipur,Imphal West,1.4363171719971561,89
+Potato,Manipur,Kakching,10.82025354021433,3
+Potato,Manipur,Thoubal,1.3132924115653843,84
+Potato,Meghalaya,East Jaintia Hills,11.523308597036817,1
+Potato,Meghalaya,East Khasi Hills,1.2686392070584858,153
+Potato,Meghalaya,South Garo Hills,9.469367819428385,10
+Potato,Meghalaya,South West Garo Hills,-1.7162233290452917,8
+Potato,Meghalaya,West Garo Hills,-0.3086181832997152,53
+Potato,Meghalaya,West Jaintia Hills,5.479358655051238,11
+Potato,Mizoram,Aizawl,0.4515195301613002,22
+Potato,Mizoram,Lungli,7.275388703592252,9
+Potato,NCT of Delhi,Delhi,0.5830746260233828,420
+Potato,Nagaland,Dimapur,10.733983139088537,1
+Potato,Nagaland,Kiphire,0.4218091255008987,11
+Potato,Nagaland,Kohima,2.8041410344350366,101
+Potato,Nagaland,Longleng,7.8738549172775425,7
+Potato,Nagaland,Mokokchung,3.202537390925496,23
+Potato,Nagaland,Mon,-9.863081212628742,1
+Potato,Nagaland,Peren,4.489747043445186,9
+Potato,Nagaland,Phek,7.835165940570649,13
+Potato,Nagaland,Tuensang,6.88379408086729,14
+Potato,Nagaland,Zunheboto,10.564660053244134,3
+Potato,Odisha,Angul,-0.7097812747176865,238
+Potato,Odisha,Balasore,0.3901584536137862,414
+Potato,Odisha,Bargarh,0.14681761446896513,319
+Potato,Odisha,Bhadrak,-0.28976895224027327,346
+Potato,Odisha,Bolangir,-0.6794864024803635,223
+Potato,Odisha,Boudh,-1.6688756262901785,169
+Potato,Odisha,Cuttack,-1.0433878511966992,177
+Potato,Odisha,Deogarh,-5.277255956810312,36
+Potato,Odisha,Dhenkanal,-0.9626932427143272,412
+Potato,Odisha,Gajapati,0.7990282147293947,91
+Potato,Odisha,Ganjam,-0.36166112368267705,262
+Potato,Odisha,Jagatsinghpur,0.5060322335810342,104
+Potato,Odisha,Jajpur,0.21136385166478275,188
+Potato,Odisha,Jharsuguda,-1.4154598816865454,109
+Potato,Odisha,Kalahandi,-0.894444582233153,293
+Potato,Odisha,Kandhamal,7.819334025366794,13
+Potato,Odisha,Kendrapara,-0.09757093624999132,636
+Potato,Odisha,Keonjhar,0.06653359793288016,361
+Potato,Odisha,Khurda,1.0464085279776025,317
+Potato,Odisha,Koraput,-0.6519969202825375,175
+Potato,Odisha,Malkangiri,1.4484840190962056,42
+Potato,Odisha,Mayurbhanja,-0.654199771365369,367
+Potato,Odisha,Nayagarh,0.3319234654164702,124
+Potato,Odisha,Nowarangpur,-0.6109843863011141,48
+Potato,Odisha,Nuapada,0.3675772242964558,272
+Potato,Odisha,Puri,-0.05844242531520259,204
+Potato,Odisha,Rayagada,4.163729904067617,42
+Potato,Odisha,Sambalpur,0.3296635484070886,119
+Potato,Odisha,Sonepur,1.545218180682445,209
+Potato,Odisha,Sundergarh,-0.6305834320538627,212
+Potato,Punjab,Amritsar,0.18465005832850348,438
+Potato,Punjab,Barnala,0.6425498844718324,172
+Potato,Punjab,Bhatinda,0.39542255222811,924
+Potato,Punjab,Faridkot,0.09049536674088188,257
+Potato,Punjab,Fatehgarh,0.3360311394956295,398
+Potato,Punjab,Fazilka,0.04692651429142964,377
+Potato,Punjab,Ferozpur,-0.3714311477000278,690
+Potato,Punjab,Gurdaspur,0.5587463266217709,696
+Potato,Punjab,Hoshiarpur,0.5274832604146527,934
+Potato,Punjab,Jalandhar,0.24385904192425784,971
+Potato,Punjab,Ludhiana,0.30813930111994653,901
+Potato,Punjab,Mansa,0.43973762065285055,341
+Potato,Punjab,Moga,0.26915739670378797,514
+Potato,Punjab,Mohali,0.26633746898034033,664
+Potato,Punjab,Muktsar,0.42474713429665006,458
+Potato,Punjab,Nawanshahr,0.4838418281274241,424
+Potato,Punjab,Pathankot,-0.11625394636659261,110
+Potato,Punjab,Patiala,0.34356635000946,835
+Potato,Punjab,Ropar (Rupnagar),0.174867588490022,421
+Potato,Punjab,Sangrur,0.2181300508751351,883
+Potato,Punjab,Tarntaran,0.3829172415870797,315
+Potato,Punjab,kapurthala,0.6522568064772671,281
+Potato,Rajasthan,Ajmer,-0.5874633944971286,265
+Potato,Rajasthan,Alwar,0.7939339256558614,145
+Potato,Rajasthan,Balotra,8.256582627741096,6
+Potato,Rajasthan,Baran,1.1467595655268013,10
+Potato,Rajasthan,Barmer,1.8962462593098763,34
+Potato,Rajasthan,Beawar,-2.044576493461193,2
+Potato,Rajasthan,Bharatpur,0.3312067324288854,191
+Potato,Rajasthan,Bhilwara,-0.42218956425439225,60
+Potato,Rajasthan,Bikaner,1.404095776664299,60
+Potato,Rajasthan,Chittorgarh,-0.3500750859791289,177
+Potato,Rajasthan,Churu,-0.5758676510017837,118
+Potato,Rajasthan,Dungarpur,-0.4129965674977143,2
+Potato,Rajasthan,Ganganagar,2.7833169327555267,146
+Potato,Rajasthan,Hanumangarh,0.25570524725522603,492
+Potato,Rajasthan,Jaipur,0.512706899342237,237
+Potato,Rajasthan,Jaipur Rural,4.515392012874446,10
+Potato,Rajasthan,Jaisalmer,7.536224467796615,1
+Potato,Rajasthan,Jalore,0.1993919868604691,124
+Potato,Rajasthan,Jhunjhunu,8.400654259729993,5
+Potato,Rajasthan,Jhunjunu,-1.4492530440703306,45
+Potato,Rajasthan,Jodhpur,0.4506120911800222,134
+Potato,Rajasthan,Karauli,-2.9207389975014166,1
+Potato,Rajasthan,Kota,0.332925499896787,130
+Potato,Rajasthan,Kotputli- Behror,10.82025354021433,3
+Potato,Rajasthan,Nagaur,-0.837849619140422,49
+Potato,Rajasthan,Pali,-3.0678973498703637,75
+Potato,Rajasthan,Rajasamand,-1.0199158529177819,65
+Potato,Rajasthan,Rajsamand,8.256582627741096,6
+Potato,Rajasthan,Sanchore,17.116987463881557,4
+Potato,Rajasthan,Sikar,1.0424724320117678,119
+Potato,Rajasthan,Sirohi,0.0958077976285447,73
+Potato,Rajasthan,Swai Madhopur,7.46008660526154,5
+Potato,Rajasthan,Tonk,3.9726696132387738,6
+Potato,Rajasthan,Udaipur,0.4448613588980303,142
+Potato,Tamil Nadu,Ariyalur,4.614888676767471,16
+Potato,Tamil Nadu,Chengalpattu,7.3290151561264105,39
+Potato,Tamil Nadu,Coimbatore,6.470731517627878,55
+Potato,Tamil Nadu,Cuddalore,5.747239455607087,24
+Potato,Tamil Nadu,Dharmapuri,5.649586757705139,33
+Potato,Tamil Nadu,Dindigul,6.175614655756168,28
+Potato,Tamil Nadu,Erode,4.6153194023879935,37
+Potato,Tamil Nadu,Kallakuruchi,11.474428577004584,10
+Potato,Tamil Nadu,Kancheepuram,6.248112462538212,21
+Potato,Tamil Nadu,Karur,6.993722370573874,16
+Potato,Tamil Nadu,Krishnagiri,9.594387911216423,22
+Potato,Tamil Nadu,Madurai,7.049462606192897,23
+Potato,Tamil Nadu,Nagapattinam,4.135283565506056,21
+Potato,Tamil Nadu,Nagercoil (Kannyiakumari),8.256582627741096,6
+Potato,Tamil Nadu,Namakkal,6.071182857008809,26
+Potato,Tamil Nadu,Perambalur,8.506568356573132,5
+Potato,Tamil Nadu,Pudukkottai,5.732604400867589,11
+Potato,Tamil Nadu,Ramanathapuram,-1.3024022290574129,9
+Potato,Tamil Nadu,Ranipet,8.256582627741096,12
+Potato,Tamil Nadu,Salem,7.2981563569647205,71
+Potato,Tamil Nadu,Sivaganga,6.824350991656443,34
+Potato,Tamil Nadu,Tenkasi,8.256582627741096,6
+Potato,Tamil Nadu,Thanjavur,5.112710922614,22
+Potato,Tamil Nadu,The Nilgiris,8.256582627741096,18
+Potato,Tamil Nadu,Theni,5.925898499117976,50
+Potato,Tamil Nadu,Thiruchirappalli,6.094654093444785,36
+Potato,Tamil Nadu,Thirunelveli,6.799905047351646,20
+Potato,Tamil Nadu,Thirupathur,3.760183899143904,8
+Potato,Tamil Nadu,Thirupur,7.874247586951816,22
+Potato,Tamil Nadu,Thiruvannamalai,5.831557834518819,48
+Potato,Tamil Nadu,Thiruvarur,4.607068637075974,29
+Potato,Tamil Nadu,Thiruvellore,9.127364580958268,14
+Potato,Tamil Nadu,Tuticorin,5.662268386585523,15
+Potato,Tamil Nadu,Vellore,4.951450778247514,38
+Potato,Tamil Nadu,Villupuram,4.386104708092216,15
+Potato,Tamil Nadu,Virudhunagar,7.890081852428918,48
+Potato,Telangana,Hyderabad,0.3220171470055019,564
+Potato,Telangana,Khammam,5.3793574126971055,18
+Potato,Telangana,Mahbubnagar,1.7060075525224359,85
+Potato,Telangana,Medak,1.1289330478843618,59
+Potato,Telangana,Nalgonda,-0.14923776435841032,46
+Potato,Telangana,Ranga Reddy,1.473885976830415,143
+Potato,Telangana,Warangal,1.169847478508921,53
+Potato,Tripura,Dhalai,0.9830547304349996,187
+Potato,Tripura,Gomati,-0.07852500702937659,237
+Potato,Tripura,Khowai,0.5195373906434793,342
+Potato,Tripura,North Tripura,0.42786489482347256,273
+Potato,Tripura,Sepahijala,0.4360431358865769,537
+Potato,Tripura,South District,-0.7136911475042216,276
+Potato,Tripura,Unokoti,-0.06281825528886102,181
+Potato,Tripura,West District,0.8300793654365346,208
+Potato,Uttar Pradesh,Agra,0.7509107878324224,674
+Potato,Uttar Pradesh,Aligarh,0.27113833024165085,430
+Potato,Uttar Pradesh,Ambedkarnagar,0.8026737225229554,133
+Potato,Uttar Pradesh,Amethi,0.48156746386401805,283
+Potato,Uttar Pradesh,Amroha,1.1614847367067773,250
+Potato,Uttar Pradesh,Auraiya,0.3298283854508875,369
+Potato,Uttar Pradesh,Ayodhya,0.152717268121465,217
+Potato,Uttar Pradesh,Azamgarh,0.5836557302197991,144
+Potato,Uttar Pradesh,Badaun,1.1574174778896085,506
+Potato,Uttar Pradesh,Baghpat,1.0006184700042065,292
+Potato,Uttar Pradesh,Bahraich,0.7212307555487061,242
+Potato,Uttar Pradesh,Ballia,0.9073086004820551,386
+Potato,Uttar Pradesh,Balrampur,0.47233781288539306,228
+Potato,Uttar Pradesh,Banda,0.0887846337380823,372
+Potato,Uttar Pradesh,Barabanki,0.744553098227711,236
+Potato,Uttar Pradesh,Bareilly,0.23522438098486284,306
+Potato,Uttar Pradesh,Basti,0.5836557302197991,144
+Potato,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),-0.1439389230662751,81
+Potato,Uttar Pradesh,Bijnor,1.3746070033320164,445
+Potato,Uttar Pradesh,Bulandshahar,0.7969972488615923,958
+Potato,Uttar Pradesh,Chandauli,0.7579802565158509,130
+Potato,Uttar Pradesh,Chitrakut,1.1798268899057753,133
+Potato,Uttar Pradesh,Deoria,0.01257681418639153,214
+Potato,Uttar Pradesh,Etah,0.7252231562212339,280
+Potato,Uttar Pradesh,Etawah,0.7733058147929447,388
+Potato,Uttar Pradesh,Farukhabad,0.343171462950589,398
+Potato,Uttar Pradesh,Fatehpur,0.9759878470596144,444
+Potato,Uttar Pradesh,Firozabad,0.28145413118572044,475
+Potato,Uttar Pradesh,Gautam Budh Nagar,-0.0360576666905601,196
+Potato,Uttar Pradesh,Ghaziabad,0.446236949112524,406
+Potato,Uttar Pradesh,Ghazipur,9.821885805534853,7
+Potato,Uttar Pradesh,Gonda,0.7215030338688816,262
+Potato,Uttar Pradesh,Gorakhpur,0.20223977232077162,387
+Potato,Uttar Pradesh,Hamirpur,0.13834560864356496,435
+Potato,Uttar Pradesh,Hapur,0.30082243615308546,276
+Potato,Uttar Pradesh,Hardoi,0.7436643775123435,508
+Potato,Uttar Pradesh,Hathras,-0.3586498739579842,289
+Potato,Uttar Pradesh,Jalaun (Orai),0.5455500100278873,338
+Potato,Uttar Pradesh,Jaunpur,0.419259450366089,365
+Potato,Uttar Pradesh,Jhansi,0.34382254419853847,507
+Potato,Uttar Pradesh,Kannuj,0.6087957164408976,276
+Potato,Uttar Pradesh,Kanpur,0.6039476249514103,393
+Potato,Uttar Pradesh,Kanpur Dehat,-0.1496319407876135,324
+Potato,Uttar Pradesh,Kasganj,0.5836557302197991,144
+Potato,Uttar Pradesh,Kaushambi,1.515351037141041,72
+Potato,Uttar Pradesh,Khiri (Lakhimpur),1.0725166756646558,197
+Potato,Uttar Pradesh,Kushinagar,0.21501524478886733,112
+Potato,Uttar Pradesh,Lakhimpur,0.8584835737993861,316
+Potato,Uttar Pradesh,Lalitpur,0.629453911778194,123
+Potato,Uttar Pradesh,Lucknow,0.506552763116498,143
+Potato,Uttar Pradesh,Maharajganj,0.5204760451481721,477
+Potato,Uttar Pradesh,Mahoba,0.9810172255230991,120
+Potato,Uttar Pradesh,Mainpuri,0.9866565891671515,315
+Potato,Uttar Pradesh,Mathura,0.9656732685297431,256
+Potato,Uttar Pradesh,Mau (Maunathbhanjan),1.5400091613958633,165
+Potato,Uttar Pradesh,Meerut,0.34641555592016643,403
+Potato,Uttar Pradesh,Mirzapur,1.0098308957018183,199
+Potato,Uttar Pradesh,Muzaffarnagar,0.41404733665689114,317
+Potato,Uttar Pradesh,Pillibhit,0.9914460266040749,359
+Potato,Uttar Pradesh,Pratapgarh,0.9183648614145605,137
+Potato,Uttar Pradesh,Prayagraj,0.3476942205927381,484
+Potato,Uttar Pradesh,Raebarelli,0.8581242432765229,445
+Potato,Uttar Pradesh,Rampur,0.20929747312646996,268
+Potato,Uttar Pradesh,Saharanpur,1.1164290075336456,501
+Potato,Uttar Pradesh,Sambhal,0.7125388801599671,449
+Potato,Uttar Pradesh,Sant Kabir Nagar,0.7772184529911477,84
+Potato,Uttar Pradesh,Shahjahanpur,0.93510605027564,442
+Potato,Uttar Pradesh,Shamli,0.955901280893753,334
+Potato,Uttar Pradesh,Shravasti,1.123379453505689,78
+Potato,Uttar Pradesh,Siddharth Nagar,1.1906149923500475,243
+Potato,Uttar Pradesh,Sitapur,1.5969793804418175,384
+Potato,Uttar Pradesh,Sonbhadra,1.7422548811051675,146
+Potato,Uttar Pradesh,Unnao,0.6290378180676955,340
+Potato,Uttar Pradesh,Varanasi,0.952231547107525,152
+Potato,Uttrakhand,Champawat,5.089695793781085,35
+Potato,Uttrakhand,Dehradoon,0.558779445765026,424
+Potato,Uttrakhand,Garhwal (Pauri),0.4652038227705821,138
+Potato,Uttrakhand,Haridwar,1.1384141235258742,509
+Potato,Uttrakhand,Nanital,1.0135565298389577,260
+Potato,Uttrakhand,UdhamSinghNagar,1.0017184183378636,758
+Potato,West Bengal,Alipurduar,1.0529959170354664,242
+Potato,West Bengal,Bankura,0.7315142758143934,550
+Potato,West Bengal,Birbhum,0.7548439068569828,523
+Potato,West Bengal,Burdwan,2.446655915981551,17
+Potato,West Bengal,Coochbehar,0.4638194146857888,1047
+Potato,West Bengal,Dakshin Dinajpur,0.1952727509075481,278
+Potato,West Bengal,Darjeeling,0.9345624018247145,284
+Potato,West Bengal,Hooghly,0.5802498861881628,577
+Potato,West Bengal,Howrah,0.4596679912238972,244
+Potato,West Bengal,Jalpaiguri,0.5298506143741525,447
+Potato,West Bengal,Jhargram,0.7381829766144792,129
+Potato,West Bengal,Kalimpong,1.7374678443452827,84
+Potato,West Bengal,Kolkata,0.5836557302197991,144
+Potato,West Bengal,Malda,0.768042389205767,359
+Potato,West Bengal,Medinipur (E),0.7369586413084608,254
+Potato,West Bengal,Medinipur (W),0.5780074753509821,371
+Potato,West Bengal,Murshidabad,0.48469940342189294,534
+Potato,West Bengal,Nadia,0.6627262256409733,720
+Potato,West Bengal,North 24 Parganas,0.4684419131587907,264
+Potato,West Bengal,Paschim Bardhaman,0.5352973276157732,268
+Potato,West Bengal,Purba Bardhaman,0.44492976206389157,687
+Potato,West Bengal,Puruliya,0.5641947339732292,377
+Potato,West Bengal,Sounth 24 Parganas,0.813328410376199,207
+Potato,West Bengal,Uttar Dinajpur,0.22179399930970708,127
+Tomato,Andaman and Nicobar,Nicobar,-3.07202670120966,17
+Tomato,Andaman and Nicobar,North and Middle Andaman,13.174915658740076,6
+Tomato,Andaman and Nicobar,South Andaman,-16.506887659047152,3
+Tomato,Andhra Pradesh,Chittor,0.5222773423074151,859
+Tomato,Andhra Pradesh,Krishna,0.9381674304594425,56
+Tomato,Andhra Pradesh,Kurnool,0.3246821368742229,128
+Tomato,Andhra Pradesh,Prakasam,4.991494927899676,23
+Tomato,Andhra Pradesh,Vijayanagaram,2.2939973299812095,2
+Tomato,Andhra Pradesh,Visakhapatnam,2.269679750908935,8
+Tomato,Andhra Pradesh,West Godavari,4.026115535258959,51
+Tomato,Arunachal Pradesh,Papum Pore,-6.769372483044449,13
+Tomato,Assam,Barpeta,1.1859407782095708,61
+Tomato,Assam,Cachar,-0.21633467945340487,22
+Tomato,Assam,Darrang,-0.34413858263797026,52
+Tomato,Assam,Dhubri,-4.201782017666083,5
+Tomato,Assam,Dibrugarh,3.8838076871995666,5
+Tomato,Assam,Goalpara,-4.13171330006822,6
+Tomato,Assam,Golaghat,-1.5933255395633599,49
+Tomato,Assam,Hailakandi,6.996685845019134,7
+Tomato,Assam,Jorhat,-1.8922293833769048,8
+Tomato,Assam,Kamrup,1.4082184840729768,44
+Tomato,Assam,Karbi Anglong,-3.8241229820901848,9
+Tomato,Assam,Kokrajhar,-4.4042679820909605,4
+Tomato,Assam,Lakhimpur,-4.521370646905467,2
+Tomato,Assam,MORIGAON,-3.5859134794773424,5
+Tomato,Assam,Nagaon,-5.024428669339324,18
+Tomato,Assam,Nalbari,-3.9368846266495954,8
+Tomato,Assam,Sibsagar,-1.6719864709232464,27
+Tomato,Assam,Sonitpur,2.769409563876857,18
+Tomato,Assam,Tinsukia,-0.9988361764286668,13
+Tomato,Bihar,Araria,5.573992203123622,26
+Tomato,Bihar,Arwal,2.389118981794423,8
+Tomato,Bihar,Aurangabad,4.3524778032167735,24
+Tomato,Bihar,Banka,1.7798634681633732,9
+Tomato,Bihar,Begusarai,5.32359720094953,19
+Tomato,Bihar,Bhagalpur,3.6657033436913453,41
+Tomato,Bihar,Bhojpur,8.697694236629658,2
+Tomato,Bihar,Buxar,5.820711894031034,14
+Tomato,Bihar,Chhapra,5.476932834843273,5
+Tomato,Bihar,Darbhanga,4.762383024913959,2
+Tomato,Bihar,East Champaran/ Motihari,3.6653431188138015,52
+Tomato,Bihar,Gaya,4.967849151171925,11
+Tomato,Bihar,Gopalgang,5.483360006413092,8
+Tomato,Bihar,Jamui,5.073169709535715,15
+Tomato,Bihar,Jehanabad,2.392599159473747,2
+Tomato,Bihar,Kaimur/Bhabhua,4.67407090464902,30
+Tomato,Bihar,Kaithar,5.14088752623447,17
+Tomato,Bihar,Khagaria,2.260017753865696,13
+Tomato,Bihar,Kishanganj,4.813992040821329,37
+Tomato,Bihar,Luckeesarai,4.797597847152725,13
+Tomato,Bihar,Madhepura,4.179533956795744,21
+Tomato,Bihar,Madhubani,4.304950798116494,32
+Tomato,Bihar,Munghair,5.073169709535715,15
+Tomato,Bihar,Nalanda,1.3122678722373542,7
+Tomato,Bihar,Nawada,4.109169211159769,16
+Tomato,Bihar,Patna,5.489516051413679,13
+Tomato,Bihar,Purnea,5.264874549789949,8
+Tomato,Bihar,Rohtas,3.3419222845435606,29
+Tomato,Bihar,Saharsa,3.603589267044859,17
+Tomato,Bihar,Samastipur,5.108173009592859,23
+Tomato,Bihar,Saran,4.618501823841571,7
+Tomato,Bihar,Sheikhpura,0.25746844165650223,22
+Tomato,Bihar,Sheohar,3.7092482013059396,11
+Tomato,Bihar,Sitamarhi,4.762383024913959,2
+Tomato,Bihar,Siwan,5.655971820431909,16
+Tomato,Bihar,Supaul,4.908644099661801,20
+Tomato,Bihar,Vaishali,4.624769690876278,20
+Tomato,Bihar,West Chambaran,5.7683053865268725,22
+Tomato,Chandigarh,Chandigarh,0.5910435860243698,96
+Tomato,Chattisgarh,Bilaspur,-0.2955425266788244,109
+Tomato,Chattisgarh,Durg,-0.3398074062518899,109
+Tomato,Chattisgarh,Raigarh,-0.4029581341000317,108
+Tomato,Chattisgarh,Rajnandgaon,-0.28177038903135443,91
+Tomato,Gujarat,Ahmedabad,0.10160723693139959,184
+Tomato,Gujarat,Amreli,-0.3599923311105189,98
+Tomato,Gujarat,Anand,-0.23894711984884004,248
+Tomato,Gujarat,Banaskanth,-0.39072553109036195,115
+Tomato,Gujarat,Bharuch,-0.06361415043843138,257
+Tomato,Gujarat,Bhavnagar,-2.2031553551782586,75
+Tomato,Gujarat,Botad,-0.7775780284312077,1
+Tomato,Gujarat,Dahod,-0.07898042821359012,146
+Tomato,Gujarat,Devbhumi Dwarka,-0.583531842262289,1
+Tomato,Gujarat,Gandhinagar,-0.20509748812396245,194
+Tomato,Gujarat,Gir Somnath,-0.1780984557034833,107
+Tomato,Gujarat,Junagarh,3.4007327183031926,4
+Tomato,Gujarat,Kachchh,2.250758442007202,27
+Tomato,Gujarat,Kheda,0.03756203038125942,276
+Tomato,Gujarat,Mehsana,0.7324868647047559,171
+Tomato,Gujarat,Morbi,0.4923866158176321,227
+Tomato,Gujarat,Navsari,-0.960040822613865,106
+Tomato,Gujarat,Patan,0.35398614740582424,23
+Tomato,Gujarat,Porbandar,-1.437576640431485,39
+Tomato,Gujarat,Rajkot,0.24509856709346176,188
+Tomato,Gujarat,Sabarkantha,4.198743324797003,3
+Tomato,Gujarat,Surat,1.0679578260636287,351
+Tomato,Gujarat,Surendranagar,0.05448147596764314,143
+Tomato,Gujarat,Vadodara (Baroda),0.10523461492217637,278
+Tomato,Haryana,Ambala,0.05467027414360517,689
+Tomato,Haryana,Bhiwani,-2.10337268072875,178
+Tomato,Haryana,Faridabad,0.1162496727633225,278
+Tomato,Haryana,Fatehabad,0.04064336075462972,409
+Tomato,Haryana,Gurgaon,-0.26790859685563884,382
+Tomato,Haryana,Hissar,-0.1523681411877604,412
+Tomato,Haryana,Jhajar,-0.6588537091575178,178
+Tomato,Haryana,Jind,0.3801144329815566,369
+Tomato,Haryana,Kaithal,-1.5479889672378584,249
+Tomato,Haryana,Karnal,0.23033361109616438,420
+Tomato,Haryana,Kurukshetra,0.46702607355459963,610
+Tomato,Haryana,Mahendragarh-Narnaul,0.26711353382873293,314
+Tomato,Haryana,Mewat,-0.1111551960251833,306
+Tomato,Haryana,Palwal,-1.3749440293224904,112
+Tomato,Haryana,Panchkula,-0.17557162414361685,317
+Tomato,Haryana,Panipat,-0.08874582752333536,338
+Tomato,Haryana,Rewari,-0.2523596472289975,144
+Tomato,Haryana,Rohtak,0.12010457554656391,293
+Tomato,Haryana,Sirsa,0.10577886598557566,417
+Tomato,Haryana,Sonipat,-0.003288796483103293,392
+Tomato,Haryana,Yamuna Nagar,0.29927046650433214,758
+Tomato,Himachal Pradesh,Bilaspur,0.971842539457161,147
+Tomato,Himachal Pradesh,Chamba,-0.016843974455113653,127
+Tomato,Himachal Pradesh,Hamirpur,-0.25591835676019414,255
+Tomato,Himachal Pradesh,Kangra,-0.7143251924058289,536
+Tomato,Himachal Pradesh,Kullu,-0.1746150293505314,414
+Tomato,Himachal Pradesh,Mandi,-0.07319717237784068,405
+Tomato,Himachal Pradesh,Shimla,-1.894898772284672,136
+Tomato,Himachal Pradesh,Sirmore,-0.8003340249200445,222
+Tomato,Himachal Pradesh,Solan,-0.13083103353781292,190
+Tomato,Himachal Pradesh,Una,-0.05679974294889198,214
+Tomato,Jammu and Kashmir,Anantnag,-3.243452079521642,62
+Tomato,Jammu and Kashmir,Badgam,10.645426896471614,3
+Tomato,Jammu and Kashmir,Jammu,-0.1994973987905583,348
+Tomato,Jammu and Kashmir,Kathua,0.4944952389802312,111
+Tomato,Jammu and Kashmir,Pulwama,-0.05467048470118013,21
+Tomato,Jammu and Kashmir,Rajouri,-0.8793371161030763,58
+Tomato,Jammu and Kashmir,Srinagar,-0.23421743952437357,101
+Tomato,Jammu and Kashmir,Udhampur,0.1685498480748983,204
+Tomato,Jharkhand,Deogarh,-0.21069246211884662,64
+Tomato,Jharkhand,Dumka,0.6244073357408979,4
+Tomato,Jharkhand,East Singhbhum,-1.0391011258776606,19
+Tomato,Jharkhand,Garhwa,-0.8821760470418771,41
+Tomato,Jharkhand,Giridih,-0.018914732751584198,9
+Tomato,Jharkhand,Gumla,0.7782310136891492,75
+Tomato,Jharkhand,Hazaribagh,0.8591247940256579,60
+Tomato,Jharkhand,Koderma,0.6488389716914172,48
+Tomato,Jharkhand,Latehar,0.2740635062600512,69
+Tomato,Jharkhand,Lohardaga,-0.8230655295295753,74
+Tomato,Jharkhand,Ranchi,0.23047962236091374,118
+Tomato,Jharkhand,Sahebgang,-3.814050052629203,10
+Tomato,Jharkhand,Saraikela (Kharsanwa),4.880425918734741,10
+Tomato,Jharkhand,Simdega,0.6593290824754292,42
+Tomato,Karnataka,Bangalore,0.12217384416843655,653
+Tomato,Karnataka,Belgaum,-0.3517293672809563,43
+Tomato,Karnataka,Bellary,0.3503700578186093,114
+Tomato,Karnataka,Chamrajnagar,-0.40235403679455384,186
+Tomato,Karnataka,Chikmagalur,0.24454284423026715,329
+Tomato,Karnataka,Chitradurga,0.7380993706577125,11
+Tomato,Karnataka,Davangere,0.06450449072362804,199
+Tomato,Karnataka,Dharwad,-5.179219119033111,9
+Tomato,Karnataka,Gadag,-7.608818545264498,6
+Tomato,Karnataka,Hassan,0.4224419743494523,195
+Tomato,Karnataka,Haveri,-4.540469942780917,7
+Tomato,Karnataka,Kalburgi,-0.05629181362859812,41
+Tomato,Karnataka,Karwar (Uttar Kannad),2.390736848198898,6
+Tomato,Karnataka,Kolar,-0.0719824917155914,952
+Tomato,Karnataka,Koppal,-10.760141330571125,3
+Tomato,Karnataka,Mandya,0.6487547599537968,120
+Tomato,Karnataka,Mangalore (Dakshin Kannad),0.3152990603977215,21
+Tomato,Karnataka,Mysore,-0.4598957603913667,290
+Tomato,Karnataka,Shimoga,0.38792786921690664,125
+Tomato,Karnataka,Tumkur,0.3611331145746154,30
+Tomato,Karnataka,Udupi,-0.40650213030306176,71
+Tomato,Kerala,Alappuzha,0.09850879095378527,923
+Tomato,Kerala,Ernakulam,-0.10901314231221203,1021
+Tomato,Kerala,Idukki,-0.15367694094672293,491
+Tomato,Kerala,Kannur,-1.3079930820820063,30
+Tomato,Kerala,Kasargod,-0.4592477364036737,230
+Tomato,Kerala,Kollam,0.09263504944750862,632
+Tomato,Kerala,Kottayam,-0.13213705388720376,1026
+Tomato,Kerala,Kozhikode (Calicut),-0.023106370219810886,765
+Tomato,Kerala,Malappuram,-0.0791077529758121,763
+Tomato,Kerala,Palakad,0.3876776972336119,750
+Tomato,Kerala,Thirssur,-0.1700425055485321,879
+Tomato,Kerala,Thiruvananthapuram,-0.3565114108654878,772
+Tomato,Kerala,Wayanad,3.5764426903354285,20
+Tomato,Madhya Pradesh,Alirajpur,1.1863088644689264,42
+Tomato,Madhya Pradesh,Anupur,-2.259106813778885,22
+Tomato,Madhya Pradesh,Badwani,0.4337247645192134,92
+Tomato,Madhya Pradesh,Betul,-1.9794139391889038,72
+Tomato,Madhya Pradesh,Bhopal,0.21707601719601388,106
+Tomato,Madhya Pradesh,Burhanpur,0.5557644896785293,87
+Tomato,Madhya Pradesh,Chhatarpur,-2.7223802745600776,9
+Tomato,Madhya Pradesh,Chhindwara,0.3733532139236146,129
+Tomato,Madhya Pradesh,Damoh,0.40046512185875704,78
+Tomato,Madhya Pradesh,Dewas,0.22985531254242947,255
+Tomato,Madhya Pradesh,Dhar,0.15071895333930133,355
+Tomato,Madhya Pradesh,Guna,3.3122487393500557,68
+Tomato,Madhya Pradesh,Gwalior,0.35364553001263893,122
+Tomato,Madhya Pradesh,Harda,0.034005494259689045,228
+Tomato,Madhya Pradesh,Hoshangabad,0.08139977315745213,129
+Tomato,Madhya Pradesh,Indore,0.25655291096321753,249
+Tomato,Madhya Pradesh,Jabalpur,-0.07148398439225143,98
+Tomato,Madhya Pradesh,Jhabua,0.22246905618787585,128
+Tomato,Madhya Pradesh,Katni,-9.259170379083173,6
+Tomato,Madhya Pradesh,Khandwa,0.3009601620126762,172
+Tomato,Madhya Pradesh,Khargone,0.010198998197180382,81
+Tomato,Madhya Pradesh,Mandsaur,0.6945283069324357,164
+Tomato,Madhya Pradesh,Morena,0.5263588650372834,161
+Tomato,Madhya Pradesh,Narsinghpur,-0.6036070315665556,18
+Tomato,Madhya Pradesh,Rajgarh,-0.04708920654811142,170
+Tomato,Madhya Pradesh,Ratlam,-0.47189918499857253,35
+Tomato,Madhya Pradesh,Rewa,-3.721700236260183,2
+Tomato,Madhya Pradesh,Sagar,-0.08743486125708613,228
+Tomato,Madhya Pradesh,Satna,3.2529829928809573,15
+Tomato,Madhya Pradesh,Sehore,-0.37393657557329824,41
+Tomato,Madhya Pradesh,Seoni,-9.672963988374022,7
+Tomato,Madhya Pradesh,Shajapur,2.802456622428443,48
+Tomato,Madhya Pradesh,Sheopur,0.7778451397310925,113
+Tomato,Madhya Pradesh,Shivpuri,0.166278382941755,90
+Tomato,Madhya Pradesh,Singroli,1.3715394777188639,18
+Tomato,Madhya Pradesh,Ujjain,0.23551827052211186,118
+Tomato,Maharashtra,Ahmednagar,-0.32781020787817794,584
+Tomato,Maharashtra,Amarawati,0.2184917484584163,126
+Tomato,Maharashtra,Chandrapur,-0.007868391671251402,125
+Tomato,Maharashtra,Chattrapati Sambhajinagar,0.19873723161188447,140
+Tomato,Maharashtra,Dharashiv (Usmanabad),-2.043235466412693,30
+Tomato,Maharashtra,Jalgaon,-0.3734184617087908,195
+Tomato,Maharashtra,Kolhapur,-0.024466530317661835,321
+Tomato,Maharashtra,Mumbai,-1.1789328543327056,81
+Tomato,Maharashtra,Nagpur,-0.19669227801649442,572
+Tomato,Maharashtra,Nandurbar,-0.41696361304311397,102
+Tomato,Maharashtra,Nashik,-0.18024580164058437,435
+Tomato,Maharashtra,Parbhani,1.391421264070491,8
+Tomato,Maharashtra,Pune,-0.3802891437587949,747
+Tomato,Maharashtra,Raigad,-1.0093125073101172,125
+Tomato,Maharashtra,Ratnagiri,-0.3829405538169807,131
+Tomato,Maharashtra,Sangli,-0.47146514103945014,264
+Tomato,Maharashtra,Satara,0.1602723029743305,647
+Tomato,Maharashtra,Sholapur,0.3519369076353938,538
+Tomato,Maharashtra,Thane,0.4518912823187253,147
+Tomato,Meghalaya,East Khasi Hills,0.3566138629359278,98
+Tomato,Meghalaya,South Garo Hills,-2.97681411533619,5
+Tomato,Meghalaya,South West Garo Hills,2.64860532505822,8
+Tomato,Meghalaya,West Garo Hills,0.0803712338692506,31
+Tomato,Meghalaya,West Jaintia Hills,-4.124610242427616,15
+Tomato,Meghalaya,West Khasi Hills,-7.345717359569096,7
+Tomato,Mizoram,Aizawl,-0.224806657405898,23
+Tomato,Mizoram,Lungli,3.151572780958555,12
+Tomato,NCT of Delhi,Delhi,-0.1724043617581637,419
+Tomato,Nagaland,Dimapur,-1.3904839270230671,24
+Tomato,Nagaland,Kiphire,-3.4818147686964385,22
+Tomato,Nagaland,Kohima,0.05723881439647869,40
+Tomato,Nagaland,Longleng,-6.78116548212344,8
+Tomato,Nagaland,Mokokchung,2.3637213243492243,11
+Tomato,Nagaland,Mon,16.248247289289623,1
+Tomato,Nagaland,Peren,-7.172831364778188,5
+Tomato,Nagaland,Phek,1.1515841688250745,8
+Tomato,Nagaland,Tsemenyu,-0.772862439951281,5
+Tomato,Nagaland,Tuensang,-3.523329265955759,9
+Tomato,Nagaland,Wokha,-1.8123212006000813,1
+Tomato,Nagaland,Zunheboto,0.427841329496232,2
+Tomato,Odisha,Angul,1.2060661433354922,250
+Tomato,Odisha,Balasore,0.07924514022639256,391
+Tomato,Odisha,Bargarh,-0.107314819764056,546
+Tomato,Odisha,Bhadrak,0.2888869096352507,358
+Tomato,Odisha,Bolangir,0.11996826655781516,378
+Tomato,Odisha,Boudh,-0.40550682517206343,230
+Tomato,Odisha,Cuttack,0.8596468982147365,228
+Tomato,Odisha,Deogarh,2.763176398689743,56
+Tomato,Odisha,Dhenkanal,0.22128654639823794,503
+Tomato,Odisha,Gajapati,-0.25061732333571746,224
+Tomato,Odisha,Ganjam,0.6839332357176459,282
+Tomato,Odisha,Jagatsinghpur,1.460104790692507,9
+Tomato,Odisha,Jajpur,0.9160757071113808,199
+Tomato,Odisha,Kalahandi,0.12641943515198276,467
+Tomato,Odisha,Kandhamal,3.7653442106911443,37
+Tomato,Odisha,Kendrapara,-0.3001421486074754,615
+Tomato,Odisha,Keonjhar,-0.15170229877585487,381
+Tomato,Odisha,Khurda,-0.18862281403874345,175
+Tomato,Odisha,Koraput,1.1572367663326404,293
+Tomato,Odisha,Malkangiri,0.2964517683554178,175
+Tomato,Odisha,Mayurbhanja,-0.167531441674485,533
+Tomato,Odisha,Nayagarh,-0.24662188995883802,213
+Tomato,Odisha,Nowarangpur,2.1693620554898785,66
+Tomato,Odisha,Nuapada,0.15448099291945921,276
+Tomato,Odisha,Puri,-0.6961255296197211,63
+Tomato,Odisha,Rayagada,-1.0736788446906171,133
+Tomato,Odisha,Sambalpur,0.17399227568758208,167
+Tomato,Odisha,Sonepur,-0.8232386084318042,216
+Tomato,Odisha,Sundergarh,-0.6459887647905564,325
+Tomato,Punjab,Amritsar,-0.3746810848273644,341
+Tomato,Punjab,Barnala,0.048437767980113164,164
+Tomato,Punjab,Bhatinda,-0.1676259221401953,677
+Tomato,Punjab,Faridkot,-0.005943548072452328,240
+Tomato,Punjab,Fatehgarh,0.23288425604456447,401
+Tomato,Punjab,Fazilka,-0.025285578889066164,368
+Tomato,Punjab,Ferozpur,-0.2419990267820639,690
+Tomato,Punjab,Gurdaspur,-0.005780056019879899,659
+Tomato,Punjab,Hoshiarpur,0.030278812695383326,872
+Tomato,Punjab,Jalandhar,-0.539336546009554,928
+Tomato,Punjab,Ludhiana,0.0691587082078723,868
+Tomato,Punjab,Mansa,0.03514164086382439,333
+Tomato,Punjab,Moga,-0.5368000562160358,413
+Tomato,Punjab,Mohali,0.10630342689492328,675
+Tomato,Punjab,Muktsar,-0.21989819436727917,476
+Tomato,Punjab,Nawanshahr,-0.6751617043365294,349
+Tomato,Punjab,Pathankot,-0.21321412068791176,102
+Tomato,Punjab,Patiala,-0.16239373609252142,812
+Tomato,Punjab,Ropar (Rupnagar),0.3092324931285308,303
+Tomato,Punjab,Sangrur,-0.17450774229958235,934
+Tomato,Punjab,Tarntaran,-0.2773923086897683,321
+Tomato,Punjab,kapurthala,-0.5348503847128113,273
+Tomato,Rajasthan,Ajmer,-0.691333940687947,272
+Tomato,Rajasthan,Alwar,-0.3512635967854395,146
+Tomato,Rajasthan,Balotra,-3.8874971853431313,6
+Tomato,Rajasthan,Baran,-1.1357720822434985,11
+Tomato,Rajasthan,Barmer,-5.677963608139553,36
+Tomato,Rajasthan,Beawar,-4.733983490103306,5
+Tomato,Rajasthan,Bharatpur,-0.2397690419353725,189
+Tomato,Rajasthan,Bhilwara,-1.1062770905041126,56
+Tomato,Rajasthan,Bikaner,-0.734898370328388,62
+Tomato,Rajasthan,Chittorgarh,0.24178090765327245,195
+Tomato,Rajasthan,Churu,-0.8501311524481252,95
+Tomato,Rajasthan,Dungarpur,-3.0805208336281282,5
+Tomato,Rajasthan,Ganganagar,-0.6859638071600417,140
+Tomato,Rajasthan,Hanumangarh,-0.8261028159172742,422
+Tomato,Rajasthan,Jaipur,0.05127010386520486,251
+Tomato,Rajasthan,Jaipur Rural,-3.8874971853431313,12
+Tomato,Rajasthan,Jalore,0.25919945853683524,146
+Tomato,Rajasthan,Jhunjhunu,-3.760722493030664,5
+Tomato,Rajasthan,Jhunjunu,-1.1147213280058281,45
+Tomato,Rajasthan,Jodhpur,-0.35934371801106907,125
+Tomato,Rajasthan,Karauli,-26.365026886167016,1
+Tomato,Rajasthan,Kota,-0.0633770256107905,129
+Tomato,Rajasthan,Kotputli- Behror,-5.121926472146171,3
+Tomato,Rajasthan,Nagaur,0.7409902977152494,53
+Tomato,Rajasthan,Pali,-0.2998870849923661,115
+Tomato,Rajasthan,Rajasamand,-1.446437673340178,72
+Tomato,Rajasthan,Rajsamand,-3.8874971853431313,6
+Tomato,Rajasthan,Sanchore,-2.552029358201615,2
+Tomato,Rajasthan,Sikar,-1.3649030496353594,119
+Tomato,Rajasthan,Sirohi,-1.3261852110302028,84
+Tomato,Rajasthan,Swai Madhopur,-5.111664572084186,5
+Tomato,Rajasthan,Tonk,-4.582638096491159,4
+Tomato,Rajasthan,Udaipur,0.03931380347033953,142
+Tomato,Tamil Nadu,Ariyalur,-4.177108096526994,16
+Tomato,Tamil Nadu,Chengalpattu,-3.8874971853431313,48
+Tomato,Tamil Nadu,Coimbatore,-3.775475115895389,62
+Tomato,Tamil Nadu,Cuddalore,-4.119185914290222,30
+Tomato,Tamil Nadu,Dharmapuri,-4.131380057919015,38
+Tomato,Tamil Nadu,Dindigul,-4.052989134591053,28
+Tomato,Tamil Nadu,Erode,-4.177108096526994,48
+Tomato,Tamil Nadu,Kallakuruchi,-3.8874971853431313,12
+Tomato,Tamil Nadu,Kancheepuram,-4.098123302567759,22
+Tomato,Tamil Nadu,Karur,-3.976608234938166,26
+Tomato,Tamil Nadu,Krishnagiri,-4.080571126132373,36
+Tomato,Tamil Nadu,Madurai,-3.949535060020529,47
+Tomato,Tamil Nadu,Nagapattinam,-4.177108096526994,24
+Tomato,Tamil Nadu,Nagercoil (Kannyiakumari),-3.7553437646428147,13
+Tomato,Tamil Nadu,Namakkal,-3.9586137733879534,41
+Tomato,Tamil Nadu,Perambalur,-3.8874971853431313,6
+Tomato,Tamil Nadu,Pudukkottai,-4.052989134591053,42
+Tomato,Tamil Nadu,Ramanathapuram,-4.273645066921615,18
+Tomato,Tamil Nadu,Ranipet,-3.8874971853431313,12
+Tomato,Tamil Nadu,Salem,-3.984034155737752,72
+Tomato,Tamil Nadu,Sivaganga,-4.080571126132373,36
+Tomato,Tamil Nadu,Tenkasi,-3.8874971853431313,12
+Tomato,Tamil Nadu,Thanjavur,-4.177108096526994,32
+Tomato,Tamil Nadu,The Nilgiris,-3.8874971853431313,18
+Tomato,Tamil Nadu,Theni,-4.072848168500803,50
+Tomato,Tamil Nadu,Thiruchirappalli,-4.028920628567688,37
+Tomato,Tamil Nadu,Thirunelveli,-4.080571126132373,36
+Tomato,Tamil Nadu,Thirupathur,-3.8874971853431313,12
+Tomato,Tamil Nadu,Thirupur,-3.8874971853431313,30
+Tomato,Tamil Nadu,Thiruvannamalai,-4.1102748093307175,52
+Tomato,Tamil Nadu,Thiruvarur,-4.048336952423649,49
+Tomato,Tamil Nadu,Thiruvellore,-3.9828877444246684,28
+Tomato,Tamil Nadu,Tuticorin,-4.177108096526994,16
+Tomato,Tamil Nadu,Vellore,-4.033286190835016,40
+Tomato,Tamil Nadu,Villupuram,-4.022676913427919,26
+Tomato,Tamil Nadu,Virudhunagar,-3.976608234938166,52
+Tomato,Telangana,Adilabad,-0.9099467638886999,54
+Tomato,Telangana,Hyderabad,0.10437818627867283,470
+Tomato,Telangana,Karimnagar,-0.2117809665919861,44
+Tomato,Telangana,Khammam,-0.4873101271430927,56
+Tomato,Telangana,Mahbubnagar,-0.05594846087437796,233
+Tomato,Telangana,Medak,-0.5457066096183499,162
+Tomato,Telangana,Nalgonda,-0.35658928595098,62
+Tomato,Telangana,Ranga Reddy,0.27219002139349924,427
+Tomato,Telangana,Warangal,-0.7354670392614997,65
+Tomato,Tripura,Dhalai,-2.2921801799941233,103
+Tomato,Tripura,Gomati,-0.8272746157084097,159
+Tomato,Tripura,Khowai,0.42605114269429745,206
+Tomato,Tripura,North Tripura,-0.9344281087944546,215
+Tomato,Tripura,Sepahijala,-0.22530024830346973,364
+Tomato,Tripura,South District,-0.2884845957374519,174
+Tomato,Tripura,Unokoti,-1.3174094972723658,82
+Tomato,Tripura,West District,-0.5172503617603912,201
+Tomato,Uttar Pradesh,Agra,-0.9494188137200825,628
+Tomato,Uttar Pradesh,Aligarh,-0.5436348312278764,423
+Tomato,Uttar Pradesh,Ambedkarnagar,-0.5909531976828452,132
+Tomato,Uttar Pradesh,Amethi,-0.1716383133073029,224
+Tomato,Uttar Pradesh,Amroha,-1.8371618333051905,207
+Tomato,Uttar Pradesh,Auraiya,-0.20630272552822684,343
+Tomato,Uttar Pradesh,Ayodhya,-0.38786371212251686,222
+Tomato,Uttar Pradesh,Azamgarh,-0.08124927379312369,113
+Tomato,Uttar Pradesh,Badaun,-0.32041734049583553,371
+Tomato,Uttar Pradesh,Baghpat,-0.8112678217582426,263
+Tomato,Uttar Pradesh,Bahraich,-0.35121726733651226,241
+Tomato,Uttar Pradesh,Ballia,-1.068752513200084,201
+Tomato,Uttar Pradesh,Balrampur,-1.0906239314316677,155
+Tomato,Uttar Pradesh,Banda,-0.028116238912348247,285
+Tomato,Uttar Pradesh,Barabanki,-0.4961568726426559,235
+Tomato,Uttar Pradesh,Bareilly,-0.7196389423118196,240
+Tomato,Uttar Pradesh,Basti,-0.9753438606632773,88
+Tomato,Uttar Pradesh,Bhadohi (Sant Ravi Nagar),-0.5635699312274663,58
+Tomato,Uttar Pradesh,Bijnor,-0.9683824076784449,437
+Tomato,Uttar Pradesh,Bulandshahar,-0.3308348690594489,939
+Tomato,Uttar Pradesh,Chandauli,-1.2795197948038177,90
+Tomato,Uttar Pradesh,Chitrakut,-0.6547212350750758,79
+Tomato,Uttar Pradesh,Deoria,-0.11690332994926364,172
+Tomato,Uttar Pradesh,Etah,-0.3924468825002918,246
+Tomato,Uttar Pradesh,Etawah,-0.4077974757414155,380
+Tomato,Uttar Pradesh,Farukhabad,-1.0589654574873284,244
+Tomato,Uttar Pradesh,Fatehpur,-0.2707912560404439,358
+Tomato,Uttar Pradesh,Firozabad,-0.5906854988297715,473
+Tomato,Uttar Pradesh,Gautam Budh Nagar,-0.05501105433957406,193
+Tomato,Uttar Pradesh,Ghaziabad,-0.48245028442271265,408
+Tomato,Uttar Pradesh,Ghazipur,-4.012102546408609,7
+Tomato,Uttar Pradesh,Gonda,-0.9376873505121057,223
+Tomato,Uttar Pradesh,Gorakhpur,-0.4118359847764795,299
+Tomato,Uttar Pradesh,Hamirpur,-0.30965791773978935,333
+Tomato,Uttar Pradesh,Hapur,-0.043721851103910706,173
+Tomato,Uttar Pradesh,Hardoi,-0.6843651520582567,467
+Tomato,Uttar Pradesh,Hathras,-0.7429357128232658,229
+Tomato,Uttar Pradesh,Jalaun (Orai),-0.23154326493768113,347
+Tomato,Uttar Pradesh,Jaunpur,-0.7389008862035846,301
+Tomato,Uttar Pradesh,Jhansi,-0.6490534864745822,362
+Tomato,Uttar Pradesh,Kannuj,0.16314484747469218,223
+Tomato,Uttar Pradesh,Kanpur,-0.7190878951191927,352
+Tomato,Uttar Pradesh,Kanpur Dehat,0.386733122149614,298
+Tomato,Uttar Pradesh,Kasganj,-0.13864487309128729,140
+Tomato,Uttar Pradesh,Kaushambi,-1.3824623533477645,48
+Tomato,Uttar Pradesh,Khiri (Lakhimpur),-1.2608370607859696,157
+Tomato,Uttar Pradesh,Kushinagar,-1.4326458578147347,70
+Tomato,Uttar Pradesh,Lakhimpur,-0.643535460718472,299
+Tomato,Uttar Pradesh,Lalitpur,0.5313172369545023,116
+Tomato,Uttar Pradesh,Lucknow,0.004787183980611912,143
+Tomato,Uttar Pradesh,Maharajganj,-0.6446703069153817,375
+Tomato,Uttar Pradesh,Mahoba,-0.40048107375718195,102
+Tomato,Uttar Pradesh,Mainpuri,-0.35219517238609893,264
+Tomato,Uttar Pradesh,Mathura,-0.517584120414199,253
+Tomato,Uttar Pradesh,Mau (Maunathbhanjan),-1.2903411327257692,121
+Tomato,Uttar Pradesh,Meerut,0.4664777522486807,352
+Tomato,Uttar Pradesh,Mirzapur,-0.7410658251325379,165
+Tomato,Uttar Pradesh,Muzaffarnagar,0.12492010002994726,288
+Tomato,Uttar Pradesh,Pillibhit,-0.3727611561037961,327
+Tomato,Uttar Pradesh,Pratapgarh,0.3349465126221718,134
+Tomato,Uttar Pradesh,Prayagraj,0.08484100379970698,385
+Tomato,Uttar Pradesh,Raebarelli,-0.7440500732429933,337
+Tomato,Uttar Pradesh,Rampur,-0.06817252821220818,221
+Tomato,Uttar Pradesh,Saharanpur,-0.686860792168011,485
+Tomato,Uttar Pradesh,Sambhal,-0.0836617717455925,342
+Tomato,Uttar Pradesh,Sant Kabir Nagar,-0.7821505050272919,81
+Tomato,Uttar Pradesh,Shahjahanpur,-0.5147409638226896,418
+Tomato,Uttar Pradesh,Shamli,-1.0913939088024078,322
+Tomato,Uttar Pradesh,Shravasti,0.21671241143340828,66
+Tomato,Uttar Pradesh,Siddharth Nagar,-0.3751160914832819,168
+Tomato,Uttar Pradesh,Sitapur,-0.49929939164014525,248
+Tomato,Uttar Pradesh,Sonbhadra,-1.2822021943503543,131
+Tomato,Uttar Pradesh,Unnao,-0.4533122528865633,311
+Tomato,Uttar Pradesh,Varanasi,-0.19512998023022998,141
+Tomato,Uttrakhand,Champawat,0.1985418430683189,9
+Tomato,Uttrakhand,Dehradoon,0.009173206359245793,418
+Tomato,Uttrakhand,Garhwal (Pauri),0.17008818631575642,127
+Tomato,Uttrakhand,Haridwar,-0.28475144252894624,383
+Tomato,Uttrakhand,Nanital,-0.2716314445436818,262
+Tomato,Uttrakhand,UdhamSinghNagar,0.044366581819436486,705
+Tomato,West Bengal,Alipurduar,0.14517881931692256,234
+Tomato,West Bengal,Bankura,-1.020658076527696,98
+Tomato,West Bengal,Birbhum,-0.15252648724762471,346
+Tomato,West Bengal,Coochbehar,-0.001865249400835071,433
+Tomato,West Bengal,Dakshin Dinajpur,-0.6323677157786095,186
+Tomato,West Bengal,Darjeeling,0.0671134627029588,233
+Tomato,West Bengal,Hooghly,-0.14355738608947138,158
+Tomato,West Bengal,Howrah,0.13237466676144014,241
+Tomato,West Bengal,Jalpaiguri,-0.43242756827203055,256
+Tomato,West Bengal,Kolkata,-0.045826997583737615,144
+Tomato,West Bengal,Malda,4.467651509887369,40
+Tomato,West Bengal,Medinipur (E),0.04132817792909093,106
+Tomato,West Bengal,Medinipur (W),-0.17586062296631086,269
+Tomato,West Bengal,Nadia,-0.0723103033146198,243
+Tomato,West Bengal,North 24 Parganas,0.21008304406737066,249
+Tomato,West Bengal,Paschim Bardhaman,-0.2035831579209428,272
+Tomato,West Bengal,Purba Bardhaman,-0.11338264331246116,424
+Tomato,West Bengal,Puruliya,0.6886685164784323,265
+Tomato,West Bengal,Sounth 24 Parganas,-0.5452577342270555,179

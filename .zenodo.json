@@ -1,0 +1,14 @@
+{
+  "title": "Operation Greens and Mandi Price Volatility — Replication Package",
+  "upload_type": "software",
+  "description": "Replication package for 'Did Operation Greens Stabilize Food Prices? Causal Evidence from India's Mandi Markets' (submitted to Agricultural Economics). Scripts, derived panels, estimation results, and figures. Raw Agmarknet data are public on Kaggle and not redistributed.",
+  "creators": [
+    {
+      "name": "Dagar, Harsh",
+      "affiliation": "ICAR-National Dairy Research Institute, Karnal",
+      "orcid": "0009-0008-7394-130X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Operation Greens", "price volatility", "double machine learning", "difference-in-differences", "India", "replication"]
+}

@@ -1,0 +1,101 @@
+{
+  "main": {
+    "LightGBM": {
+      "ate_log_cv": 0.00363,
+      "se": 0.002415,
+      "ci90_low": -0.00034,
+      "ci90_high": 0.00761,
+      "pct_change_cv": 0.364,
+      "significant": false
+    },
+    "RandomForest": {
+      "ate_log_cv": -0.00789,
+      "se": 0.002292,
+      "ci90_low": -0.01166,
+      "ci90_high": -0.00412,
+      "pct_change_cv": -0.786,
+      "significant": true
+    },
+    "Ridge": {
+      "ate_log_cv": -0.12276,
+      "se": 0.002778,
+      "ci90_low": -0.12733,
+      "ci90_high": -0.11819,
+      "pct_change_cv": -11.553,
+      "significant": true
+    }
+  },
+  "covid_excluded": {
+    "LightGBM": {
+      "ate_log_cv": 0.00185,
+      "se": 0.002691,
+      "ci90_low": -0.00258,
+      "ci90_high": 0.00628,
+      "pct_change_cv": 0.185,
+      "significant": false
+    },
+    "RandomForest": {
+      "ate_log_cv": -0.00833,
+      "se": 0.002572,
+      "ci90_low": -0.01256,
+      "ci90_high": -0.00409,
+      "pct_change_cv": -0.829,
+      "significant": true
+    },
+    "Ridge": {
+      "ate_log_cv": -0.13875,
+      "se": 0.003103,
+      "ci90_low": -0.14386,
+      "ci90_high": -0.13365,
+      "pct_change_cv": -12.956,
+      "significant": true
+    }
+  },
+  "placebo_2015": {
+    "LightGBM": {
+      "ate_log_cv": 0.00172,
+      "se": 0.003595,
+      "ci90_low": -0.00419,
+      "ci90_high": 0.00763,
+      "pct_change_cv": 0.172,
+      "significant": false
+    },
+    "RandomForest": {
+      "ate_log_cv": -0.00768,
+      "se": 0.003506,
+      "ci90_low": -0.01345,
+      "ci90_high": -0.00191,
+      "pct_change_cv": -0.765,
+      "significant": true
+    },
+    "Ridge": {
+      "ate_log_cv": -0.1348,
+      "se": 0.004136,
+      "ci90_low": -0.1416,
+      "ci90_high": -0.128,
+      "pct_change_cv": -12.611,
+      "significant": true
+    }
+  },
+  "cate_summary": {
+    "mean_cate": 0.6811344241420632,
+    "p25_cate": -7.922378943918147,
+    "p75_cate": 10.546888552009477,
+    "blp_slope": -0.39770936759896286,
+    "blp_pval": 0.0,
+    "heterogeneity_validated": true
+  },
+  "notes": {
+    "treatment": "TOP_c \u00d7 post_t (binary DiD)",
+    "outcome": "log monthly price CV per mandi-crop",
+    "n_obs_main": 478050,
+    "n_folds": 5,
+    "fold_cluster": "mandi",
+    "learners": [
+      "LightGBM",
+      "RandomForest",
+      "Ridge"
+    ],
+    "policy_date": "2018-11-01"
+  }
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "Operation Greens and Mandi Price Volatility — Replication Package"
+authors:
+  - family-names: Dagar
+    given-names: Harsh
+    orcid: "https://orcid.org/0009-0008-7394-130X"
+    email: harshdagar5879@gmail.com
+    affiliation: "ICAR-National Dairy Research Institute, Karnal"
+version: "1.0.0"
+license: MIT
+type: software
+abstract: >-
+  Replication package for the Agricultural Economics manuscript evaluating
+  India's Operation Greens with a Double Machine Learning difference-in-differences
+  design on daily Agmarknet mandi prices (2013-2024): scripts, derived panels,
+  estimation results, and figures.
+keywords:
+  - Operation Greens
+  - price volatility
+  - double machine learning
+  - difference-in-differences
+  - spatial econometrics
+  - India
+  - replication

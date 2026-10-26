@@ -1,0 +1,35 @@
+# SHA-256  path (relative to package root)
+# --- shipped derived files ---
+3bfac424e1aff17b8572b3c2bfbf22929708233ca7c9f40d9cc5194c41399e22  02-analysis/cv_panel.parquet
+18e0ef22964fb89dc4499c08f0c7598cae25323f581ebcc4f09bfe03eff90061  02-analysis/volatility_yearly.csv
+234a394f85252d5b877d08eca005f2af0c78d7f3abd11ff9b1bd7e7c5721a0af  02-analysis/volatility_state.csv
+b13ec534207530fada9b40a174786eb439473c6f64f1a71710184fec5885b5ad  02-analysis/volatility_state_delta.csv
+1d79280796197e1975f7b0706382740ea6e392b59ec8548f534fb45e2be26738  02-analysis/volatility_mandi_top50.csv
+559b38cef53b21e83a2a8dace1efb596109af3ef90e4213318573b04d851e343  02-analysis/volatility_mandi_all.csv
+84dfe3cbf07abeb205fa93473cab89e3cc8ba5be9de41f10b391bae1b521d576  02-analysis/volatility_monthly.csv
+535fb15c5a75bfe7ff6f05ef41d122d6029b673dde4b658f77538841fc25d500  02-analysis/summary_stats.csv
+03370e43a537c0832329e57cfa660336da576b52a2c2036b4d5a47700f23eafd  02-analysis/stl_components.csv
+4c4ef7267facd5cbe4e59540cd4b30d8d8d79e82f1d9c11ce1f5f0e7fec36895  02-analysis/structural_breaks.csv
+1605bdba390fde18650ccb8c9ce0385eff2c507f2dedce388dfd21afa73ff6a3  02-analysis/peak_volatility_years.csv
+9e599fe479c937fe5025d642f87cbcb13983d973c6f1e7eaac6c4cf324e3fa32  02-analysis/moran_global.csv
+95d1425960cb93cda5fb0b209db78b44324384b5032fb4008eb4d1d76b51e36a  02-analysis/moran_local.csv
+9e2c65d8fa638d5d6ad89da74ee84b77bb4424ce4769e79a616eff3e324de8fc  02-analysis/dml_results_og.json
+d57adf8bfaff33e201350fdd87a84cc3cf127c0f982168451be906209db02ffd  02-analysis/table4_clustered_se.json
+e2dacc377b17ed2a538633798d9864e73de664333d108880595ffe23c912b6f2  02-analysis/dml_overlap.csv
+3d1a6bea3bb5d54b4097eca1ba0e42a014d304ab72aa1b66a94e24bb93a8dc64  02-analysis/cate_og.parquet
+d31b5a2ab36d8e71ad2da27f9f5e04301451f94f4edccc0639005bf08adf63d0  02-analysis/dml_cate_district.csv
+2ee88bfdcaade2f36b67937085fb5d443bebf6f3557e1a89a3a201d3e6b6a3b3  02-analysis/revision_results.json
+# --- raw inputs used (not shipped; Kaggle khandelwalmanas/daily-commodity-prices-india) ---
+c7d11474fa870daf8e1256ec40cbf28535cc93941fceac4a63d9b16119f6c233  01-data/archive (4)/parquet/2013.parquet
+9cc5ee92189303bd270fce5f8e0a7797f2187c3234c2ef42794d24d2186250a0  01-data/archive (4)/parquet/2014.parquet
+376d32df9c2258e810149c154be4da4ec10a61b5d6333943b869e3301e709524  01-data/archive (4)/parquet/2015.parquet
+553ee6cdebfb21c552891cffd5e698c1cec9a5129739ead24cd76c2ff2bcc720  01-data/archive (4)/parquet/2016.parquet
+8d45fd5058fd9e97b02faeef3a4e557aed33d2b79365ae8e45e86987c5a80b7d  01-data/archive (4)/parquet/2017.parquet
+1798cc66756145ab2abf8b46fc708237abb22a8b0ff2a2e20b1efa9c1601b338  01-data/archive (4)/parquet/2018.parquet
+3088e6f8f14a53188b2a31c176e634692f2f7bb2f8225e9f6c1b90cab013e46f  01-data/archive (4)/parquet/2019.parquet
+6b8621a84d4dc1c28351df9144c1a446556c0491b122c0c8a2067f80c8609332  01-data/archive (4)/parquet/2020.parquet
+2f471ceaca3c6b2d0ae77cea46b6697be91cad28fab79a6b529521f57689d74e  01-data/archive (4)/parquet/2021.parquet
+f9c14732c462349fa66efd5f5c9ec16b084a31cc75af15c0b27d97c3d2144984  01-data/archive (4)/parquet/2022.parquet
+cd273530a70b948974ba2d2afbe149d07f71e3f4aa7bc2189edd3477feaa0fce  01-data/archive (4)/parquet/2023.parquet
+199863fd6e9c4e4838a453d20b75c0143516a23adb5749fd7d97ef57ae7d067d  01-data/archive (4)/parquet/2024.parquet
+ca884ac75aa052473d0bff0745810c2684edf59354aabaf668ffbb42ab2b7675  01-data/geo/gadm41_IND_2.json
