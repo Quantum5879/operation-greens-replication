@@ -64,7 +64,7 @@ Original run: Python 3.13, Windows 11. Learners use `random_state=0`; NumPy is s
 
 ## Citation
 
-Cite the paper and the archived replication package: https://doi.org/10.5281/zenodo.23660550 (all versions). See `CITATION.cff`.
+Cite the paper and the archived replication package, version 1.0.2: https://doi.org/10.5281/zenodo.23660746. The all-versions DOI is https://doi.org/10.5281/zenodo.23660550. See `CITATION.cff`.
 
 ## Licence
 
