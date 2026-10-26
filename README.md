@@ -35,6 +35,8 @@ The folder mirrors the original project, so the scripts run unmodified (each scr
 
 Table 4's confidence intervals are the mandi-clustered 95% CIs in `table4_clustered_se.json`; `dml_results_og.json` also stores the unclustered (i.i.d.) SEs, which are roughly 2.5-3x smaller. Figure 8 is drawn from the clustered CIs.
 
+**Verified end-to-end (2026-10-26, original environment: Python 3.13, Windows 11).** A full rerun from the raw Kaggle parquet inputs reproduced every estimate in the paper: all Table 4 ATEs and mandi-clustered 95% CIs are identical to all reported digits, as are the volatility panel (6,090,109 rows, 2,071 mandis), the Moran's I values, the MDE (0.95%), and the pre-trend Wald statistic. The volatility/spatial CSVs and Figures 1-9 regenerate byte-identical; the ML-step outputs (parquet serialization, the CATE summary, Figure 10) match to all reported digits and vary across runs only in runtime metadata and last-digit floats.
+
 ## Quick start
 
 ```bash
